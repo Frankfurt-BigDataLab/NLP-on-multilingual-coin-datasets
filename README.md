@@ -14,7 +14,9 @@ Access relevant information from iconographies of the Corpus Numorum Online usin
 ## Credits
 This project is based on a number of theses:
 Patricia Klinger: [Natural Language Processing to enable semantic search on numismatic descriptions](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2021/11/Bachelorthesis-Patricia-Klinger-final-version.pdf).
+
 Sebastian Gampe: [Kombination maschineller Lernmethoden der Bild- und Texterkennung auf antiken Münzdaten ](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2021/11/Arbeit_Sebastian_finale_Fassung_28_03_19-1.pdf) 
+
 Kerim Gencer und Chrisowalandis Deligio: [Natural Language Processing auf mehrsprachigen Münzdatensätzen – Untersuchung der Qualität, Datenqualität und Übertragbarkeit auf andere Datensätze](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2021/11/Masterthesis_Deligio_Gencer_DBISOnline.pdf)
 
 -----------
