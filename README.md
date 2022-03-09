@@ -1,0 +1,24 @@
+# NLP-on-multilingual-coin-descriptions
+-----------
+Access relevant information from iconographies of the Corpus Numorum Online using natural language processing. Improvement of named entity recognition, followed by the extraction of relationships for the entity types "PERSON", "OBJECT", "ANIMAL" and "PLANT".
+-----------
+# Requirements:
+
+- python          3.8.12
+- pandas          1.3.3 
+- spacy           2.3.7 
+- scikit-learn       0.24.2
+- SQL database
+
+-----------
+## Credits
+This project is based on the bachelorthesis, [Natural Language Processing
+to enable semantic search
+on numismatic descriptions](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2021/11/Bachelorthesis-Patricia-Klinger-final-version.pdf).
+
+Followed by [Kombination maschineller Lernmethoden der Bild- und Texterkennung auf antiken Münzdaten ](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2021/11/Arbeit_Sebastian_finale_Fassung_28_03_19-1.pdf) and [Natural Language Processing auf mehrsprachigen Münzdatensätzen – Untersuchung der Qualität, Datenqualität und Übertragbarkeit auf andere Datensätze](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2021/11/Masterthesis_Deligio_Gencer_DBISOnline.pdf)
+
+-----------
+## Reference
+- https://www.corpus-nummorum.eu/
+- http://numismatics.org/ocre/
