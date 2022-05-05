@@ -23,3 +23,4 @@ This project is based on a number of theses:
 ## Reference
 - https://www.corpus-nummorum.eu/
 - http://numismatics.org/ocre/
+- Patricia Klinger, Sebastian Gampe, Karsten Tolle, Ulrike Peter (2018). Semantic Search based on Natural Language Processing – a Numismatic example. Journal of Ancient History and Archaeology (JAHA) Vol 5 No. 3 (2018) 68-79 (DOI: 10.14795/j.v5i3.334, http://jaha.org.ro/index.php/JAHA/article/view/334/244)
