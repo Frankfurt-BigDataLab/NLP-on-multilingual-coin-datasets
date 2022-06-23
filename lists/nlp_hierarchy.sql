@@ -13,6 +13,7 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 -- Exportiere Struktur von Tabelle testdb.nlp_hierarchy
+DROP TABLE IF EXISTS `nlp_hierarchy`;
 CREATE TABLE IF NOT EXISTS `nlp_hierarchy` (
   `class` varchar(50) NOT NULL,
   `superclass` varchar(50) DEFAULT NULL,

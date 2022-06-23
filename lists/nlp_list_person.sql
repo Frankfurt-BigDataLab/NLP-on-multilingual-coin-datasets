@@ -13,6 +13,7 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 -- Exportiere Struktur von Tabelle testdb.nlp_list_person
+DROP TABLE IF EXISTS `nlp_list_person`;
 CREATE TABLE IF NOT EXISTS `nlp_list_person` (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
   `name` text DEFAULT NULL,
