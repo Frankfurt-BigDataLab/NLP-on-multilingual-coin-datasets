@@ -351,7 +351,7 @@ def predict_re_single_sentence(model, sentence):
     return y_pred
     
 def save_pipeline(pipeline, model_dir, model_name):
-    pickle.dump(pipeline, open(model_dir+model_name, "wb"))
+    pickle.dump(pipeline, open(model_dir+model_name, "wb"), protocol=4)
 
 def load_pipeline(model_dir, model_name):
     file = open(model_dir+model_name, "rb")
