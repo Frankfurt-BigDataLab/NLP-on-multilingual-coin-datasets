@@ -1,0 +1,24 @@
+id,name_en,name_ger,alternativenames_en,alternativenames_ger
+1,holding,halten," ploughing,  removing, covering,  containing,  brandishing,  carrying,  forming,  raising,  cradling,  touching,  drawing"," erhebend,  fassend,  ausgießend,  festhalten,  ausgestreckt,  würgend,  ziehend,  spannend,  hängt,  drückend,  stemmend,  schwingend,  ausholend,  entfernend,  herführend,  schleudernd,  spielend, tragend, schulternd"
+2,seated_on,sitzen," seated,  throning,  galloping,  riding_on,  sitting,  galopping, riding"," thronend,  galopierend,  reitend,  setzend,  gallopierend"
+3,resting_on,stützen,"reclining,  reclining_on,  setting,  leaning,  leaning_on,  resting"," lagernd,  aufgestützt,  liegend,  lehnend,  abstützend"
+4,feeding,füttern,,
+5,standing,stehen,," fahrend,  tretend"
+6,coiling,winden," curling, creeping"," ringelnd,  umwunden,  emporringelnd, umschlingen, umschlingend"
+7,lying,liegen,,
+8,advancing,schreiten," walking,  passing, running"," laufen"
+9,swimming,schwimmen,,
+10,extending,strecken,," vorstrecken,  hervorstreckend,  hervorgestreckt"
+11,receiving,empfangen,,
+12,prancing,springen,"leaping, jumping",
+13,flying,fliegen,,
+14,releasing,befreit,,befreien?
+15,crowning,bekränzen,,
+16,grasping,packen,"clasping, pushing"," fassen,  würgen"
+17,kneeling,knien,scooping," geduckt"
+18,crossing,kreuzen,,
+19,breaking,brechen,,
+20,turning,drehen,,
+21,sailing,,,
+22,"escorted by",,,
+23,wearing,,,
