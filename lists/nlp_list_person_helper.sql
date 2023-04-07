@@ -24,12 +24,8 @@ CREATE TABLE IF NOT EXISTS `nlp_list_person_helper` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `DesignID` int(11) DEFAULT NULL,
   `NLPID` int(11) DEFAULT NULL,
-  PRIMARY KEY (`ID`),
-  KEY `Design_FK` (`DesignID`),
-  KEY `NLP_FK` (`NLPID`),
-  CONSTRAINT `Design_FK` FOREIGN KEY (`DesignID`) REFERENCES `designs` (`DesignID`),
-  CONSTRAINT `NLP_FK` FOREIGN KEY (`NLPID`) REFERENCES `nlp_nlp_list_person_alt` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=6483 DEFAULT CHARSET=utf8;
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- Exportiere Daten aus Tabelle thrakien_d4n4_2.nlp_list_person_helper: ~6.482 rows (ungefähr)
 INSERT INTO `nlp_list_person_helper` (`ID`, `DesignID`, `NLPID`) VALUES
