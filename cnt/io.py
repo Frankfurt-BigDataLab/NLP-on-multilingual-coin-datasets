@@ -74,6 +74,8 @@ class Database_Connection():
         entities = [entity for entity in entities if len(entity) > 0]
         capitalized_entities = [entity.capitalize() for entity in entities]
         entities += capitalized_entities
+        # added sorting 2023_06_28
+        entities.sort(key=len, reverse=True)
         return entities
 
 
