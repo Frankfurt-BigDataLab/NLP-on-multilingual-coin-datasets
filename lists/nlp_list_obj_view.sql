@@ -16,7 +16,7 @@
 
 
 -- Exportiere Datenbank Struktur für thrakien_d4n4
-CREATE DATABASE IF NOT EXISTS `thrakien_d4n4` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+CREATE DATABASE IF NOT EXISTS `thrakien_d4n4` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 USE `thrakien_d4n4`;
 
 -- Exportiere Struktur von View thrakien_d4n4.nlp_list_obj_view
