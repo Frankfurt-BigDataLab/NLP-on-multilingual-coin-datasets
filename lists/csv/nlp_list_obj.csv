@@ -1,256 +1,263 @@
 id,name_en,name_ger,description,alternativenames_en,alternativenames_ger,typos_en,typos_ger,link,Cat_I,Cat_II,Cat_III
-1,acroteria,Akroterie,"Architektur zur Dachbekrönung","akroterion, acroterion,  akroteria","Akroterion,  Akroter",NULL,NULL,https://www.wikidata.org/wiki/Q421214,Architecture,ArchitecturalElements,NULL
-2,aegis,Ägide,"Rüstung der Athena"," ägis, aigis"," Ägis, Aigis",NULL,Agide,https://www.wikidata.org/wiki/Q190662,Clothing,Armour,NULL
-3,"agonistic crown","agonistische Krone",NULL,"agonistic crowns",NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/agonistic_crown_object,Ornaments,Crown,NULL
-4,altar,Altar,NULL,altars,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q101687,Architecture,NULL,NULL
-5,amphora,Amphora,Aufbewahrungsgefäß,"amphorae, amphoras",Amphoren,NULL,NULL,https://www.wikidata.org/wiki/Q178401,Vessel-Jar,NULL,NULL
-6,anchor,Anker,NULL,anchors,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q168432,NauticalObject,Ship,ShipPart
-7,antefix,Antefix,Stirnziegel,antefixa,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q571723,Architecture,ArchitecturalElements,NULL
-8,aplustre,Aphlaston,"verzierter Vorderteil eines Schiffes",aplustres,Schiffshinterdeck,NULL,NULL,https://www.wikidata.org/wiki/Q111995878,NauticalObject,Ship,ShipPart
-9,arch,Bogen,NULL,arches,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q12277,Architecture,ArchitecturalElements,NULL
-10,armour,Rüstung,NULL,armor,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q20793164,Clothing,NULL,NULL
-11,arrow,Pfeil,NULL,arrows,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q45922,Arms,NULL,NULL
-12,astragal,Astragal,Wüfelknöchelchen,"astagaloi, astragals",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q20452,GameObjects,NULL,NULL
-13,aulos,Aulos,Doppelflöte,auloi,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q324299,MusicalInstruments,NULL,NULL
-14,ax,Axt,NULL,"axe, axes",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q39397,Arms,Ax,NULL
-15,band,Band,NULL,bands,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q6918773,Ornaments,NULL,NULL
-16,base,Basis,NULL,bases,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q82383,Architecture,ArchitecturalElements,NULL
-17,basket,Korb,NULL,baskets,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q201097,Vessel-Jar,NULL,NULL
-18,"beaded ribbon",Perlenband,NULL,"beaded ribbons",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q6918773,Ornaments,NULL,NULL
-19,beehive,Bienenstock,NULL,beehives,NULL,NULL,Bienestöcke,https://www.wikidata.org/wiki/Q165107,Vessel-Jar,NULL,NULL
-20,biga,Biga,"Streitwagen mit zwei Pferden",bigae,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1132651,VehicelObjects,NULL,NULL
-22,boot,Stiefel,NULL,boots,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q190868,Clothing,NULL,NULL
-23,bow,Bogen,NULL,bows,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q46311,Arms,NULL,NULL
-24,bridle,Zaum,NULL,bridles,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q148558,Tools,AnimalRestraints,Harness
-25,bucranium,Bukranion,"Rinderschädel als Zierelement","bucrania, bucranion",Bukranien,NULL,NULL,https://www.wikidata.org/wiki/Q1003461,Architecture,ArchitecturalElements,ArchitecturalOrnaments
-26,bukephalion,Bukephalion,"Rinderschädel als Zierelement",bukephalia,Bucephalus,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/bukephalion_object,Architecture,ArchitecturalElements,ArchitecturalOrnaments
-27,bust,Büste,NULL,busts,Brustbild,NULL,NULL,https://www.wikidata.org/wiki/Q17489160,Statues,NULL,NULL
-28,caduceus,Kerykeion,Botenstab,"cadeceus, kerykeion","Cuduceuse, Hermesstab, Caduceus",NULL,NULL,https://www.wikidata.org/wiki/Q238577,Ornaments,NULL,NULL
-29,cantharus,Cantharus,Trinkgefäß,"cantharos,  kantharoi,  kantharos,  cantharoi,  canthari",Kantharos,NULL,NULL,https://www.wikidata.org/wiki/Q755706,Vessel-Jar,NULL,NULL
-30,cap,Mütze,NULL,caps,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q6147804,Clothing,Headdress,NULL
-31,capricorn,Steinbock,NULL,capricorns,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q164272,Astrological,NULL,NULL
-32,catapult,Katapult,NULL,catapults,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q184393,Arms,NULL,NULL
-33,cestus,Cestus,Schlagring,cesti,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1057669,Arms,NULL,NULL
-34,chalice,Kelch,NULL,chalices,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q98969284,Vessel-Jar,NULL,NULL
-35,chiton,Chiton,Gewand,chitons,Chlaina,NULL,NULL,https://www.wikidata.org/wiki/Q944031,Clothing,NULL,NULL
-36,chlamys,Chlamys,Reisemantel,chlamoi,NULL,chalmys,Chalmys,https://www.wikidata.org/wiki/Q1075155,Clothing,NULL,NULL
-37,cippus,Cippus,Spitzpfahl,cippi,NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/cippus_object,Stone,NULL,NULL
-38,cista,Cista,Behälter,cistae,Ciste,NULL,NULL,https://www.wikidata.org/wiki/Q867621,Vessel-Jar,NULL,NULL
-39,cithara,Kithara,"eine Art Leier","kithara,  kitharai",Cithara,NULL,NULL,https://www.wikidata.org/wiki/Q12634515,MusicalInstruments,NULL,NULL
-40,"city gate",Stadttor,NULL,"city gates",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q82117,Architecture,Gate,NULL
-41,"city wall",Stadtmauer,NULL,"city walls",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q16748868,Architecture,Mural,NULL
-42,cloak,Mantel,NULL,cloaks,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q516992,Clothing,NULL,NULL
-43,club,Keule,NULL,clubs,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q392326,Arms,NULL,NULL
-44,coat,Umhang,NULL,coats,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q152574,Clothing,NULL,NULL
-45,collar,Halsband,NULL,collars,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q497903,Tools,AnimalRestraints,NULL
-46,column,Säule,NULL,columns,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q4817,Architecture,ArchitecturalElements,NULL
-47,cornucopia,Füllhorn,Füllhorn,cornucopiae,NULL,"corucopiae, corncuopiae, corpucopia","corucopiae, corncuopiae, corpucopia",https://www.wikidata.org/wiki/Q332682,Tools,NULL,NULL
-48,crepidoma,Crepidoma,"Stufenunterbau eines Tempels"," krepidoma, krepis, crepidomae","Krepidoma, Krepis",NULL,NULL,https://www.wikidata.org/wiki/Q743919,Architecture,ArchitecturalElements,NULL
-49,crescent,Halbmond,NULL,crescents,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q5488888,Astrological,NULL,NULL
-50,crown,Krone,NULL,crowns,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q170984,Ornaments,NULL,NULL
-51,"crown juwel",Kronjuwel,NULL,"crowns jewels",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q298742,Ornaments,Crown,NULL
-53,cuirass,Kürass,NULL,NULL,"Panzer, cuirasses",NULL,NULL,https://www.wikidata.org/wiki/Q182731,Clothing,Armour,NULL
-54,cup,Tasse,NULL,cups,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q81727,Vessel-Jar,NULL,NULL
-55,diadem,Diadem,NULL,diadems,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q746591,Clothing,Headdress,NULL
-56,disc,Scheibe,NULL,discs,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q12346540,Ornaments,NULL,NULL
-57,door,Tür,NULL,doors,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q36794,Interieur-Furniture,NULL,NULL
-58,"double ax",Doppelaxt,NULL,"double axes",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q39397,Arms,Ax,NULL
-59,drapery,Gewand,NULL,draperies,"Tuch, Draperie",NULL,NULL,https://www.wikidata.org/wiki/Q3039121,Clothing,NULL,NULL
-60,drum,Trommel,NULL,drums,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q11404,MusicalInstruments,NULL,NULL
-61,earring,Ohrring,NULL,earrings,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q168456,Ornaments,Jewellery,NULL
-63,footrest,Fußstütze,NULL,footrests,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q14973416,Interieur-Furniture,NULL,NULL
-64,galley,Galeere,NULL,galleys,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q188924,NauticalObject,Ship,ShipType
-65,garment,Kleidungsstück,NULL,garments,Kleidungstücke,NULL,NULL,https://www.wikidata.org/wiki/Q11460,Clothing,NULL,NULL
-66,gate,Tor,NULL,gates,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q53060,Architecture,NULL,NULL
-67,globe,Globus,NULL," globi, globus, globes",Globen,NULL,NULL,https://www.wikidata.org/wiki/Q133792,Tools,NULL,NULL
-68,gold,Gold,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q897,Metal,NULL,NULL
-69,gorgoneion,Gorgoneion,"Zierelement: abgeschlagens Haupt der Gorgo Medusa","gorgoneia,  gorgon",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1161687,Architecture,ArchitecturalElements,ArchitecturalOrnaments
-70,"hair bunch",Haarbündel,NULL,"hair bunches",Haarbund,NULL,NULL,https://www.wikidata.org/wiki/Q28472,BodyParts,Head,NULL
-71,"hair knot",Haarknoten,NULL,"hair knots",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q28472,BodyParts,Head,NULL
-72,headdress,Kopfschmuck,NULL,headresses,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q14952,Clothing,NULL,NULL
-73,helmet,Helm,NULL,"helmets, helm, Corinthian helm",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q173603,Clothing,Headdress,NULL
-74,herm,Herm,"Pfeilerschaft mit aufgesetzter Büste",herma,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q376693,Statues,NULL,NULL
-75,himation,Himation,Bürgermantel,himatia,Pallium,NULL,NULL,https://www.wikidata.org/wiki/Q781731,Clothing,NULL,NULL
-76,hydria,Hydria,Wassergefäß,hydriai,Hydrien,NULL,NULL,https://www.wikidata.org/wiki/Q745783,Vessel-Jar,NULL,NULL
-78,jar,Krug,NULL,"jars, jug",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1207302,Vessel-Jar,NULL,NULL
-79,kalathos,Kalathos,Korb,"calathos, kalathoi",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q492461,Vessel-Jar,NULL,NULL
-80,kline,Kline,Liege,klinai,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q922892,Interieur-Furniture,NULL,NULL
-81,krater,Krater,Weinmischgefäß,"crater, kraters, craters",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q476968,Vessel-Jar,NULL,NULL
-82,ladder,Leiter,NULL,ladders,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q168639,Tools,NULL,NULL
-83,lance,Lanze,NULL,lances,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2003053,Arms,NULL,NULL
-84,leash,Leine,NULL,leashes,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q384873,Tools,AnimalRestraints,NULL
-85,"lion skin",Löwenfell,NULL,"lion skins",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q19295193,Clothing,NULL,NULL
-86,lyre,Leier,NULL,lyres,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q201129,MusicalInstruments,NULL,NULL
-87,mitra,Mitra,Kopfbedeckung,mitrae,Mitren,NULL,NULL,https://www.wikidata.org/wiki/Q193888,Clothing,Headdress,NULL
-88,necklace,Halskette,NULL,necklaces,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q189299,Ornaments,Jewellery,NULL
-89,obelisk,Obelisk,Steinpfeiler,obelisks,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q170980,Architecture,NULL,NULL
-90,object,Objekt,NULL,objects,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q488383,Ocre_object,NULL,NULL
-91,omphalos,Omphalos,"Stein, der den Nabel der Welt markiert (Delphi)",omphaloi,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q761739,Stone,NULL,NULL
-92,ore,Erz,NULL,ores,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q102798,Metal,NULL,NULL
-93,paludamentum,Paludamentum,Feldherrenmantel,paludamenta,Paludamenten,padulamentum,padulamentum,https://www.wikidata.org/wiki/Q637970,Clothing,NULL,NULL
-94,parazonium,Parazonium,Zierelement,parazonia,Parazonien,NULL,NULL,https://www.wikidata.org/wiki/Q542336,Arms,NULL,NULL
-95,patera,Patera,Spendeschale,paterae,Schale,pathera,pathera,https://www.wikidata.org/wiki/Q1109404,Vessel-Jar,NULL,NULL
-96,pearl,Perle,NULL,pearls,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q43436,Ornaments,Jewellery,NULL
-97,pediment,Giebel,Giebel,pediments,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q190996,Architecture,ArchitecturalElements,NULL
-98,pedum,Pedum,"Krummstab, Hirtenstab","peda, crook",Hirtenstab,NULL,NULL,https://www.wikidata.org/wiki/Q506002,Bar,NULL,NULL
-99,pellet,Pellet,NULL,pellets,Pellette,NULL,NULL,https://www.wikidata.org/wiki/Q60434742,Ornaments,NULL,NULL
-100,pelta,Pelta,"orientalischer Schild",peltae,Pelten,NULL,NULL,https://www.wikidata.org/wiki/Q1460115,Arms,NULL,NULL
-101,petasus,Petasus,Sonnenhut,"petasoi, petasos,  petasi","Petasen,  Petasos",NULL,NULL,https://www.wikidata.org/wiki/Q910792,Clothing,Headdress,NULL
-102,phallus,Phallus,NULL,phalli,Phalli,NULL,NULL,https://www.wikidata.org/wiki/Q168552,BodyParts,NULL,NULL
-103,pilos,Pilos,Kappe,piloi,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1778772,Clothing,Headdress,NULL
-104,plectrum,Plektron,NULL,plectra,"Plektrum,  Plectren,  Plektren, Plectrum",NULL,NULL,https://www.wikidata.org/wiki/Q181890,MusicalInstruments,NULL,NULL
-105,plow,Pflug,NULL,plows,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q11464,Tools,NULL,NULL
-106,polos,Polos,Kopfschmuck,poloi,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2067714,Clothing,Headdress,NULL
-107,pot,Topf,NULL,pots,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q3399907,Vessel-Jar,NULL,NULL
-108,"prize crown",Preiskrone,NULL,"price urn, price crowns, price urns, prize crowns",NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/prize_crown_object,Ornaments,Crown,NULL
-109,prora,Prora,Schiffsbug,prorae,Prore,NULL,NULL,https://www.wikidata.org/wiki/Q4814120,NauticalObject,Ship,ShipPart
-110,prow,Prora,NULL,prows,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q4814120,NauticalObject,Ship,ShipPart
-111,purse,Geldbörse,NULL,purses,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q131740,Tools,NULL,NULL
-112,quadriga,Quadriga,"Streitwagen mit vier Pferden",quadrigae,Quadrigen,NULL,NULL,https://www.wikidata.org/wiki/Q155987,VehicelObjects,NULL,NULL
-113,quiver,Köcher,NULL,quivers,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q222560,Arms,NULL,NULL
-114,rein,Zügel,NULL,reins,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2196000,Tools,AnimalRestraints,Harness
-115,rhyton,Rhyton,"hornförmiges Trinkgefäß"," rhyta",Rhyta,NULL,NULL,https://www.wikidata.org/wiki/Q828450,Vessel-Jar,NULL,NULL
-116,ribbon,Band,NULL,ribbons,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q6918773,Ornaments,NULL,NULL
-117,robe,Kleid,NULL,robes,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q345127,Clothing,NULL,NULL
-118,rock,Felsen,NULL,rocks,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q8063,Stone,NULL,NULL
-119,roof,Dach,NULL,roofs,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q83180,Architecture,ArchitecturalElements,NULL
-120,rosette,Rosette,NULL,rosettes,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1277215,Architecture,ArchitecturalElements,ArchitecturalOrnaments
-121,rudder,Ruder,NULL,rudders,Steuerruder,ruder,NULL,https://www.wikidata.org/wiki/Q209760,NauticalObject,Ship,ShipPart
-122,sail,Segel,NULL,sails,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q25999,NauticalObject,Ship,ShipPart
-123,scales,Waage,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q134566,Tools,NULL,NULL
-124,scepter,Zepter,NULL,"sceptre,  scepters, sceptres",NULL,scetpre,scetpre,https://www.wikidata.org/wiki/Q152065,Bar,NULL,NULL
-125,scroll,Schriftrolle,NULL,scrolls,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q720106,Tools,NULL,NULL
-126,"serpent staff",Schlangenstab,NULL,"serpent staffs",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q223377,Ornaments,NULL,NULL
-127,shield,Schild,NULL,shields,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q131559,Arms,NULL,NULL
-128,sistrum,Sistrum,Musikinstrument," sistra",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q426948,MusicalInstruments,NULL,NULL
-129,situla,Situla,Gefäß,situlae,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1650313,Vessel-Jar,NULL,NULL
-130,spear,Speer,NULL,spears,NULL,spearight,spearight,https://www.wikidata.org/wiki/Q44475,Arms,NULL,NULL
-131,staff,Stab,NULL,staffs,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q10971443,Tools,NULL,NULL
-132,standard,Standarte,NULL,standards,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q351240,Ornaments,NULL,NULL
-133,star,Stern,NULL,stars,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1191504,Astrological,NULL,NULL
-134,statue,Statue,NULL,statues,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q179700,Statues,NULL,NULL
-135,statuette,Statuette,NULL,statuettes,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1066288,Statues,NULL,NULL
-136,stefane,Stefane,Kopfschmuck,"stephanos,  stephane,  stephanoi",stephane,NULL,NULL,https://www.wikidata.org/wiki/Q7608187,Clothing,Headdress,NULL
-137,stern,Heck,NULL,sterns,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q273062,NauticalObject,Ship,ShipPart
-138,stone,Stein,NULL,stones,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q22731,Stone,NULL,NULL
-139,strap,Gurt,NULL,straps," Rieme",NULL,NULL,https://www.wikidata.org/wiki/Q3217573,Tools,NULL,NULL
-140,sun,Sonne,NULL,suns,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q525,Astrological,NULL,NULL
-141,sword,Schwert,NULL,swords,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q12791,Arms,NULL,NULL
-142,table,Tisch,NULL,tables,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q14748,Interieur-Furniture,NULL,NULL
-143,taenia,Taenia,Binde,teniae,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2463628,Ornaments,NULL,NULL
-144,temple,Tempel,NULL,temples,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q44539,Architecture,NULL,NULL
-145,throne,Thron,NULL,thrones,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q189233,Interieur-Furniture,NULL,NULL
-146,thunderbolt,Blitz,NULL,thunderbolts,Blitzbündel,thunderbold,,https://www.wikidata.org/wiki/Q2794866,Astrological,NULL,NULL
-147,thymiaterion,Thymiaterion,Räuchergefäß,thymateria,thymateria,NULL,NULL,https://www.wikidata.org/wiki/Q662620,Vessel-Jar,NULL,NULL
-148,thyrsus,Thyrsos,"pflanzlicher Stab des Dionysos und seiner Begleiter","thyrsi,  thyrsoi, thyrsos","thyrsus,  thyrsi,  thyrsoi, thyrsosstab",NULL,NULL,https://www.wikidata.org/wiki/Q536850,Bar,NULL,NULL
-149,toga,Toga,"Gewand römischer männlicher Bürger",togae,Togen,NULL,NULL,https://www.wikidata.org/wiki/Q183171,Clothing,NULL,NULL
-150,torch,Fackel,NULL,torches,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q327954,Tools,NULL,NULL
-151,tower,Turm,NULL,towers,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q12518,Architecture,NULL,NULL
-152,trident,Dreizack,NULL,tridents,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q271628,Arms,NULL,NULL
-153,tripod,Dreifuß,Dreifuß,tripods,Dreibein,NULL,NULL,https://www.wikidata.org/wiki/Q915527,Interieur-Furniture,NULL,NULL
-154,tropaion,Tropaion,Siegeszeichen,tropaia," tropaia",NULL,NULL,https://www.wikidata.org/wiki/Q1753584,Architecture,NULL,NULL
-155,trophy,Trophäe,NULL,trophies,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q381165,Architecture,NULL,NULL
-156,tympanon,Tympanon,"Musikinstrument (Handtrommel)","tympana, tympanum",Tympana,NULL,NULL,https://www.wikidata.org/wiki/Q386382,MusicalInstruments,NULL,NULL
-157,urn,Urne,NULL,urns,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q11083119,Vessel-Jar,NULL,NULL
-158,veil,Schleier,NULL,veils,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q6497446,Clothing,NULL,NULL
-159,vessel,Gefäß,NULL,vessels,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q987767,Vessel-Jar,NULL,NULL
-160,vexillum,Vexillum,Feldzeichen,vexilla,vexilla,NULL,NULL,https://www.wikidata.org/wiki/Q264655,Ornaments,NULL,NULL
-162,wheel,Rad,NULL,wheels,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q446,VehicelObjects,NULL,NULL
-163,whip,Peitsche,NULL,whips,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q152910,Tools,NULL,NULL
-165,wreath,Kranz,NULL,wreaths,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1201922,Clothing,Headdress,NULL
-166,zodiac,Zodiac,NULL,zodiacs,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q40540,Astrological,NULL,NULL
-167,discus,Diskus,NULL,dsicusses,Diskusse,NULL,NULL,https://www.wikidata.org/wiki/Q1228822,Tools,NULL,NULL
-169,chair,Stuhl,"aus OCRE","chairs, stool, stools",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q15026,Interieur-Furniture,NULL,NULL
-171,branch,Ast,"aus OCRE",branches,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2923673,Ornaments,NULL,NULL
-176,palladium,Palladium,"aus OCRE",palladia,"Palladien,  Palladion",NULL,NULL,https://www.wikidata.org/wiki/Q829650,Statues,NULL,NULL
-177,aquila,Aquila,"aus OCRE",aquilae,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q3532405,Ornaments,NULL,NULL
-178,javelin,Speerwurf,"aus OCRE",javelins,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q3757641,Arms,NULL,NULL
-184,platform,Plattform,"aus OCRE",platforms,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q22079390,Architecture,NULL,NULL
-185,abacus,Abacus,"aus OCRE",abaci,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q12806,Tools,NULL,NULL
-186,wand,Zauberstab,"aus OCRE",wands,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q148493,Ornaments,NULL,NULL
-188,roll,Rolle,"aus OCRE",rolls,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q92311493,Tools,NULL,NULL
-189,breast,Brust,"aus OCRE",breasts,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q9103,BodyParts,NULL,NULL
-201,oar,Ruder,"aus OCRE",oars,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2003749,Ornaments,NULL,NULL
-203,pileus,Pileus,"aus OCRE",piloi,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1778772,Clothing,Headdress,NULL
-204,simpulum,Simpulum,"aus OCRE",simpula,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q574487,SacrificialImplements,NULL,NULL
-206,bar,Balken,"aus OCRE",bars,NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/bar_object,Bar,NULL,NULL
-207,stick,Stock,"aus OCRE",sticks,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q10971443,Bar,NULL,NULL
-208,syrinx,Syrinx,"aus OCRE",syrinxes,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q10902606,MusicalInstruments,NULL,NULL
-209,bisellium,Bisellium,"aus OCRE",bisellia,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q23830025,Interieur-Furniture,NULL,NULL
-214,tessera,Tessera,"aus OCRE",tesserae,Terassen,NULL,NULL,https://www.wikidata.org/wiki/Q9137136,Tools,NULL,NULL
-216,tunic,Tunika,"aus OCRE",tunica,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q201714,Clothing,NULL,NULL
-221,acrostolium,Acrostolium,"aus OCRE",acrostolia," Akrostolium, Acrostoila",NULL,NULL,https://www.wikidata.org/wiki/Q65064029,NauticalObject,Ship,ShipPart
-224,modius,Modius,"aus OCRE",modia,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q669909,Vessel-Jar,NULL,NULL
-235,distaff,Spinnrocken,"aus OCRE",distaffs,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q962104,Tools,NULL,NULL
-236,weapon,Waffe,"aus OCRE",weapons,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q728,Arms,NULL,NULL
-245,bag,Tasche,"aus OCRE",bags,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1323314,Vessel-Jar,NULL,NULL
-246,head,Kopf,"aus OCRE",heads,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q23640,BodyParts,NULL,NULL
-248,sickle,Sichel,"aus OCRE",sickles,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q42233,Tools,NULL,NULL
-255,board,Tafel,"aus OCRE",boards,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q72926076,Tools,NULL,NULL
-258,tablet,Tablett,"aus OCRE",tablets,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q16744570,Ornaments,NULL,NULL
-262,coil,Spirale,"aus OCRE",coils,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q25629903,Ornaments,NULL,NULL
-263,fillet,Binde,"aus OCRE",fillets,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q5448807,Ornaments,NULL,NULL
-267,vase,Vase,"aus OCRE",vases,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q191851,Vessel-Jar,NULL,NULL
-268,baton,Taktstock,"aus OCRE",batons,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2014830,Bar,NULL,NULL
-269,jaw,Kiefer,"aus OCRE",jaws,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q180284,BodyParts,NULL,NULL
-272,knee,Knie,"aus OCRE",knees,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q37425,BodyParts,NULL,NULL
-274,box,Box,"aus OCRE",boxes,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q188075,Vessel-Jar,NULL,NULL
-280,pyre,Scheiterhaufen,"aus OCRE",pyres,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q736132,Architecture,NULL,NULL
-281,ensign,Flagge,"aus OCRE",ensigns,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q19912730,Ornaments,NULL,NULL
-282,pincer,Zange,"aus OCRE",pincers,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q840979,Tools,NULL,NULL
-283,bipennis,Bipennis,"aus OCRE",NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q837381,Arms,Ax,NULL
-284,compass,Zirkel,"aus OCRE",compasses,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q103896,Tools,NULL,NULL
-286,mappa,Karte,"aus OCRE",mappae,NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/mappa_object,Ornaments,NULL,NULL
-288,trabea,Trabea,"aus OCRE",trabeae,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1620647,Clothing,NULL,NULL
-289,shrine,Schrein,"aus OCRE",shrines,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q697295,Architecture,NULL,NULL
-295,banner,Banner,"aus OCRE",banners,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q806880,Ornaments,NULL,NULL
-299,bucket,Eimer,"aus OCRE",buckets,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q47107,Vessel-Jar,NULL,NULL
-301,tensa,Tensa,"aus OCRE",tensae,NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/tensa_object,VehicelObjects,NULL,NULL
-303,cross,Kreuz,"aus OCRE",crosses,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q40843,Ornaments,NULL,NULL
-304,step,Stufe,"aus OCRE",steps,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q53996838,Interieur-Furniture,NULL,NULL
-305,dagger,Dolch,"aus OCRE",daggers,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q182780,Arms,NULL,NULL
-306,mattock,Hacke,"aus OCRE",mattocks,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q8193873,Tools,NULL,NULL
-311,mausoleum,Mausoleum,"aus OCRE",mausolea,Mausoleen,NULL,NULL,https://www.wikidata.org/wiki/Q162875,Architecture,NULL,NULL
-312,lituus,Lituus,"aus OCRE",NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1553522,SacrificialImplements,NULL,NULL
-313,Coliseum,Kolloseum,"aus OCRE",Colosseum,Kolloseen,NULL,NULL,https://www.wikidata.org/wiki/Q10285,Architecture,NULL,NULL
-314,sprinkler,Sprenger,"aus OCRE",sprinklers,NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/sprinkler_object,SacrificialImplements,NULL,NULL
-315,Chi-Rho,Chi-Rho,"aus OCRE",NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q151970,Ornaments,NULL,NULL
-316,visor,Schirm,NULL,visors,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q17839578,Arms,NULL,NULL
-318,"mural crown",Mauerkrone,NULL,"mural crowns",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q429340,Ornaments,NULL,NULL
-319,cloth,Stoff,NULL,clothes,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q5849500,Clothing,NULL,NULL
-320,triskele,Triskele,NULL,"triskelion, triskelia, triskeles",triskelion,NULL,NULL,https://www.wikidata.org/wiki/Q183534,Ornaments,NULL,NULL
-321,swastika,Swastika,NULL,swastikae,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q45513,Ornaments,NULL,NULL
-322,ornament,Ornament,NULL,ornaments,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q335261,Ornaments,NULL,NULL
-323,simulacrum,Simulacrum,"aus CN Erweiterung",simulacra,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1412596,Ornaments,NULL,NULL
-324,garland,Girlande,NULL,garlands,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q756600,Ornaments,NULL,NULL
-325,"laurel branch",Lorbeerzweig,NULL,"laurel branches",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q62382636,Ornaments,NULL,NULL
-326,"corn wreath",Ährenkranz,NULL,"corn wreaths",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q254608,Ornaments,NULL,NULL
-327,ship,Schiff,NULL,ships,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q11446,NauticalObject,Ship,NULL
-328,radiate,Strahlenkrone,"radiate crown","radiate crown, radiate crowns",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q17077242,Ornaments,Crown,NULL
-329,"palm branch",Palmzweig,NULL,"palm branches",Palmenzweige,NULL,NULL,https://www.wikidata.org/wiki/Q696809,Ornaments,NULL,NULL
-330,"ivy wreath",Efeukranz,NULL,"ivy wreaths",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q41977532,Ornaments,NULL,NULL
-331,"ivy leaf",Efeublatt,NULL,"ivy leaves",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q26354,Ornaments,NULL,NULL
-333,"oak wreath",Eichenkranz,NULL,"oak wreaths",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q58097277,Ornaments,NULL,NULL
-335,"military attire",Feldherrengewand,NULL,NULL,"Kriegsbekleidung, Kriegertracht",NULL,NULL,https://www.wikidata.org/wiki/Q485027,Clothing,Armour,NULL
-336,"scale cuirass",Schuppenpanzer,NULL,"scale cuirasses",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q574602,Clothing,Armour,NULL
-339,antlers,Geweih,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q834007,Ornaments,NULL,NULL
-340,"double spear",Doppelspeer,NULL,"double spears",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q44475,Arms,NULL,NULL
-341,"cista mystica","cista mystica",NULL,"cistae mysticae",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q17438669,SacrificialImplements,NULL,NULL
-343,"double chiton",Doppelchiton,NULL,"double chitons",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q944031,Clothing,NULL,NULL
-344,eagle-sceptre,Adlerzepter,NULL,eagle-sceptres,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q152065,Ornaments,NULL,NULL
-345,"forepart of prancing horse",Pferdeprotome,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2113757,Ornaments,NULL,NULL
-346,olive-branch,Olivenzweig,NULL,olive-branches,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q138550,Ornaments,NULL,NULL
-349,"naval ram",Rammsporn,NULL,"naval rams",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q778702,NauticalObject,Ship,ShipPart
-352,"laurel wreath",Lorbeerkranz,NULL,"laurel wreaths",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q734844,Ornaments,NULL,NULL
-356,"water urn",Quellgefäß,NULL,"water urns",NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/water_urn_object,Vessel-Jar,NULL,NULL
-357,"cubit role",Ellenmaß,NULL,cubit-rule,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q6502030,Tools,NULL,NULL
-358,"wine skin",Weinschlauch,NULL,"wineskin, winer skins, wineskins",Schlauch,NULL,NULL,https://www.wikidata.org/wiki/Q21094365,Vessel-Jar,NULL,NULL
-362,hook,Haken,NULL,hooks,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q4243098,Tools,NULL,NULL
-363,scale,Schuppe,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q188488,Clothing,Armour,NULL
-364,cotyle,Kotyle,NULL,cotyles,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2559410,Vessel-Jar,NULL,NULL
-365,kyrbasia,Kyrbasia,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q110127911,Clothing,NULL,NULL
-366,stoa,Stoa,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q327328,Architecture,NULL,NULL
-367,tiara,Tiara,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q749249,Ornaments,NULL,NULL
-368,headband,Kopfband,NULL,headbands,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q934849,Ornaments,NULL,NULL
-369,nymphaeum,Nymphaeum,NULL,nymphaea,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q731966,Architecture,NULL,NULL
-370,oinochoe,Oinochoe,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q831869,Vessel-Jar,NULL,NULL
+1,abacus,Abacus,"aus OCRE",abaci,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q12806,Tools,NULL,NULL
+2,acrostolium,Acrostolium,"aus OCRE",acrostolia," Akrostolium, Acrostoila",NULL,NULL,https://www.wikidata.org/wiki/Q65064029,NauticalObject,Ship,ShipPart
+3,acroteria,Akroterie,"Architektur zur Dachbekrönung","akroterion, acroterion,  akroteria","Akroterion,  Akroter",NULL,NULL,https://www.wikidata.org/wiki/Q421214,Architecture,ArchitecturalElements,NULL
+4,aegis,Ägide,"Rüstung der Athena"," ägis, aigis"," Ägis, Aigis",NULL,Agide,https://www.wikidata.org/wiki/Q190662,Clothing,Armour,NULL
+5,"agonistic crown","agonistische Krone",NULL,"agonistic crowns",,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/agonistic_crown_object,Ornaments,Crown,NULL
+6,altar,Altar,NULL,altars,,NULL,NULL,https://www.wikidata.org/wiki/Q101687,Architecture,NULL,NULL
+7,amphora,Amphora,Aufbewahrungsgefäß,"amphorae, amphoras",Amphoren,NULL,NULL,https://www.wikidata.org/wiki/Q178401,Vessel-Jar,NULL,NULL
+8,anchor,Anker,NULL,anchors,,NULL,NULL,https://www.wikidata.org/wiki/Q168432,NauticalObject,Ship,ShipPart
+9,antefix,Antefix,Stirnziegel,antefixa,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q571723,Architecture,ArchitecturalElements,NULL
+10,antlers,Geweih,NULL,NULL,,NULL,NULL,https://www.wikidata.org/wiki/Q834007,Ornaments,NULL,NULL
+11,aplustre,Aphlaston,"verzierter Vorderteil eines Schiffes",aplustres,Schiffshinterdeck,NULL,NULL,https://www.wikidata.org/wiki/Q111995878,NauticalObject,Ship,ShipPart
+12,aquila,Aquila,"aus OCRE",aquilae,,NULL,NULL,https://www.wikidata.org/wiki/Q3532405,Ornaments,NULL,NULL
+13,arch,Bogen,NULL,arches,,NULL,NULL,https://www.wikidata.org/wiki/Q12277,Architecture,ArchitecturalElements,NULL
+14,armour,Rüstung,NULL,armor,,NULL,NULL,https://www.wikidata.org/wiki/Q20793164,Clothing,NULL,NULL
+15,arrow,Pfeil,NULL,arrows,,NULL,NULL,https://www.wikidata.org/wiki/Q45922,Arms,NULL,NULL
+16,astragal,Astragal,Wüfelknöchelchen,"astagaloi, astragals",,NULL,NULL,https://www.wikidata.org/wiki/Q20452,GameObjects,NULL,NULL
+17,"Augean Stables","Ställe des Augias",NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q3088950,Architecture,NULL,NULL
+18,aulos,Aulos,Doppelflöte,auloi,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q324299,MusicalInstruments,NULL,NULL
+19,ax,Axt,NULL,"axe, axes",,NULL,NULL,https://www.wikidata.org/wiki/Q39397,Arms,Ax,NULL
+20,baetyl,Baitylos,NULL,baetylus,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q664990,Statues,NULL,NULL
+21,bag,Tasche,"aus OCRE",bags,,NULL,NULL,https://www.wikidata.org/wiki/Q1323314,Vessel-Jar,NULL,NULL
+22,band,Band,NULL,bands,,NULL,NULL,https://www.wikidata.org/wiki/Q6918773,Ornaments,NULL,NULL
+23,banner,Banner,"aus OCRE",banners,,NULL,NULL,https://www.wikidata.org/wiki/Q806880,Ornaments,NULL,NULL
+24,bar,Balken,"aus OCRE",bars,,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/bar_object,Bar,NULL,NULL
+25,base,Basis,NULL,bases,,NULL,NULL,https://www.wikidata.org/wiki/Q82383,Architecture,ArchitecturalElements,NULL
+26,basin,Wasserbecken,NULL,NULL,Louterion,NULL,NULL,https://www.wikidata.org/wiki/Q1877790,Vessel-Jar,NULL,NULL
+27,basket,Korb,NULL,baskets,,NULL,NULL,https://www.wikidata.org/wiki/Q201097,Vessel-Jar,NULL,NULL
+28,baton,Taktstock,"aus OCRE",batons,,NULL,NULL,https://www.wikidata.org/wiki/Q2014830,Bar,NULL,NULL
+29,"beaded ribbon",Perlenband,NULL,"beaded ribbons",,NULL,NULL,https://www.wikidata.org/wiki/Q6918773,Ornaments,NULL,NULL
+30,beehive,Bienenstock,NULL,beehives,,NULL,Bienestöcke,https://www.wikidata.org/wiki/Q165107,Vessel-Jar,NULL,NULL
+31,biga,Biga,"Streitwagen mit zwei Pferden",bigae,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1132651,VehicelObjects,NULL,NULL
+32,bipennis,Bipennis,"aus OCRE",NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q837381,Arms,Ax,NULL
+33,bisellium,Bisellium,"aus OCRE",bisellia,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q23830025,Interieur-Furniture,NULL,NULL
+34,board,Tafel,"aus OCRE",boards,,NULL,NULL,https://www.wikidata.org/wiki/Q72926076,Tools,NULL,NULL
+35,boot,Stiefel,NULL,boots,,NULL,NULL,https://www.wikidata.org/wiki/Q190868,Clothing,NULL,NULL
+36,bow,Bogen,NULL,bows,,NULL,NULL,https://www.wikidata.org/wiki/Q46311,Arms,NULL,NULL
+37,box,Box,"aus OCRE",boxes,,NULL,NULL,https://www.wikidata.org/wiki/Q188075,Vessel-Jar,NULL,NULL
+38,branch,Ast,"aus OCRE",branches,,NULL,NULL,https://www.wikidata.org/wiki/Q2923673,Ornaments,NULL,NULL
+39,breast,Brust,"aus OCRE",breasts,,NULL,NULL,https://www.wikidata.org/wiki/Q9103,BodyParts,NULL,NULL
+40,bridle,Zaum,NULL,bridles,,NULL,NULL,https://www.wikidata.org/wiki/Q148558,Tools,AnimalRestraints,Harness
+41,bucket,Eimer,"aus OCRE",buckets,,NULL,NULL,https://www.wikidata.org/wiki/Q47107,Vessel-Jar,NULL,NULL
+42,bucranium,Bukranion,"Rinderschädel als Zierelement","bucrania, bucranion",Bukranien,NULL,NULL,https://www.wikidata.org/wiki/Q1003461,Architecture,ArchitecturalElements,ArchitecturalOrnaments
+43,bukephalion,Bukephalion,"Rinderschädel als Zierelement",bukephalia,Bucephalus,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/bukephalion_object,Architecture,ArchitecturalElements,ArchitecturalOrnaments
+44,bust,Büste,NULL,busts,Brustbild,NULL,NULL,https://www.wikidata.org/wiki/Q17489160,Statues,NULL,NULL
+45,caduceus,Kerykeion,Botenstab,"cadeceus, kerykeion","Cuduceuse, Hermesstab, Caduceus",NULL,NULL,https://www.wikidata.org/wiki/Q238577,Ornaments,NULL,NULL
+46,cantharus,Cantharus,Trinkgefäß,"cantharos,  kantharoi,  kantharos,  cantharoi,  canthari",Kantharos,NULL,NULL,https://www.wikidata.org/wiki/Q755706,Vessel-Jar,NULL,NULL
+47,cap,Mütze,NULL,caps,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q6147804,Clothing,Headdress,NULL
+48,capricorn,Steinbock,NULL,capricorns,,NULL,NULL,https://www.wikidata.org/wiki/Q164272,Astrological,NULL,NULL
+49,catapult,Katapult,NULL,catapults,,NULL,NULL,https://www.wikidata.org/wiki/Q184393,Arms,NULL,NULL
+50,cestus,Cestus,Schlagring,cesti,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1057669,Arms,NULL,NULL
+51,chair,Stuhl,"aus OCRE","chairs, stool, stools",,NULL,NULL,https://www.wikidata.org/wiki/Q15026,Interieur-Furniture,NULL,NULL
+52,chalice,Kelch,NULL,chalices,,NULL,NULL,https://www.wikidata.org/wiki/Q98969284,Vessel-Jar,NULL,NULL
+53,Chi-Rho,Chi-Rho,"aus OCRE",NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q151970,Ornaments,NULL,NULL
+54,chiton,Chiton,Gewand,chitons,Chlaina,NULL,NULL,https://www.wikidata.org/wiki/Q944031,Clothing,NULL,NULL
+55,chlamys,Chlamys,Reisemantel,chlamoi,NULL,chalmys,Chalmys,https://www.wikidata.org/wiki/Q1075155,Clothing,NULL,NULL
+56,cippus,Cippus,Spitzpfahl,cippi,NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/cippus_object,Stone,NULL,NULL
+57,cista,Cista,Behälter,cistae,Ciste,NULL,NULL,https://www.wikidata.org/wiki/Q867621,Vessel-Jar,NULL,NULL
+58,"cista mystica","cista mystica",NULL,"cistae mysticae",,NULL,NULL,https://www.wikidata.org/wiki/Q17438669,SacrificialImplements,NULL,NULL
+59,cithara,Kithara,"eine Art Leier","kithara,  kitharai",Cithara,NULL,NULL,https://www.wikidata.org/wiki/Q12634515,MusicalInstruments,NULL,NULL
+60,"city gate",Stadttor,NULL,"city gates",,NULL,NULL,https://www.wikidata.org/wiki/Q82117,Architecture,Gate,NULL
+61,"city wall",Stadtmauer,NULL,"city walls",,NULL,NULL,https://www.wikidata.org/wiki/Q16748868,Architecture,Mural,NULL
+62,cloak,Mantel,NULL,cloaks,,NULL,NULL,https://www.wikidata.org/wiki/Q516992,Clothing,NULL,NULL
+63,cloth,Stoff,NULL,clothes,,NULL,NULL,https://www.wikidata.org/wiki/Q5849500,Clothing,NULL,NULL
+64,club,Keule,NULL,clubs,,NULL,NULL,https://www.wikidata.org/wiki/Q392326,Arms,NULL,NULL
+65,coat,Umhang,NULL,coats,,NULL,NULL,https://www.wikidata.org/wiki/Q152574,Clothing,NULL,NULL
+66,coil,Spirale,"aus OCRE",coils,,NULL,NULL,https://www.wikidata.org/wiki/Q25629903,Ornaments,NULL,NULL
+67,Coliseum,Kolloseum,"aus OCRE",Colosseum,Kolloseen,NULL,NULL,https://www.wikidata.org/wiki/Q10285,Architecture,NULL,NULL
+68,collar,Halsband,NULL,collars,,NULL,NULL,https://www.wikidata.org/wiki/Q497903,Tools,AnimalRestraints,NULL
+69,column,Säule,NULL,columns,,NULL,NULL,https://www.wikidata.org/wiki/Q4817,Architecture,ArchitecturalElements,NULL
+70,compass,Zirkel,"aus OCRE",compasses,,NULL,NULL,https://www.wikidata.org/wiki/Q103896,Tools,NULL,NULL
+71,"corn wreath",Ährenkranz,NULL,"corn wreaths",,NULL,NULL,https://www.wikidata.org/wiki/Q254608,Ornaments,NULL,NULL
+72,cornucopia,Füllhorn,Füllhorn,cornucopiae,,"corucopiae, corncuopiae, corpucopia","corucopiae, corncuopiae, corpucopia",https://www.wikidata.org/wiki/Q332682,Tools,NULL,NULL
+73,cotyle,Kotyle,NULL,cotyles,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2559410,Vessel-Jar,NULL,NULL
+74,crepidoma,Crepidoma,"Stufenunterbau eines Tempels"," krepidoma, krepis, crepidomae","Krepidoma, Krepis",NULL,NULL,https://www.wikidata.org/wiki/Q743919,Architecture,ArchitecturalElements,NULL
+75,crescent,Halbmond,NULL,crescents,,NULL,NULL,https://www.wikidata.org/wiki/Q5488888,Astrological,NULL,NULL
+76,cross,Kreuz,"aus OCRE",crosses,,NULL,NULL,https://www.wikidata.org/wiki/Q40843,Ornaments,NULL,NULL
+77,crown,Krone,NULL,crowns,,NULL,NULL,https://www.wikidata.org/wiki/Q170984,Ornaments,NULL,NULL
+78,"crown juwel",Kronjuwel,NULL,"crowns jewels",,NULL,NULL,https://www.wikidata.org/wiki/Q298742,Ornaments,Crown,NULL
+79,"cubit role",Ellenmaß,NULL,cubit-rule,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q6502030,Tools,NULL,NULL
+80,cuirass,Kürass,NULL,NULL,"Panzer, cuirasses",NULL,NULL,https://www.wikidata.org/wiki/Q182731,Clothing,Armour,NULL
+81,cup,Tasse,NULL,cups,,NULL,NULL,https://www.wikidata.org/wiki/Q81727,Vessel-Jar,NULL,NULL
+82,dagger,Dolch,"aus OCRE",daggers,,NULL,NULL,https://www.wikidata.org/wiki/Q182780,Arms,NULL,NULL
+83,diadem,Diadem,NULL,diadems,,NULL,NULL,https://www.wikidata.org/wiki/Q746591,Clothing,Headdress,NULL
+84,disc,Scheibe,NULL,discs,,NULL,NULL,https://www.wikidata.org/wiki/Q12346540,Ornaments,NULL,NULL
+85,discus,Diskus,NULL,dsicusses,Diskusse,NULL,NULL,https://www.wikidata.org/wiki/Q1228822,Tools,NULL,NULL
+86,distaff,Spinnrocken,"aus OCRE",distaffs,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q962104,Tools,NULL,NULL
+87,door,Tür,NULL,doors,,NULL,NULL,https://www.wikidata.org/wiki/Q36794,Interieur-Furniture,NULL,NULL
+88,"double ax",Doppelaxt,NULL,"double axes",,NULL,NULL,https://www.wikidata.org/wiki/Q39397,Arms,Ax,NULL
+89,"double chiton",Doppelchiton,NULL,"double chitons",,NULL,NULL,https://www.wikidata.org/wiki/Q944031,Clothing,NULL,NULL
+90,"double spear",Doppelspeer,NULL,"double spears",,NULL,NULL,https://www.wikidata.org/wiki/Q44475,Arms,NULL,NULL
+91,drapery,Gewand,NULL,draperies,"Tuch, Draperie",NULL,NULL,https://www.wikidata.org/wiki/Q3039121,Clothing,NULL,NULL
+92,drum,Trommel,NULL,drums,,NULL,NULL,https://www.wikidata.org/wiki/Q11404,MusicalInstruments,NULL,NULL
+93,eagle-sceptre,Adlerzepter,NULL,eagle-sceptres,,NULL,NULL,https://www.wikidata.org/wiki/Q152065,Ornaments,NULL,NULL
+94,earring,Ohrring,NULL,earrings,,NULL,NULL,https://www.wikidata.org/wiki/Q168456,Ornaments,Jewellery,NULL
+95,ensign,Flagge,"aus OCRE",ensigns,,NULL,NULL,https://www.wikidata.org/wiki/Q19912730,Ornaments,NULL,NULL
+96,fillet,Binde,"aus OCRE",fillets,,NULL,NULL,https://www.wikidata.org/wiki/Q5448807,Ornaments,NULL,NULL
+97,footrest,Fußstütze,NULL,footrests,,NULL,NULL,https://www.wikidata.org/wiki/Q14973416,Interieur-Furniture,NULL,NULL
+98,forepart,Vorderkörper,NULL,foreparts,Protome,NULL,NULL,https://www.wikidata.org/wiki/Q2113757,BodyParts,NULL,NULL
+99,"forepart of prancing horse",Pferdeprotome,NULL,NULL,,NULL,NULL,https://www.wikidata.org/wiki/Q2113757,Ornaments,NULL,NULL
+100,galley,Galeere,NULL,galleys,,NULL,NULL,https://www.wikidata.org/wiki/Q188924,NauticalObject,Ship,ShipType
+101,garland,Girlande,NULL,garlands,,NULL,NULL,https://www.wikidata.org/wiki/Q756600,Ornaments,NULL,NULL
+102,garment,Kleidungsstück,NULL,garments,Kleidungstücke,NULL,NULL,https://www.wikidata.org/wiki/Q11460,Clothing,NULL,NULL
+103,gate,Tor,NULL,gates,,NULL,NULL,https://www.wikidata.org/wiki/Q53060,Architecture,NULL,NULL
+104,globe,Globus,NULL," globi, globus, globes",Globen,NULL,NULL,https://www.wikidata.org/wiki/Q133792,Tools,NULL,NULL
+105,gold,Gold,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q897,Metal,NULL,NULL
+106,gorgoneion,Gorgoneion,"Zierelement: abgeschlagens Haupt der Gorgo Medusa","gorgoneia,  gorgon",,NULL,NULL,https://www.wikidata.org/wiki/Q1161687,Architecture,ArchitecturalElements,ArchitecturalOrnaments
+107,"hair bunch",Haarbündel,NULL,"hair bunches",Haarbund,NULL,NULL,https://www.wikidata.org/wiki/Q28472,BodyParts,Head,NULL
+108,"hair knot",Haarknoten,NULL,"hair knots",,NULL,NULL,https://www.wikidata.org/wiki/Q28472,BodyParts,Head,NULL
+109,head,Kopf,"aus OCRE",heads,,NULL,NULL,https://www.wikidata.org/wiki/Q23640,BodyParts,NULL,NULL
+110,headband,Kopfband,NULL,"headbands, hair band",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q934849,Ornaments,NULL,NULL
+111,headdress,Kopfschmuck,NULL,headresses,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q14952,Clothing,NULL,NULL
+112,helmet,Helm,NULL,"helmets, helm, Corinthian helm",,NULL,NULL,https://www.wikidata.org/wiki/Q173603,Clothing,Headdress,NULL
+113,herm,Herm,"Pfeilerschaft mit aufgesetzter Büste",herma,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q376693,Statues,NULL,NULL
+114,himation,Himation,Bürgermantel,himatia,Pallium,NULL,NULL,https://www.wikidata.org/wiki/Q781731,Clothing,NULL,NULL
+115,hook,Haken,NULL,hooks,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q4243098,Tools,NULL,NULL
+116,hydria,Hydria,Wassergefäß,hydriai,Hydrien,NULL,NULL,https://www.wikidata.org/wiki/Q745783,Vessel-Jar,NULL,NULL
+117,"ivy leaf",Efeublatt,NULL,"ivy leaves",,NULL,NULL,https://www.wikidata.org/wiki/Q26354,Ornaments,NULL,NULL
+118,"ivy wreath",Efeukranz,NULL,"ivy wreaths",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q41977532,Ornaments,NULL,NULL
+119,jar,Krug,NULL,"jars, jug",,NULL,NULL,https://www.wikidata.org/wiki/Q1207302,Vessel-Jar,NULL,NULL
+120,javelin,Speerwurf,"aus OCRE",javelins,,NULL,NULL,https://www.wikidata.org/wiki/Q3757641,Arms,NULL,NULL
+121,jaw,Kiefer,"aus OCRE",jaws,,NULL,NULL,https://www.wikidata.org/wiki/Q180284,BodyParts,NULL,NULL
+122,kalathos,Kalathos,Korb,"calathos, kalathoi",NULL,NULL,NULL,https://www.wikidata.org/wiki/Q492461,Vessel-Jar,NULL,NULL
+123,kline,Kline,Liege,klinai,,NULL,NULL,https://www.wikidata.org/wiki/Q922892,Interieur-Furniture,NULL,NULL
+124,knee,Knie,"aus OCRE",knees,,NULL,NULL,https://www.wikidata.org/wiki/Q37425,BodyParts,NULL,NULL
+125,krater,Krater,Weinmischgefäß,"crater, kraters, craters",,NULL,NULL,https://www.wikidata.org/wiki/Q476968,Vessel-Jar,NULL,NULL
+126,kyrbasia,Kyrbasia,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q110127911,Clothing,NULL,NULL
+127,ladder,Leiter,NULL,ladders,,NULL,NULL,https://www.wikidata.org/wiki/Q168639,Tools,NULL,NULL
+128,lance,Lanze,NULL,lances,,NULL,NULL,https://www.wikidata.org/wiki/Q2003053,Arms,NULL,NULL
+129,"laurel branch",Lorbeerzweig,NULL,"laurel branches",,NULL,NULL,https://www.wikidata.org/wiki/Q62382636,Ornaments,NULL,NULL
+130,"laurel wreath",Lorbeerkranz,NULL,"laurel wreaths",,NULL,NULL,https://www.wikidata.org/wiki/Q734844,Ornaments,NULL,NULL
+131,leash,Leine,NULL,leashes,,NULL,NULL,https://www.wikidata.org/wiki/Q384873,Tools,AnimalRestraints,NULL
+132,"lion skin",Löwenfell,NULL,"lion skins",,NULL,NULL,https://www.wikidata.org/wiki/Q19295193,Clothing,NULL,NULL
+133,lituus,Lituus,"aus OCRE",NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1553522,SacrificialImplements,NULL,NULL
+134,lyre,Leier,NULL,lyres,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q201129,MusicalInstruments,NULL,NULL
+135,mappa,Karte,"aus OCRE",mappae,,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/mappa_object,Ornaments,NULL,NULL
+136,mattock,Hacke,"aus OCRE",mattocks,,NULL,NULL,https://www.wikidata.org/wiki/Q8193873,Tools,NULL,NULL
+137,mausoleum,Mausoleum,"aus OCRE",mausolea,Mausoleen,NULL,NULL,https://www.wikidata.org/wiki/Q162875,Architecture,NULL,NULL
+138,"military attire",Feldherrengewand,NULL,NULL,"Kriegsbekleidung, Kriegertracht",NULL,NULL,https://www.wikidata.org/wiki/Q485027,Clothing,Armour,NULL
+139,mitra,Mitra,Kopfbedeckung,mitrae,Mitren,NULL,NULL,https://www.wikidata.org/wiki/Q193888,Clothing,Headdress,NULL
+140,modius,Modius,"aus OCRE",modia,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q669909,Vessel-Jar,NULL,NULL
+141,mouth,Maul,NULL,mouths,"Mäuler, Mund, Münder",NULL,NULL,https://www.wikidata.org/wiki/Q9635,BodyParts,NULL,NULL
+142,"mural crown",Mauerkrone,NULL,"mural crowns",,NULL,NULL,https://www.wikidata.org/wiki/Q429340,Ornaments,NULL,NULL
+143,"naval ram",Rammsporn,NULL,"naval rams",,NULL,NULL,https://www.wikidata.org/wiki/Q778702,NauticalObject,Ship,ShipPart
+144,necklace,Halskette,NULL,necklaces,,NULL,NULL,https://www.wikidata.org/wiki/Q189299,Ornaments,Jewellery,NULL
+145,nymphaeum,Nymphaeum,NULL,nymphaea,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q731966,Architecture,NULL,NULL
+146,"oak wreath",Eichenkranz,NULL,"oak wreaths",,NULL,NULL,https://www.wikidata.org/wiki/Q58097277,Ornaments,NULL,NULL
+147,oar,Ruder,"aus OCRE",oars,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q2003749,Ornaments,NULL,NULL
+148,obelisk,Obelisk,Steinpfeiler,obelisks,,NULL,NULL,https://www.wikidata.org/wiki/Q170980,Architecture,NULL,NULL
+149,object,Objekt,NULL,objects,,NULL,NULL,https://www.wikidata.org/wiki/Q488383,Ocre_object,NULL,NULL
+150,oinochoe,Oinochoe,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q831869,Vessel-Jar,NULL,NULL
+151,olive-branch,Olivenzweig,NULL,olive-branches,,NULL,NULL,https://www.wikidata.org/wiki/Q138550,Ornaments,NULL,NULL
+152,omphalos,Omphalos,"Stein, der den Nabel der Welt markiert (Delphi)",omphaloi,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q761739,Stone,NULL,NULL
+153,ore,Erz,NULL,ores,,NULL,NULL,https://www.wikidata.org/wiki/Q102798,Metal,NULL,NULL
+154,ornament,Ornament,NULL,ornaments,,NULL,NULL,https://www.wikidata.org/wiki/Q335261,Ornaments,NULL,NULL
+155,palladium,Palladium,"aus OCRE",palladia,"Palladien,  Palladion",NULL,NULL,https://www.wikidata.org/wiki/Q829650,Statues,NULL,NULL
+156,"palm branch",Palmzweig,NULL,"palm branches",Palmenzweige,NULL,NULL,https://www.wikidata.org/wiki/Q696809,Ornaments,NULL,NULL
+157,paludamentum,Paludamentum,Feldherrenmantel,paludamenta,Paludamenten,padulamentum,padulamentum,https://www.wikidata.org/wiki/Q637970,Clothing,NULL,NULL
+158,parazonium,Parazonium,Zierelement,parazonia,Parazonien,NULL,NULL,https://www.wikidata.org/wiki/Q542336,Arms,NULL,NULL
+159,patera,Patera,Spendeschale,paterae,Schale,pathera,pathera,https://www.wikidata.org/wiki/Q1109404,Vessel-Jar,NULL,NULL
+160,pearl,Perle,NULL,pearls,,NULL,NULL,https://www.wikidata.org/wiki/Q43436,Ornaments,Jewellery,NULL
+161,pediment,Giebel,Giebel,pediments,,NULL,NULL,https://www.wikidata.org/wiki/Q190996,Architecture,ArchitecturalElements,NULL
+162,pedum,Pedum,"Krummstab, Hirtenstab","peda, crook",Hirtenstab,NULL,NULL,https://www.wikidata.org/wiki/Q506002,Bar,NULL,NULL
+163,pellet,Pellet,NULL,pellets,Pellette,NULL,NULL,https://www.wikidata.org/wiki/Q60434742,Ornaments,NULL,NULL
+164,pelta,Pelta,"orientalischer Schild",peltae,Pelten,NULL,NULL,https://www.wikidata.org/wiki/Q1460115,Arms,NULL,NULL
+165,petasus,Petasus,Sonnenhut,"petasoi, petasos,  petasi","Petasen,  Petasos",NULL,NULL,https://www.wikidata.org/wiki/Q910792,Clothing,Headdress,NULL
+166,phallus,Phallus,NULL,phalli,Phalli,NULL,NULL,https://www.wikidata.org/wiki/Q168552,BodyParts,NULL,NULL
+167,pileus,Pileus,"aus OCRE",piloi,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1778772,Clothing,Headdress,NULL
+168,pilos,Pilos,Kappe,piloi,,NULL,NULL,https://www.wikidata.org/wiki/Q1778772,Clothing,Headdress,NULL
+169,pincer,Zange,"aus OCRE",pincers,,NULL,NULL,https://www.wikidata.org/wiki/Q840979,Tools,NULL,NULL
+170,platform,Plattform,"aus OCRE",platforms,,NULL,NULL,https://www.wikidata.org/wiki/Q22079390,Architecture,NULL,NULL
+171,plectrum,Plektron,NULL,plectra,"Plektrum,  Plectren,  Plektren, Plectrum",NULL,NULL,https://www.wikidata.org/wiki/Q181890,MusicalInstruments,NULL,NULL
+172,plinth,Plinthe,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q268205,Architecture,NULL,NULL
+173,plow,Pflug,NULL,plows,,NULL,NULL,https://www.wikidata.org/wiki/Q11464,Tools,NULL,NULL
+174,polos,Polos,Kopfschmuck,poloi,,NULL,NULL,https://www.wikidata.org/wiki/Q2067714,Clothing,Headdress,NULL
+175,pot,Topf,NULL,pots,,NULL,NULL,https://www.wikidata.org/wiki/Q3399907,Vessel-Jar,NULL,NULL
+176,"prize crown",Preiskrone,NULL,"price urn, price crown, price crowns, price urns, prize crowns",,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/prize_crown_object,Ornaments,Crown,NULL
+177,prora,Prora,Schiffsbug,prorae,Prore,NULL,NULL,https://www.wikidata.org/wiki/Q4814120,NauticalObject,Ship,ShipPart
+178,prow,Prora,NULL,prows,,NULL,NULL,https://www.wikidata.org/wiki/Q4814120,NauticalObject,Ship,ShipPart
+179,purse,Geldbörse,NULL,purses,,NULL,NULL,https://www.wikidata.org/wiki/Q131740,Tools,NULL,NULL
+180,pyre,Scheiterhaufen,"aus OCRE",pyres,,NULL,NULL,https://www.wikidata.org/wiki/Q736132,Architecture,NULL,NULL
+181,quadriga,Quadriga,"Streitwagen mit vier Pferden",quadrigae,Quadrigen,NULL,NULL,https://www.wikidata.org/wiki/Q155987,VehicelObjects,NULL,NULL
+182,quiver,Köcher,NULL,quivers,,NULL,NULL,https://www.wikidata.org/wiki/Q222560,Arms,NULL,NULL
+183,radiate,Strahlenkrone,"radiate crown","radiate crown, radiate crowns",,NULL,NULL,https://www.wikidata.org/wiki/Q17077242,Ornaments,Crown,NULL
+184,rein,Zügel,NULL,reins,,NULL,NULL,https://www.wikidata.org/wiki/Q2196000,Tools,AnimalRestraints,Harness
+185,rhyton,Rhyton,"hornförmiges Trinkgefäß"," rhyta",Rhyta,NULL,NULL,https://www.wikidata.org/wiki/Q828450,Vessel-Jar,NULL,NULL
+186,ribbon,Band,NULL,ribbons,,NULL,NULL,https://www.wikidata.org/wiki/Q6918773,Ornaments,NULL,NULL
+187,robe,Kleid,NULL,robes,,NULL,NULL,https://www.wikidata.org/wiki/Q345127,Clothing,NULL,NULL
+188,rock,Felsen,NULL,rocks,,NULL,NULL,https://www.wikidata.org/wiki/Q8063,Stone,NULL,NULL
+189,roll,Rolle,"aus OCRE",rolls,,NULL,NULL,https://www.wikidata.org/wiki/Q92311493,Tools,NULL,NULL
+190,roof,Dach,NULL,roofs,,NULL,NULL,https://www.wikidata.org/wiki/Q83180,Architecture,ArchitecturalElements,NULL
+191,rosette,Rosette,NULL,rosettes,,NULL,NULL,https://www.wikidata.org/wiki/Q1277215,Architecture,ArchitecturalElements,ArchitecturalOrnaments
+192,rudder,Ruder,NULL,rudders,Steuerruder,ruder,NULL,https://www.wikidata.org/wiki/Q209760,NauticalObject,Ship,ShipPart
+193,sail,Segel,NULL,sails,,NULL,NULL,https://www.wikidata.org/wiki/Q25999,NauticalObject,Ship,ShipPart
+194,sandal,Sandale,NULL,sandals,Sandalen,NULL,NULL,https://www.wikidata.org/wiki/Q131704,Clothing,NULL,NULL
+195,scale,Schuppe,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q188488,Clothing,Armour,NULL
+196,"scale cuirass",Schuppenpanzer,NULL,"scale cuirasses",,NULL,NULL,https://www.wikidata.org/wiki/Q574602,Clothing,Armour,NULL
+197,scales,Waage,NULL,NULL,,NULL,NULL,https://www.wikidata.org/wiki/Q134566,Tools,NULL,NULL
+198,scepter,Zepter,NULL,"sceptre,  scepters, sceptres",,scetpre,scetpre,https://www.wikidata.org/wiki/Q152065,Bar,NULL,NULL
+199,scroll,Schriftrolle,NULL,scrolls,,NULL,NULL,https://www.wikidata.org/wiki/Q720106,Tools,NULL,NULL
+200,"serpent staff",Schlangenstab,NULL,"serpent staffs",,NULL,NULL,https://www.wikidata.org/wiki/Q223377,Ornaments,NULL,NULL
+201,shield,Schild,NULL,shields,,NULL,NULL,https://www.wikidata.org/wiki/Q131559,Arms,NULL,NULL
+202,ship,Schiff,NULL,ships,,NULL,NULL,https://www.wikidata.org/wiki/Q11446,NauticalObject,Ship,NULL
+203,shrine,Schrein,"aus OCRE",shrines,,NULL,NULL,https://www.wikidata.org/wiki/Q697295,Architecture,NULL,NULL
+204,sickle,Sichel,"aus OCRE",sickles,,NULL,NULL,https://www.wikidata.org/wiki/Q42233,Tools,NULL,NULL
+205,simpulum,Simpulum,"aus OCRE",simpula,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q574487,SacrificialImplements,NULL,NULL
+206,simulacrum,Simulacrum,"aus CN Erweiterung",simulacra,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1412596,Ornaments,NULL,NULL
+207,sistrum,Sistrum,Musikinstrument," sistra",,NULL,NULL,https://www.wikidata.org/wiki/Q426948,MusicalInstruments,NULL,NULL
+208,situla,Situla,Gefäß,situlae,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1650313,Vessel-Jar,NULL,NULL
+209,spear,Speer,NULL,spears,,spearight,spearight,https://www.wikidata.org/wiki/Q44475,Arms,NULL,NULL
+210,sprinkler,Sprenger,"aus OCRE",sprinklers,NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/sprinkler_object,SacrificialImplements,NULL,NULL
+211,staff,Stab,NULL,staffs,,NULL,NULL,https://www.wikidata.org/wiki/Q10971443,Tools,NULL,NULL
+212,standard,Standarte,NULL,standards,,NULL,NULL,https://www.wikidata.org/wiki/Q351240,Ornaments,NULL,NULL
+213,star,Stern,NULL,stars,,NULL,NULL,https://www.wikidata.org/wiki/Q1191504,Astrological,NULL,NULL
+214,statue,Statue,NULL,statues,,NULL,NULL,https://www.wikidata.org/wiki/Q179700,Statues,NULL,NULL
+215,statuette,Statuette,NULL,statuettes,,NULL,NULL,https://www.wikidata.org/wiki/Q1066288,Statues,NULL,NULL
+216,stefane,Stefane,Kopfschmuck,"stephanos,  stephane,  stephanoi",stephane,NULL,NULL,https://www.wikidata.org/wiki/Q7608187,Clothing,Headdress,NULL
+217,step,Stufe,"aus OCRE",steps,,NULL,NULL,https://www.wikidata.org/wiki/Q53996838,Interieur-Furniture,NULL,NULL
+218,stern,Heck,NULL,sterns,,NULL,NULL,https://www.wikidata.org/wiki/Q273062,NauticalObject,Ship,ShipPart
+219,stick,Stock,"aus OCRE",sticks,,NULL,NULL,https://www.wikidata.org/wiki/Q10971443,Bar,NULL,NULL
+220,stoa,Stoa,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q327328,Architecture,NULL,NULL
+221,stone,Stein,NULL,stones,,NULL,NULL,https://www.wikidata.org/wiki/Q22731,Stone,NULL,NULL
+222,strap,Gurt,NULL,straps," Rieme",NULL,NULL,https://www.wikidata.org/wiki/Q3217573,Tools,NULL,NULL
+223,sun,Sonne,NULL,suns,,NULL,NULL,https://www.wikidata.org/wiki/Q525,Astrological,NULL,NULL
+224,swastika,Swastika,NULL,swastikae,,NULL,NULL,https://www.wikidata.org/wiki/Q45513,Ornaments,NULL,NULL
+225,sword,Schwert,NULL,swords,,NULL,NULL,https://www.wikidata.org/wiki/Q12791,Arms,NULL,NULL
+226,syrinx,Syrinx,"aus OCRE",syrinxes,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q10902606,MusicalInstruments,NULL,NULL
+227,table,Tisch,NULL,tables,,NULL,NULL,https://www.wikidata.org/wiki/Q14748,Interieur-Furniture,NULL,NULL
+228,tablet,Tablett,"aus OCRE",tablets,,NULL,NULL,https://www.wikidata.org/wiki/Q16744570,Ornaments,NULL,NULL
+229,taenia,Taenia,Binde,teniae,,NULL,NULL,https://www.wikidata.org/wiki/Q2463628,Ornaments,NULL,NULL
+230,temple,Tempel,NULL,temples,,NULL,NULL,https://www.wikidata.org/wiki/Q44539,Architecture,NULL,NULL
+231,tensa,Tensa,"aus OCRE",tensae,NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/tensa_object,VehicelObjects,NULL,NULL
+232,tessera,Tessera,"aus OCRE",tesserae,Terassen,NULL,NULL,https://www.wikidata.org/wiki/Q9137136,Tools,NULL,NULL
+233,throne,Thron,NULL,thrones,,NULL,NULL,https://www.wikidata.org/wiki/Q189233,Interieur-Furniture,NULL,NULL
+234,thunderbolt,Blitz,NULL,thunderbolts,Blitzbündel,thunderbold,,https://www.wikidata.org/wiki/Q2794866,Astrological,NULL,NULL
+235,thymiaterion,Thymiaterion,Räuchergefäß,thymateria,thymateria,NULL,NULL,https://www.wikidata.org/wiki/Q662620,Vessel-Jar,NULL,NULL
+236,thyrsus,Thyrsos,"pflanzlicher Stab des Dionysos und seiner Begleiter","thyrsi,  thyrsoi, thyrsos","thyrsus,  thyrsi,  thyrsoi, thyrsosstab",NULL,NULL,https://www.wikidata.org/wiki/Q536850,Bar,NULL,NULL
+237,tiara,Tiara,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q749249,Ornaments,NULL,NULL
+238,toga,Toga,"Gewand römischer männlicher Bürger",togae,Togen,NULL,NULL,https://www.wikidata.org/wiki/Q183171,Clothing,NULL,NULL
+239,torch,Fackel,NULL,torches,,NULL,NULL,https://www.wikidata.org/wiki/Q327954,Tools,NULL,NULL
+240,tower,Turm,NULL,towers,,NULL,NULL,https://www.wikidata.org/wiki/Q12518,Architecture,NULL,NULL
+241,trabea,Trabea,"aus OCRE",trabeae,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q1620647,Clothing,NULL,NULL
+242,trident,Dreizack,NULL,tridents,,NULL,NULL,https://www.wikidata.org/wiki/Q271628,Arms,NULL,NULL
+243,tripod,Dreifuß,Dreifuß,tripods,Dreibein,NULL,NULL,https://www.wikidata.org/wiki/Q915527,Interieur-Furniture,NULL,NULL
+244,triskele,Triskele,NULL,"triskelion, triskelia, triskeles",triskelion,NULL,NULL,https://www.wikidata.org/wiki/Q183534,Ornaments,NULL,NULL
+245,tropaion,Tropaion,Siegeszeichen,tropaia," tropaia",NULL,NULL,https://www.wikidata.org/wiki/Q1753584,Architecture,NULL,NULL
+246,trophy,Trophäe,NULL,trophies,,NULL,NULL,https://www.wikidata.org/wiki/Q381165,Architecture,NULL,NULL
+247,tunic,Tunika,"aus OCRE",tunica,,NULL,NULL,https://www.wikidata.org/wiki/Q201714,Clothing,NULL,NULL
+248,tympanon,Tympanon,"Musikinstrument (Handtrommel)","tympana, tympanum",Tympana,NULL,NULL,https://www.wikidata.org/wiki/Q386382,MusicalInstruments,NULL,NULL
+249,urn,Urne,NULL,urns,,NULL,NULL,https://www.wikidata.org/wiki/Q11083119,Vessel-Jar,NULL,NULL
+250,vase,Vase,"aus OCRE",vases,,NULL,NULL,https://www.wikidata.org/wiki/Q191851,Vessel-Jar,NULL,NULL
+251,veil,Schleier,NULL,veils,,NULL,NULL,https://www.wikidata.org/wiki/Q6497446,Clothing,NULL,NULL
+252,vessel,Gefäß,NULL,vessels,,NULL,NULL,https://www.wikidata.org/wiki/Q987767,Vessel-Jar,NULL,NULL
+253,vexillum,Vexillum,Feldzeichen,vexilla,vexilla,NULL,NULL,https://www.wikidata.org/wiki/Q264655,Ornaments,NULL,NULL
+254,visor,Schirm,NULL,visors,,NULL,NULL,https://www.wikidata.org/wiki/Q17839578,Arms,NULL,NULL
+255,wand,Zauberstab,"aus OCRE",wands,,NULL,NULL,https://www.wikidata.org/wiki/Q148493,Ornaments,NULL,NULL
+256,"water urn",Quellgefäß,NULL,"water urns",NULL,NULL,NULL,http://www.dbis.cs.uni-frankfurt.de/cnt/id/water_urn_object,Vessel-Jar,NULL,NULL
+257,weapon,Waffe,"aus OCRE",weapons,,NULL,NULL,https://www.wikidata.org/wiki/Q728,Arms,NULL,NULL
+258,wheel,Rad,NULL,wheels,,NULL,NULL,https://www.wikidata.org/wiki/Q446,VehicelObjects,NULL,NULL
+259,whip,Peitsche,NULL,whips,,NULL,NULL,https://www.wikidata.org/wiki/Q152910,Tools,NULL,NULL
+260,"wine skin",Weinschlauch,NULL,"wineskin, winer skins, wineskins",Schlauch,NULL,NULL,https://www.wikidata.org/wiki/Q21094365,Vessel-Jar,NULL,NULL
+261,wreath,Kranz,NULL,wreaths,,NULL,NULL,https://www.wikidata.org/wiki/Q1201922,Clothing,Headdress,NULL
+262,zodiac,Zodiac,NULL,zodiacs,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q40540,Astrological,NULL,NULL

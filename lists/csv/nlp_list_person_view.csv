@@ -2,11 +2,12 @@ value,link
 58396,https://www.britishmuseum.org/collection/term/BIOG58396
 60208,https://www.britishmuseum.org/collection/term/BIOG60208
 Abundantia,http://thesauri.dainst.org/de/labels/_2954_dda8d5222699ed48bac6170d657ff3c3-l7.html
+Actaeon,https://www.wikidata.org/wiki/Q208531
 aelia_eudoxia,http://nomisma.org/id/aelia_eudoxia
 aelia_pulcheria,http://nomisma.org/id/aelia_pulcheria
 aelia_verina,http://nomisma.org/id/aelia_verina
 Aemilian,http://nomisma.org/id/aemilian
-"Aeneas ",https://www.britishmuseum.org/collection/term/BIOG56894
+Aeneas,https://www.britishmuseum.org/collection/term/BIOG56894
 Aequitas,https://www.wikidata.org/wiki/Q381061
 Aesculapius,https://www.wikidata.org/wiki/Q83223
 Africa,http://thesauri.dainst.org/de/labels/_2731_fad6ec69ac315c4f27270814c5e6d73c-l13.html
@@ -50,6 +51,7 @@ Apollo,https://www.britishmuseum.org/collection/term/BIOG56988
 "Apollo Citharoedus",https://www.britishmuseum.org/collection/term/BIOG56988
 "Apollo Karinos",https://www.britishmuseum.org/collection/term/BIOG56988
 "Apollo Sauroctonos",https://www.britishmuseum.org/collection/term/BIOG56988
+"Apollo Smintheus",https://www.britishmuseum.org/collection/term/BIOG56988
 Apollon,https://www.wikidata.org/wiki/Q37340
 "Apollon Keraunos",https://www.wikidata.org/wiki/Q37340
 "Apollon Kitharoedus",https://www.britishmuseum.org/collection/term/BIOG56988
@@ -86,10 +88,13 @@ Basiliscus,http://nomisma.org/id/basiliscus
 Bithynia,http://thesauri.dainst.org/de/labels/_3640_66ed69bd8784ee81aecb0966431b3202-l155.html
 "Bona Mens",https://www.wikidata.org/wiki/Q1133048
 "Bonus Eventus",https://www.britishmuseum.org/collection/term/BIOG57291
+Boule,https://www.wikidata.org/wiki/Q729128
+Boxer,https://www.wikidata.org/wiki/Q11338576
 Britannia,http://thesauri.dainst.org/de/labels/_2731_77151cfcd2a0894f14328f980185fef5-l35.html
 Britannicus,http://nomisma.org/id/britannicus
 Bürgerin,https://www.wikidata.org/wiki/Q1020994
 Byzas,https://www.wikidata.org/wiki/Q863859
+Caicus,https://www.wikidata.org/wiki/Q1737602
 Caligula,http://nomisma.org/id/gaius
 Capaneus,https://www.wikidata.org/wiki/Q833806
 Caracalla,http://nomisma.org/id/caracalla
@@ -154,6 +159,7 @@ Dancer,https://www.wikidata.org/wiki/Q5716684
 dancers,https://www.wikidata.org/wiki/Q5716684
 Danube,https://www.wikidata.org/wiki/Q836016
 Danuvius,https://www.wikidata.org/wiki/Q836016
+Dardanos,https://www.wikidata.org/wiki/Q461212
 "Dea Caelestis",https://www.britishmuseum.org/collection/term/BIOG188733
 Decentius,http://nomisma.org/id/decentius
 Decius,http://nomisma.org/id/trajan_decius
@@ -182,6 +188,7 @@ Domitian,http://nomisma.org/id/domitian
 Domitianus,http://nomisma.org/id/domitian
 "Domitius Alexander",http://nomisma.org/id/domitius_alexander
 domitius_alexander,http://nomisma.org/id/domitius_alexander
+Earth,https://www.wikidata.org/wiki/Q93172
 Earth,https://www.britishmuseum.org/collection/term/BIOG58378
 Eirene,https://www.wikidata.org/wiki/Q214987
 Elagabal,http://nomisma.org/id/elagabalus
@@ -196,6 +203,7 @@ Euphratides,http://www.dbis.cs.uni-frankfurt.de/cnt/id/Euphratides_person
 Europa,https://www.britishmuseum.org/collection/term/BIOG58139
 Eurypylos,http://thesauri.dainst.org/de/labels/_3406_14559e0e064e86044f21c66e3fc7df6f-l299.html
 Eurystheus,https://www.wikidata.org/wiki/Q212087
+Euthenia,https://www.wikidata.org/wiki/Q3314298
 Fausta,http://nomisma.org/id/fausta
 "Faustina I",http://nomisma.org/id/faustina_i
 "Faustina I.",http://nomisma.org/id/faustina_i
@@ -220,6 +228,7 @@ Fortuna,https://www.wikidata.org/wiki/Q4654
 "Fortuna Felix",https://www.wikidata.org/wiki/Q4654
 "Fortuna Victrix",https://www.wikidata.org/wiki/Q4654
 "Fulvius Macrianus",http://nomisma.org/id/macrianus_major
+Gä,https://www.wikidata.org/wiki/Q93172
 Gaia,https://www.britishmuseum.org/collection/term/BIOG58378
 "Gaius Caesar",http://nomisma.org/id/gaius_caesar
 gaius_caesar,http://nomisma.org/id/gaius_caesar
@@ -235,6 +244,7 @@ Ganymede,https://www.wikidata.org/wiki/Q131588
 Gaul,https://www.wikidata.org/wiki/Q273854
 gauls,https://www.wikidata.org/wiki/Q273854
 Ge,https://www.britishmuseum.org/collection/term/BIOG58378
+Ge,https://www.wikidata.org/wiki/Q93172
 Genius,https://www.britishmuseum.org/collection/term/BIOG58396
 "Genius Exercitus",https://www.wikidata.org/wiki/Q654361
 "Genius of the Roman people",https://www.wikidata.org/wiki/Q654361
@@ -261,6 +271,7 @@ Hecate,https://www.britishmuseum.org/collection/term/BIOG58608
 Hekate,https://www.britishmuseum.org/collection/term/BIOG58608
 Helena,http://nomisma.org/id/helena
 Helios,https://www.britishmuseum.org/collection/term/BIOG58616
+Helle,https://www.wikidata.org/wiki/Q638578
 Hephaestos,https://www.wikidata.org/wiki/Q44384
 Hephaestus,https://www.wikidata.org/wiki/Q44384
 Hephaistus,https://www.wikidata.org/wiki/Q44384
@@ -288,6 +299,7 @@ Ianus,https://www.wikidata.org/wiki/Q167685
 Indulgentia,http://www.dbis.cs.uni-frankfurt.de/cnt/id/Indulgentia_person
 Iole,https://www.wikidata.org/wiki/Q744147
 Isis,https://www.britishmuseum.org/collection/term/BIOG54025
+"Isis (Ploiaphesia)",https://www.britishmuseum.org/collection/term/BIOG54025
 "Isis Pharia",https://www.britishmuseum.org/collection/term/BIOG54025
 "Isis Ploiaphesia",https://www.britishmuseum.org/collection/term/BIOG54025
 Italia,http://thesauri.dainst.org/de/labels/_2731_86edeb9a442432432ac77709b3ca0f7c-l75.html
@@ -331,12 +343,14 @@ Jupiter,https://www.wikidata.org/wiki/Q4649
 "Jupiter Karios",https://www.wikidata.org/wiki/Q4649
 Justitia,https://www.wikidata.org/wiki/Q1102307
 Juventas,https://www.wikidata.org/wiki/Q1367680
+Kaikos,https://www.wikidata.org/wiki/Q1737602
 Keroessa,http://www.dbis.cs.uni-frankfurt.de/cnt/id/keroessa_person
 "Konstantin des Großen",http://nomisma.org/id/constantine_i
 Kore,https://www.wikidata.org/wiki/Q45967
 Koronis,https://www.wikidata.org/wiki/Q725286
 Kotys,https://www.wikidata.org/wiki/Q1263290
 "Kotys I",https://www.wikidata.org/wiki/Q1263290
+"Kotys III",https://www.wikidata.org/wiki/Q5175909
 Krispina,http://nomisma.org/id/crispina
 Kybele,https://www.britishmuseum.org/collection/term/BIOG57657
 Laelianus,http://nomisma.org/id/laelianus
@@ -377,6 +391,7 @@ Magnentius,http://nomisma.org/id/magnentius
 magnus_maximus,http://nomisma.org/id/magnus_maximus
 Maia,https://www.wikidata.org/wiki/Q205233
 Majorian,http://nomisma.org/id/majorian
+Makestos,http://www.dbis.cs.uni-frankfurt.de/cnt/id/makestos
 male,https://www.wikidata.org/wiki/Q8441
 man,https://www.wikidata.org/wiki/Q8441
 "Marc Aurel",http://nomisma.org/id/marcus_aurelius
@@ -440,12 +455,14 @@ Octavian,http://nomisma.org/id/augustus
 Oiskos,http://www.dbis.cs.uni-frankfurt.de/cnt/id/Oiskos_person
 Oktavia,http://nomisma.org/id/claudia_octavia
 Olybrius,http://nomisma.org/id/olybrius
+Omphale,https://www.wikidata.org/wiki/Q486698
 Orpheus,https://www.britishmuseum.org/collection/term/BIOG59672
 Otacilia,http://nomisma.org/id/otacilia_severa
 "Otacilia Severa",http://nomisma.org/id/otacilia_severa
 otacilia_severa,http://nomisma.org/id/otacilia_severa
 Otho,http://nomisma.org/id/otho
 Pan,https://www.britishmuseum.org/collection/term/BIOG59726
+Paris,https://www.wikidata.org/wiki/Q167646
 Parthia,http://www.dbis.cs.uni-frankfurt.de/cnt/id/Parthia_person
 Parthian,https://www.wikidata.org/wiki/Q28045596
 parthians,https://www.wikidata.org/wiki/Q28045596
@@ -457,23 +474,31 @@ Perinthos,http://www.dbis.cs.uni-frankfurt.de/cnt/id/perinthos_person
 Perpetuitas,http://www.dbis.cs.uni-frankfurt.de/cnt/id/Perpetuitas_person
 Persephone,https://www.wikidata.org/wiki/Q45967
 Perseus,https://www.britishmuseum.org/collection/term/BIOG59759
+persian,https://www.wikidata.org/wiki/Q83311
+persians,https://www.wikidata.org/wiki/Q83311
 Pertinax,http://nomisma.org/id/pertinax
 "Pescennius Niger",http://nomisma.org/id/pescennius_niger
 pescennius_niger,http://nomisma.org/id/pescennius_niger
 "Petronius Maximus",http://nomisma.org/id/petronius_maximus
 petronius_maximus,http://nomisma.org/id/petronius_maximus
+Philetaerus,https://www.wikidata.org/wiki/Q312452
+Philetairos,https://www.wikidata.org/wiki/Q312452
 "Philip I",http://nomisma.org/id/philip_the_arab
 "Philip II",http://nomisma.org/id/philippus_ii
 "Philip the Arab",http://nomisma.org/id/philip_the_arab
+"Philip the Elder",http://nomisma.org/id/philip_the_arab
 "Philip the Younger",http://nomisma.org/id/philippus_ii
 philip_the_arab,http://nomisma.org/id/philip_the_arab
+"Philipp der Ältere",http://nomisma.org/id/philip_the_arab
 "Philipp I.",http://nomisma.org/id/philip_the_arab
 "Philipp II",http://nomisma.org/id/philippus_ii
+"Philipp II.",http://nomisma.org/id/philippus_ii
 "Philippus Arabs",http://nomisma.org/id/philip_the_arab
 "Philippus I",http://nomisma.org/id/philip_the_arab
 "Philippus II",http://nomisma.org/id/philippus_ii
 "Philippus II",http://nomisma.org/id/philip_ii
 "Philippus II.",http://nomisma.org/id/philip_ii
+"Philippus iunior",http://nomisma.org/id/philippus_ii
 philippus_ii,http://nomisma.org/id/philippus_ii
 "Phillipp II",http://nomisma.org/id/philip_ii
 Phoenicia,http://www.dbis.cs.uni-frankfurt.de/cnt/id/Phoenicia_person
@@ -482,6 +507,7 @@ Pietas,https://www.wikidata.org/wiki/Q2643299
 Plautilla,http://nomisma.org/id/plautilla
 Plotina,http://nomisma.org/id/plotina
 Pluto,https://www.wikidata.org/wiki/Q152262
+Poimes,http://www.dbis.cs.uni-frankfurt.de/cnt/id/poimes
 Pollux,https://www.wikidata.org/wiki/Q190103
 Polydeuces,https://www.wikidata.org/wiki/Q12046224
 Pontos,http://www.dbis.cs.uni-frankfurt.de/cnt/id/pontos
@@ -505,9 +531,11 @@ Quies,http://thesauri.dainst.org/de/labels/_3929_c1ef3c5137b964d3504ec9e018ad65c
 Quintillus,http://nomisma.org/id/quintillus
 Remus,https://www.britishmuseum.org/collection/term/BIOG60203
 Respublica,http://www.dbis.cs.uni-frankfurt.de/cnt/id/Respublica_person
+"Rhaiskouporis II",http://www.dbis.cs.uni-frankfurt.de/cnt/id/rhaiskouporis_ii
 "Rhea Silvia",https://www.britishmuseum.org/collection/term/BIOG60206
 Rhenus,https://www.wikidata.org/wiki/Q1295929
 "Rhoemetalces I",https://www.britishmuseum.org/collection/term/BIOG97541
+"Rhoimetalces III",http://www.dbis.cs.uni-frankfurt.de/cnt/id/rhoimetalces_iii
 "river god",https://www.wikidata.org/wiki/Q1434313
 "river gods",https://www.wikidata.org/wiki/Q1434313
 river-god,https://www.wikidata.org/wiki/Q1434313
@@ -520,6 +548,8 @@ romulus_augustulus,http://nomisma.org/id/romulus_augustulus
 Sabina,http://nomisma.org/id/sabina
 sabinia_tranquillina,http://nomisma.org/id/sabinia_tranquillina
 "Sabinus Julianus",http://nomisma.org/id/sabinus_julianus
+"Sadalas II",https://www.wikidata.org/wiki/Q3461086
+"Sadales II",https://www.wikidata.org/wiki/Q3461086
 "Saeculum Frugiferum",http://www.dbis.cs.uni-frankfurt.de/cnt/id/SeaculumFrugiferum_person
 Salonina,http://nomisma.org/id/cornelia_salonina
 Saloninus,http://nomisma.org/id/saloninus
@@ -566,6 +596,7 @@ Sol,https://www.wikidata.org/wiki/Q214494
 Soldier,https://www.wikidata.org/wiki/Q4991371
 soldiers,https://www.wikidata.org/wiki/Q4991371
 Spes,https://www.wikidata.org/wiki/Q1482478
+Spithridates,https://www.wikidata.org/wiki/Q930886
 Strymon,https://www.wikidata.org/wiki/Q3625559
 Sun,https://www.wikidata.org/wiki/Q214494
 Tacitus,http://nomisma.org/id/tacitus
@@ -611,6 +642,7 @@ Tutela,https://www.wikidata.org/wiki/Q6154076
 twins,https://www.wikidata.org/wiki/Q14756018
 Tyche,https://www.britishmuseum.org/collection/term/BIOG58260
 "Tyche of Pergamum",https://www.britishmuseum.org/collection/term/BIOG58260
+"Tyche of Perinthus",https://www.britishmuseum.org/collection/term/BIOG58260
 "Tyche Poleos",https://www.britishmuseum.org/collection/term/BIOG58260
 ulpia_severina,http://nomisma.org/id/ulpia_severina
 Valens,http://nomisma.org/id/valens
@@ -647,6 +679,8 @@ warrior,https://www.wikidata.org/wiki/Q4991371
 warriors,https://www.wikidata.org/wiki/Q4991371
 woman,https://www.wikidata.org/wiki/Q467
 women,https://www.wikidata.org/wiki/Q467
+wrestler,https://www.wikidata.org/wiki/Q27978698
+wrestlers,https://www.wikidata.org/wiki/Q27978698
 Youth,https://www.wikidata.org/wiki/Q190007
 youths,https://www.wikidata.org/wiki/Q190007
 Zeno,http://nomisma.org/id/zeno
