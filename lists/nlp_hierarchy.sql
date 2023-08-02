@@ -15,9 +15,6 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 
--- Exportiere Datenbank Struktur für thrakien_d4n4
-CREATE DATABASE IF NOT EXISTS `thrakien_d4n4` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `thrakien_d4n4`;
 
 -- Exportiere Struktur von Tabelle thrakien_d4n4.nlp_hierarchy
 CREATE TABLE IF NOT EXISTS `nlp_hierarchy` (
@@ -26,7 +23,7 @@ CREATE TABLE IF NOT EXISTS `nlp_hierarchy` (
   `class_uri` varchar(70) DEFAULT NULL,
   `superclass_uri` varchar(70) DEFAULT NULL,
   PRIMARY KEY (`class`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB;
 
 -- Exportiere Daten aus Tabelle thrakien_d4n4.nlp_hierarchy: ~103 rows (ungefähr)
 INSERT INTO `nlp_hierarchy` (`class`, `superclass`, `class_uri`, `superclass_uri`) VALUES
