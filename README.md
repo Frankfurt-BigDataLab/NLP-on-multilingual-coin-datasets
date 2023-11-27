@@ -2,7 +2,7 @@
 -----------
 
 ### Experimental: You can try it
-Open under Corpus Numorum (https://www.corpus-nummorum.eu/images/logos/cnt-on.png)(https://www.corpus-nummorum.eu/resources/nlp)
+[Open under Corpus Numorum](https://www.corpus-nummorum.eu/resources/nlp)
 
 or test it in Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frankfurt-BigDataLab/NLP-on-multilingual-coin-datasets/blob/main/Colab/NER.ipynb)
