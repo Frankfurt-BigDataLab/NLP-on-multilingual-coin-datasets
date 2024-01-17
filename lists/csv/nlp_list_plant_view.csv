@@ -22,6 +22,7 @@ fruit,https://www.wikidata.org/wiki/Q3314483
 fruits,https://www.wikidata.org/wiki/Q3314483
 grain,https://www.wikidata.org/wiki/Q2995529
 "grain ear",https://www.wikidata.org/wiki/Q2995529
+"grain wreath",https://www.wikidata.org/wiki/Q2995529
 grains,https://www.wikidata.org/wiki/Q2995529
 grape,https://www.wikidata.org/wiki/Q10978
 grapes,https://www.wikidata.org/wiki/Q10978
@@ -29,6 +30,8 @@ grapevine,https://www.wikidata.org/wiki/Q917284
 grapevines,https://www.wikidata.org/wiki/Q917284
 ivy,https://www.wikidata.org/wiki/Q26771
 laurel,https://www.wikidata.org/wiki/Q26006
+"laurel tree",https://www.wikidata.org/wiki/Q26006
+"laurel trees",https://www.wikidata.org/wiki/Q26006
 leaf,https://www.wikidata.org/wiki/Q33971
 leaves,https://www.wikidata.org/wiki/Q33971
 loti,https://www.wikidata.org/wiki/Q3645698
@@ -38,6 +41,8 @@ oaks,https://www.wikidata.org/wiki/Q12004
 olive,https://www.wikidata.org/wiki/Q37083
 olives,https://www.wikidata.org/wiki/Q37083
 palm,https://www.wikidata.org/wiki/Q2709536
+"palm branch",https://www.wikidata.org/wiki/Q2923673
+"palm branches",https://www.wikidata.org/wiki/Q2923673
 "palm tree",https://www.wikidata.org/wiki/Q2709536
 "palm trees",https://www.wikidata.org/wiki/Q2709536
 palmette,https://www.wikidata.org/wiki/Q677655
@@ -61,6 +66,8 @@ starflowers,https://www.wikidata.org/wiki/Q147075
 thorn,https://www.wikidata.org/wiki/Q201851
 thorns,https://www.wikidata.org/wiki/Q201851
 tree,https://www.wikidata.org/wiki/Q10884
+"tree branch",https://www.wikidata.org/wiki/Q2923673
+"tree branches",https://www.wikidata.org/wiki/Q2923673
 trees,https://www.wikidata.org/wiki/Q10884
 vine,https://www.wikidata.org/wiki/Q917284
 vines,https://www.wikidata.org/wiki/Q917284

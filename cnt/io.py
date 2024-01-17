@@ -28,6 +28,7 @@ class Database_Connection():
 
         except:
              print("SQL query failed.")
+             return
 
         return table
 

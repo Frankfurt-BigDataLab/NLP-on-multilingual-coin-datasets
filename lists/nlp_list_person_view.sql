@@ -15,16 +15,13 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 
--- Exportiere Datenbank Struktur für thrakien_d4n4
-CREATE DATABASE IF NOT EXISTS `thrakien_d4n4` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `thrakien_d4n4`;
 
 -- Exportiere Struktur von View thrakien_d4n4.nlp_list_person_view
 -- Erstelle temporäre Tabelle um View Abhängigkeiten zuvorzukommen
 CREATE TABLE `nlp_list_person_view` (
 	`value` MEDIUMTEXT NULL COLLATE 'utf8mb4_unicode_ci',
 	`link` MEDIUMTEXT NULL COLLATE 'utf8mb4_unicode_ci'
-) ENGINE=MyISAM;
+);
 
 -- Exportiere Struktur von View thrakien_d4n4.nlp_list_person_view
 -- Entferne temporäre Tabelle und erstelle die eigentliche View

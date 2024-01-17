@@ -1,9 +1,17 @@
 # NLP-on-multilingual-coin-descriptions
 -----------
 
-### Experimental: You can try it in Google Colab
-
+### Experimental: You can try it as a human: [Open under Corpus Numorum](https://www.corpus-nummorum.eu/resources/nlp)
+or test it in Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frankfurt-BigDataLab/NLP-on-multilingual-coin-datasets/blob/main/Colab/NER.ipynb)
+
+### Use it in your code via FastAPI:
+There is also a FastAPI were you can POST requests with parameters in a JSON block: https://data.corpus-nummorum.eu/api/nlp#/default/
+Providing:
+- /ner/ Named Entity Recognition
+- /re/ Predict Relation Extraction
+- /rdf/ The generation of a RDF representation for NER and RE
+
 
 -----------
 Access relevant information from iconographies of the Corpus Numorum Online using natural language processing. Improvement of named entity recognition, followed by the extraction of relationships for the entity types "PERSON", "OBJECT", "ANIMAL" and "PLANT".

@@ -15,9 +15,6 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 
--- Exportiere Datenbank Struktur für thrakien_d4n4
-CREATE DATABASE IF NOT EXISTS `thrakien_d4n4` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `thrakien_d4n4`;
 
 -- Exportiere Struktur von Tabelle thrakien_d4n4.nlp_list_obj
 CREATE TABLE IF NOT EXISTS `nlp_list_obj` (
