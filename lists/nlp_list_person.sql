@@ -14,8 +14,6 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-
-
 -- Exportiere Struktur von Tabelle thrakien_d4n4.nlp_list_person
 CREATE TABLE IF NOT EXISTS `nlp_list_person` (
   `id` bigint NOT NULL AUTO_INCREMENT,
@@ -33,15 +31,15 @@ CREATE TABLE IF NOT EXISTS `nlp_list_person` (
   `Cat_IV` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
   `Cat_V` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=512 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=414 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
--- Exportiere Daten aus Tabelle thrakien_d4n4.nlp_list_person: ~387 rows (ungefähr)
+-- Exportiere Daten aus Tabelle thrakien_d4n4.nlp_list_person: ~412 rows (ungefähr)
 INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alternativenames`, `typos`, `link`, `related`, `cnt_PersonID`, `Cat_I`, `Cat_II`, `Cat_III`, `Cat_IV`, `Cat_V`) VALUES
 	(1, 'Abundantia', 'Abundantia', 'aus OCRE', NULL, NULL, 'http://thesauri.dainst.org/de/labels/_2954_dda8d5222699ed48bac6170d657ff3c3-l7.html', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(2, 'Actaeon', 'Aktaion', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q208531', NULL, NULL, 'Male', 'MythologicalFigures', 'Greek', NULL, NULL),
 	(3, 'Aemilian', 'Aemilianus', 'aus OCRE', NULL, NULL, 'http://nomisma.org/id/aemilian', NULL, 823, 'Male', 'Human', 'Emperor', 'BarracksEmperors', NULL),
 	(4, 'Aeneas', 'Aeneas', 'aus CN Erweiterung', NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG56894', NULL, NULL, 'Male', 'MythologicalFigures', 'Roman', NULL, NULL),
-	(5, 'Aequitas', 'Aequitas', 'aus OCRE', NULL, NULL, 'https://www.wikidata.org/wiki/Q381061', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
+	(5, 'Aequitas', 'Aequitas', 'aus OCRE', 'Equitas', NULL, 'https://www.wikidata.org/wiki/Q381061', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(6, 'Aesculapius', 'Äskulap', 'aus OCRE', NULL, NULL, 'https://www.wikidata.org/wiki/Q83223', 'Asclepius', NULL, 'Male', 'Deities', 'Roman', 'Other', NULL),
 	(7, 'Africa', 'Africa', 'aus OCRE', NULL, NULL, 'http://thesauri.dainst.org/de/labels/_2731_fad6ec69ac315c4f27270814c5e6d73c-l13.html', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(8, 'Agrippa', 'Marcus Vipsanius Agrippa', 'aus OCRE', NULL, NULL, 'http://nomisma.org/id/agrippa', NULL, 743, 'Male', 'Human', 'EmperorsFamily', 'Julio-ClaudianDynasty', NULL),
@@ -65,8 +63,8 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(26, 'Anubis', 'Anubis', NULL, NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG52823', NULL, NULL, 'Male', 'Deities', 'Egyptian', 'Other', NULL),
 	(27, 'Aphrodite', 'Aphrodite', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q35500', 'Venus', NULL, 'Female', 'Deities', 'Greek', 'Olympic', NULL),
 	(28, 'Apis', 'Apis', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q208150', NULL, NULL, 'Male', 'Deities', 'Egyptian', 'Other', NULL),
-	(29, 'Apollo', 'Apollo', 'Citharoedus = Kitharaspieler -> Musikinstrument: eine Art Leier. Karinos = Bedeutung nicht klar', 'Apollo Citharoedus, Apollo Smintheus, Apollo Sauroctonos, Apollo Karinos, Apollon Kitharoedus, Apollo Citharede', 'Apollo Sauroktonos', 'https://www.britishmuseum.org/collection/term/BIOG56988', 'Apollon', NULL, 'Male', 'Deities', 'Roman', 'Olympic', NULL),
-	(30, 'Apollon', 'Apollon', 'Citharoedus = Kitharaspieler -> Musikinstrument: eine Art Leier. Karinos = Bedeutung nicht klar', 'Apollon Keraunos', NULL, 'https://www.wikidata.org/wiki/Q37340', 'Apollo', NULL, 'Male', 'Deities', 'Greek', 'Olympic', NULL),
+	(29, 'Apollo', 'Apollo', 'Citharoedus = Kitharaspieler -> Musikinstrument: eine Art Leier. Karinos = Bedeutung nicht klar', 'Apollo Citharoedus, Apollo Smintheus, Apollo Sauroctonos, Apollo Karinos, Apollon Kitharoedus, Apollo Citharede', 'Apollo Sauroktonos, Apolo', 'https://www.britishmuseum.org/collection/term/BIOG56988', 'Apollon', NULL, 'Male', 'Deities', 'Roman', 'Olympic', NULL),
+	(30, 'Apollon', 'Apollon', 'Citharoedus = Kitharaspieler -> Musikinstrument: eine Art Leier. Karinos = Bedeutung nicht klar', NULL, NULL, 'https://www.wikidata.org/wiki/Q37340', 'Apollo', NULL, 'Male', 'Deities', 'Greek', 'Olympic', NULL),
 	(31, 'Arabia', 'Arabia', 'aus OCRE', NULL, NULL, 'http://thesauri.dainst.org/de/labels/_2731_265120e5b65f1ec509c5f8a8dd96cf9d-l21.html', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(32, 'Arcadius', 'Arcadius', 'aus OCRE', NULL, NULL, 'http://nomisma.org/id/arcadius', NULL, NULL, 'Male', 'Human', 'Emperor', 'TheodosianDynasty', NULL),
 	(33, 'archer', 'Bogenschütze', 'aus CN Erweiterung', 'archers', NULL, 'https://www.wikidata.org/wiki/Q890527', NULL, NULL, 'Male', 'Human', NULL, NULL, NULL),
@@ -74,7 +72,7 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(35, 'Ariadne', 'Ariadne', NULL, NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG57016', NULL, NULL, 'Female', 'MythologicalFigures', NULL, NULL, NULL),
 	(36, 'Arles', 'Arelate', 'aus OCRE', NULL, NULL, 'https://www.wikidata.org/wiki/Q641068', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(37, 'Armenia', 'Armenia', 'aus OCRE', NULL, NULL, 'http://thesauri.dainst.org/de/labels/_2731_75e615e9ee3116a32cf35e88205b2db8-l27.html', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
-	(38, 'Artemis', 'Artemis', 'Tauropolos = Stierreiterin oder bezieht sich nur auf Stadt Tauris. Phosphoros = die Fackelträgerin', 'Artemis Tauropolos,  Artemis Phosphoros, Artemis Ephesia, Artemis of Ephesus', NULL, 'https://www.wikidata.org/wiki/Q39503', 'Diana', NULL, 'Female', 'Deities', 'Greek', 'Olympic', NULL),
+	(38, 'Artemis', 'Artemis', 'Tauropolos = Stierreiterin oder bezieht sich nur auf Stadt Tauris. Phosphoros = die Fackelträgerin', 'Artemis Tauropolos,  Artemis Phosphoros, Artemis Phosphorus, Artemis Ephesia, Artemis of Ephesus', NULL, 'https://www.wikidata.org/wiki/Q39503', 'Diana', NULL, 'Female', 'Deities', 'Greek', 'Olympic', NULL),
 	(39, 'Ascanius', 'Ascanius', 'aus CN Erweiterung', NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG57048', NULL, NULL, 'Male', 'MythologicalFigures', 'Roman', NULL, NULL),
 	(40, 'Asclepius', 'Asklepios', NULL, 'Asklepios', NULL, 'https://www.britishmuseum.org/collection/term/BIOG57049', 'Aesculapius', NULL, 'Male', 'Deities', 'Greek-Roman', 'Other', NULL),
 	(41, 'Athena', 'Athena', 'Athena Nikephoros, Athena Promachos', 'Athena Nikephoros,  Athena Promachos', NULL, 'https://www.wikidata.org/wiki/Q37122', 'Minerva', NULL, 'Female', 'Deities', 'Greek', 'Olympic', NULL),
@@ -148,7 +146,7 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(109, 'Diocletian', 'Diokletian', 'aus OCRE', NULL, NULL, 'http://nomisma.org/id/diocletian', NULL, NULL, 'Male', 'Human', 'Emperor', 'Tetrarchy', NULL),
 	(110, 'Diomedes', 'Diomedes', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q208256', NULL, NULL, 'Male', 'Heroes', 'Greek', NULL, NULL),
 	(111, 'Dionysus', 'Dionysos', '', 'Dionysos', NULL, 'https://www.wikidata.org/wiki/Q41680', 'Bacchus', NULL, 'Male', 'Deities', 'Greek', 'Olympic', NULL),
-	(112, 'Dioscur', 'Dioskur', NULL, 'Dioscuri', NULL, 'https://www.wikidata.org/wiki/Q190103', 'Kastor, Pollux, Polydeuces', NULL, 'Male', 'Deities', 'Greek-Roman', 'Other', NULL),
+	(112, 'Dioscur', 'Dioskur', NULL, 'Dioscuri, Dioscuros', NULL, 'https://www.wikidata.org/wiki/Q190103', 'Kastor, Pollux, Polydeuces', NULL, 'Male', 'Deities', 'Greek-Roman', 'Other', NULL),
 	(113, 'Domitia Longina', 'Domitia Longina', 'aus OCRE', 'Domitia', NULL, 'http://nomisma.org/id/domitia', NULL, 532, 'Female', 'Human', 'Emperor', 'FlavianDynasty', NULL),
 	(114, 'Domitian', 'Domitian', NULL, 'Domitianus', NULL, 'http://nomisma.org/id/domitian', NULL, 16, 'Male', 'Human', 'Emperor', 'FlavianDynasty', NULL),
 	(115, 'Domitius Alexander', 'Domitius Alexander', 'aus OCRE', 'domitius_alexander', NULL, 'http://nomisma.org/id/domitius_alexander', NULL, NULL, 'Male', 'Human', 'Emperor', 'Tetrarchy', NULL),
@@ -156,7 +154,6 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(117, 'Eirene', 'Eirene', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q214987', 'Pax', NULL, 'Female', 'Deities', 'Greek', 'Other', NULL),
 	(118, 'Elagabalus', 'Elagabal', NULL, 'Elagabal', NULL, 'http://nomisma.org/id/elagabalus', NULL, 15, 'Male', 'Human', 'Emperor', 'SeveranDynasty', NULL),
 	(119, 'emperor', 'Kaiser', NULL, 'emperors', NULL, 'http://nomisma.org/id/roman_emperor', NULL, NULL, 'Male', 'Human', 'Emperor', NULL, NULL),
-	(120, 'Equitas', 'Equitas', 'aus OCRE', 'Aequitas', NULL, 'https://www.wikidata.org/wiki/Q381061', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(121, 'Eros', 'Eros', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q121973', 'Cupid', NULL, 'Male', 'Deities', 'Greek', 'Other', NULL),
 	(122, 'Eudoxia', 'Aelia Eudoxia', 'aus OCRE', 'aelia_eudoxia', NULL, 'http://nomisma.org/id/aelia_eudoxia', NULL, NULL, 'Female', 'Human', 'Emperor', 'TheodosianDynasty', NULL),
 	(123, 'Euphemia', 'Aelia Marciana Euphemia', 'aus OCRE', 'Marcia Euphemia', NULL, 'https://www.wikidata.org/wiki/Q380773', NULL, NULL, 'Female', 'Human', 'Emperor', NULL, NULL),
@@ -189,7 +186,7 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(150, 'Geta', 'Geta', NULL, NULL, NULL, 'http://nomisma.org/id/geta', NULL, 20, 'Male', 'Human', 'Emperor', 'SeveranDynasty', NULL),
 	(151, 'Glycerius', 'Glycerius', 'aus OCRE', NULL, NULL, 'http://nomisma.org/id/glycerius', NULL, NULL, 'Male', 'Human', 'Emperor', NULL, NULL),
 	(152, 'Gordian', 'Gordian III.', NULL, ' gordian_iii, Gordian III', NULL, 'http://nomisma.org/id/gordian_iii', NULL, 464, 'Male', 'Human', 'Emperor', 'BarracksEmperors', 'GordianDynasty'),
-	(153, 'Gorgo', 'Gorgo', NULL, NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG70550', NULL, NULL, 'Female', 'MythologicalFigures', 'Greek-Roman', NULL, NULL),
+	(153, 'Gorgo', 'Gorgo', NULL, 'Gorgon, Gorgons', NULL, 'https://www.britishmuseum.org/collection/term/BIOG70550', NULL, NULL, 'Female', 'MythologicalFigures', 'Greek-Roman', NULL, NULL),
 	(154, 'Goth', 'Gote', 'aus OCRE', NULL, NULL, 'https://www.wikidata.org/wiki/Q42193', NULL, NULL, 'Male', 'Human', 'Barbarian', NULL, NULL),
 	(155, 'Gratian', 'Gratian', 'aus OCRE', NULL, NULL, 'http://nomisma.org/id/gratian', NULL, NULL, 'Male', 'Human', 'Emperor', 'ValentinianDynasty', NULL),
 	(156, 'Hades', 'Hades', NULL, 'Hades-Serapis', NULL, 'https://www.wikidata.org/wiki/Q41410', 'Pluto', NULL, 'Male', 'Deities', 'Greek', 'Underworld', 'Olympic'),
@@ -202,7 +199,7 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(163, 'Helle', 'Helle', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q638578', NULL, NULL, 'Female', 'MythologicalFigures', 'Greek', NULL, NULL),
 	(164, 'Hephaestos', 'Hephaistos', NULL, 'Hephaistus, Hephaestus', NULL, 'https://www.wikidata.org/wiki/Q44384', 'Vulcanus', NULL, 'Male', 'Deities', 'Greek', 'Olympic', NULL),
 	(165, 'Hera', 'Hera', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q38012', 'Juno', NULL, 'Female', 'Deities', 'Greek', 'Olympic', NULL),
-	(166, 'Heracles', 'Herakles', NULL, 'Hercules,  Herakles', NULL, 'https://www.britishmuseum.org/collection/term/BIOG58628', NULL, NULL, 'Male', 'Heroes', 'Greek-Roman', NULL, NULL),
+	(166, 'Heracles', 'Herakles', NULL, 'Hercules,  Herakles, Melqart', NULL, 'https://www.britishmuseum.org/collection/term/BIOG58628', NULL, NULL, 'Male', 'Heroes', 'Greek-Roman', NULL, NULL),
 	(167, 'Herald', 'Herold', 'aus OCRE', NULL, NULL, 'https://www.wikidata.org/wiki/Q696819', NULL, NULL, 'Male', 'Human', NULL, NULL, NULL),
 	(168, 'Herennius Etruscus', 'Herennius Etruscus', 'aus OCRE', 'herennius_etruscus', NULL, 'http://nomisma.org/id/herennius_etruscus', NULL, 800, 'Male', 'Human', 'Emperor', 'BarracksEmperors', NULL),
 	(169, 'Hermes', 'Hermes', 'Perpheraios = der Wanderer', 'Hermes Perpheraios', NULL, 'https://www.wikidata.org/wiki/Q41484', 'Mercury', NULL, 'Male', 'Deities', 'Greek', 'Olympic', NULL),
@@ -267,7 +264,7 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(228, 'Maia', 'Maia', 'aus OCRE', NULL, NULL, 'https://www.wikidata.org/wiki/Q205233', NULL, NULL, 'Female', 'Deities', 'Roman', 'Other', NULL),
 	(229, 'Majorian', 'Majorian', 'aus OCRE', NULL, NULL, 'http://nomisma.org/id/majorian', NULL, NULL, 'Male', 'Human', 'Emperor', NULL, NULL),
 	(230, 'Makestos', 'Makestos', NULL, NULL, NULL, 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/makestos', NULL, NULL, 'Male', 'Deities', 'Greek', 'RiverGod', NULL),
-	(231, 'man', 'Mann', NULL, 'male', NULL, 'https://www.wikidata.org/wiki/Q8441', NULL, NULL, 'Male', 'Human', NULL, NULL, NULL),
+	(231, 'man', 'Mann', NULL, 'male, men', NULL, 'https://www.wikidata.org/wiki/Q8441', NULL, NULL, 'Male', 'Human', NULL, NULL, NULL),
 	(232, 'Marcian', 'Markian', 'aus OCRE', NULL, NULL, 'http://nomisma.org/id/marcian', NULL, NULL, 'Male', 'Human', 'Emperor', 'TheodosianDynasty', NULL),
 	(233, 'Marcus Antonius', 'Marcus Antonius', NULL, 'Mark Anton', NULL, 'http://nomisma.org/id/mark_antony', NULL, 99, 'Male', 'Human', 'General', NULL, NULL),
 	(234, 'Marcus Aurelius', 'Marcus Aurelius', 'Aurelius = keine besondere Bedeutung', 'Mark Aurel,  marcus_aurelius,  Marc Aurel', NULL, 'http://nomisma.org/id/marcus_aurelius', NULL, 31, 'Male', 'Human', 'Emperor', 'AntonineDynasty', NULL),
@@ -286,7 +283,7 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(247, 'Minerva', 'Minerva', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q126916', 'Athena', NULL, 'Female', 'Deities', 'Roman', 'Olympic', NULL),
 	(248, 'Minotaur', 'Minotauros', 'aus OCRE', NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG59326', NULL, NULL, 'Male', 'MythologicalFigures', 'Greek-Roman', NULL, NULL),
 	(249, 'Moesia', 'Moesia', 'aus OCRE', NULL, NULL, 'http://thesauri.dainst.org/de/labels/_2731_bc87090afaba912f4e63372c91d4654c-l109.html', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
-	(250, 'Moneta', 'Moneta', 'aus OCRE', ' Tres Monetae', NULL, 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/Monetae_person', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
+	(250, 'Moneta', 'Moneta', 'aus OCRE', 'Tres Monetae', NULL, 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/Monetae_person', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(251, 'Moor', 'Maure', 'aus OCRE', 'moors', NULL, 'http://thesauri.dainst.org/de/labels/_49eb40da.html', NULL, NULL, 'Male', 'Human', 'Barbarian', NULL, NULL),
 	(252, 'Mostis', 'Mostis', NULL, NULL, NULL, 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/mostis_person', NULL, 345, 'Male', 'Human', 'King', 'CanianDynasty', NULL),
 	(253, 'Munificentia', 'Munificentia', 'aus OCRE', NULL, NULL, 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/Munificentia_person', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
@@ -347,7 +344,7 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(308, 'Probus', 'Probus', 'aus OCRE', NULL, NULL, 'http://nomisma.org/id/probus', NULL, NULL, 'Male', 'Human', 'Emperor', 'BarracksEmperors', NULL),
 	(309, 'Proserpina', 'Proserpina', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q14515330', 'Kore, Persephone', NULL, 'Female', 'Deities', 'Roman', 'Underworld', NULL),
 	(310, 'Protesilaos', 'Protesilaos', NULL, NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG59842', NULL, NULL, 'Male', 'Heroes', 'Greek', NULL, NULL),
-	(311, 'Ptolemy III Euergetes', 'Ptolemaios III. Euergetes', 'Euergetes = der Wohltäter', ' Ptolemy III. Euergetes,  Ptolemäus III. ', NULL, 'https://www.britishmuseum.org/collection/term/BIOG55389', NULL, 44, 'Male', 'Human', 'King', 'Hellenistic', 'Ptolemies'),
+	(311, 'Ptolemy III Euergetes', 'Ptolemaios III. Euergetes', 'Euergetes = der Wohltäter', 'Ptolemy III. Euergetes,  Ptolemäus III. ', NULL, 'https://www.britishmuseum.org/collection/term/BIOG55389', NULL, 44, 'Male', 'Human', 'King', 'Hellenistic', 'Ptolemies'),
 	(312, 'Pudicitia', 'Pudicitia', 'aus OCRE', NULL, 'Pudiitia', 'https://www.wikidata.org/wiki/Q2117350', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(313, 'Pulcheria', 'Aelia Pulcheria', 'aus OCRE', 'aelia_pulcheria', NULL, 'http://nomisma.org/id/aelia_pulcheria', NULL, NULL, 'Female', 'Human', 'Emperor', 'TheodosianDynasty', NULL),
 	(314, 'Pupienus', 'Pupienus', 'aus OCRE', NULL, NULL, 'http://nomisma.org/id/pupienus', NULL, 627, 'Male', 'Human', 'Emperor', 'BarracksEmperors', NULL),
@@ -362,7 +359,7 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(323, 'Rhoemetalces I', 'Rhoimetalkes I.', NULL, NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG97541', NULL, NULL, 'Male', 'Human', 'King', 'SapeianDynasty', NULL),
 	(324, 'Rhoimetalces III', 'Rhoimetalkes III.', NULL, NULL, NULL, 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/rhoimetalces_iii', NULL, NULL, 'Male', 'Human', 'King', 'OdrysianDynasty', NULL),
 	(325, 'river-god', 'Flussgott', NULL, 'river god, river-gods, river gods', NULL, 'https://www.wikidata.org/wiki/Q1434313', NULL, NULL, 'Male', 'Deities', 'Greek-Roman', 'Personification', NULL),
-	(326, 'Roma', 'Roma', NULL, 'Roma Victrix,  60208', NULL, 'https://www.britishmuseum.org/collection/term/BIOG60208', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
+	(326, 'Roma', 'Roma', NULL, 'Roma Victrix', NULL, 'https://www.britishmuseum.org/collection/term/BIOG60208', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(327, 'Romulus', 'Romulus', NULL, NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG60209', NULL, NULL, 'Male', 'Heroes', 'Roman', 'CityFounder', NULL),
 	(328, 'Romulus Augustulus', 'Romulus Augustulus', 'aus OCRE', 'romulus_augustulus', NULL, 'http://nomisma.org/id/romulus_augustulus', NULL, NULL, 'Male', 'Human', 'Emperor', NULL, NULL),
 	(329, 'Sabina', 'Sabina', NULL, 'Diva Sabina', 'Diva Sabrina', 'http://nomisma.org/id/sabina', NULL, 121, 'Female', 'Human', 'Emperor', 'AdoptiveEmperors', NULL),
@@ -383,14 +380,14 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(344, 'Septimius Severus', 'Septimius Severus', 'Severus = keine besondere Bedeutung', 'septimius_severus', NULL, 'http://nomisma.org/id/septimius_severus', NULL, 35, 'Male', 'Human', 'Emperor', 'SeveranDynasty', 'YearofFourEmperors'),
 	(345, 'Serapis', 'Serapis', NULL, 'Sarapis', NULL, 'https://www.britishmuseum.org/collection/term/BIOG60374', NULL, NULL, 'Male', 'Deities', 'Egyptian', 'Other', NULL),
 	(346, 'Seuthes III', 'Seuthes III.', NULL, NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG194540', NULL, NULL, 'Male', 'Human', 'King', 'OdrysianDynasty', NULL),
-	(347, 'Severina', 'Ulpia Severina', 'aus OCRE', ' ulpia_severina', NULL, 'http://nomisma.org/id/ulpia_severina', NULL, NULL, 'Female', 'Human', 'Emperor', 'BarracksEmperors', NULL),
+	(347, 'Severina', 'Ulpia Severina', 'aus OCRE', 'ulpia_severina', NULL, 'http://nomisma.org/id/ulpia_severina', NULL, NULL, 'Female', 'Human', 'Emperor', 'BarracksEmperors', NULL),
 	(348, 'Severus Alexander', 'Severus Alexander', NULL, 'severus_alexander', NULL, 'http://nomisma.org/id/severus_alexander', NULL, 13, 'Male', 'Human', 'Emperor', 'SeveranDynasty', NULL),
 	(349, 'Severus II', 'Severus II.', 'aus OCRE', 'Valerius Severus,  severus_ii', NULL, 'http://nomisma.org/id/severus_ii', NULL, NULL, 'Male', 'Human', 'Emperor', 'Tetrarchy', NULL),
 	(350, 'Sicilia', 'Sicilia', 'aus OCRE', NULL, NULL, 'http://thesauri.dainst.org/de/labels/_2731_a4fe7a21f25e164482e4754e75969c18-l135.html', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(351, 'Silenus', 'Silenos', NULL, 'Silen', NULL, 'https://www.wikidata.org/wiki/Q464091', NULL, NULL, 'Male', 'Deities', 'Greek', NULL, NULL),
 	(352, 'Siscia', 'Siscia', 'aus OCRE', NULL, NULL, 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/Siscia_person', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
 	(353, 'Skostokos', 'Skostokos', NULL, 'Scostocus,  Scostocos,  Scostoces', NULL, 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/skostokos_person', NULL, 318, 'Male', 'Human', 'King', 'OdrysianDynasty', NULL),
-	(354, 'Soaemias', 'Iulia Soaemias', NULL, ' Julia Soaemias,  julia_soaemias', NULL, 'http://nomisma.org/id/julia_soaemias', NULL, 81, 'Female', 'Human', 'EmperorsFamily', NULL, NULL),
+	(354, 'Soaemias', 'Iulia Soaemias', NULL, 'Julia Soaemias,  julia_soaemias', NULL, 'http://nomisma.org/id/julia_soaemias', NULL, 81, 'Female', 'Human', 'EmperorsFamily', NULL, NULL),
 	(355, 'Sohaemus', 'Sohaemus', 'aus OCRE', NULL, NULL, 'https://www.wikidata.org/wiki/Q2983181', NULL, NULL, 'Male', 'Human', 'King', NULL, NULL),
 	(356, 'Sol', 'Sol', 'aus OCRE', 'Sol Invictus,  Sun', NULL, 'https://www.wikidata.org/wiki/Q214494', NULL, NULL, 'Male', 'Deities', 'Roman', 'Other', NULL),
 	(357, 'Soldier', 'Soldat', 'aus OCRE', 'soldiers, warrior, warriors', 'worrior', 'https://www.wikidata.org/wiki/Q4991371', NULL, NULL, 'Male', 'Human', NULL, NULL, NULL),
@@ -443,7 +440,13 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(404, 'wrestler', 'Ringer', NULL, 'wrestlers', NULL, 'https://www.wikidata.org/wiki/Q27978698', NULL, NULL, 'Male', 'Human', 'Greek-Roman', NULL, NULL),
 	(405, 'Youth', 'Jugendlicher', 'aus OCRE', 'youths', NULL, 'https://www.wikidata.org/wiki/Q190007', NULL, NULL, 'Male', 'Human', NULL, NULL, NULL),
 	(406, 'Zeno', 'Zenon', 'aus OCRE', 'Zeno the Isaurian', NULL, 'http://nomisma.org/id/zeno', NULL, NULL, 'Male', 'Human', 'Emperor', 'LeonidDynasty', NULL),
-	(407, 'Zeus', 'Zeus', 'Aëtophoros = der Adlerträger. Epikarpios = der Fruchtbringer. Keraunos = des Blitzes oder der Blitzeschleuderer', 'Zeus Aëtophoros,  Zeus Epikarpios,  Zeus Keraunos', NULL, 'https://www.wikidata.org/wiki/Q34201', 'Iupiter', NULL, 'Male', 'Deities', 'Greek', 'Olympic', NULL);
+	(407, 'Zeus', 'Zeus', 'Aëtophoros = der Adlerträger. Epikarpios = der Fruchtbringer. Keraunos = des Blitzes oder der Blitzeschleuderer', 'Zeus Epikarpios,  Zeus Keraunos, Zeus Ammon', 'Zeus Amon', 'https://www.wikidata.org/wiki/Q34201', 'Iupiter', NULL, 'Male', 'Deities', 'Greek', 'Olympic', NULL),
+	(408, 'Bes', 'Bes', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q188931', NULL, NULL, 'Male', 'Deities', 'Egyptian', 'Other', NULL),
+	(409, 'human', 'Mensch', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q5', NULL, NULL, 'Male', 'Human', NULL, NULL, NULL),
+	(410, 'guide', 'Führer', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q14290559', NULL, NULL, 'Male', 'Human', NULL, NULL, NULL),
+	(411, 'fisherman', 'Fischer', NULL, 'fishermen, fisher, fishers', NULL, 'https://www.wikidata.org/wiki/Q331432', NULL, NULL, 'Male', 'Human', NULL, NULL, NULL),
+	(412, 'helmsman', 'Steuermann', NULL, 'Rudergänger', NULL, 'https://www.wikidata.org/wiki/Q2309900', NULL, NULL, 'Male', 'Human', NULL, NULL, NULL),
+	(413, 'Zeus Aëtophoros', 'Zeus Aëtophoros', NULL, 'Zeus (Aëtophoros)', NULL, 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/ZeusAëtophoros_person', NULL, NULL, 'Male', 'Deities', 'Greek', 'Olympic', NULL);
 
 /*!40103 SET TIME_ZONE=IFNULL(@OLD_TIME_ZONE, 'system') */;
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;

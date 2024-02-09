@@ -14,8 +14,6 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-
-
 -- Exportiere Struktur von Tabelle thrakien_d4n4.nlp_list_plant
 CREATE TABLE IF NOT EXISTS `nlp_list_plant` (
   `id` bigint NOT NULL AUTO_INCREMENT,
@@ -30,9 +28,9 @@ CREATE TABLE IF NOT EXISTS `nlp_list_plant` (
   `Cat_I` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
   `Cat_II` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=64 DEFAULT CHARSET=utf8mb3;
+) ENGINE=InnoDB AUTO_INCREMENT=35 DEFAULT CHARSET=utf8mb3;
 
--- Exportiere Daten aus Tabelle thrakien_d4n4.nlp_list_plant: ~33 rows (ungefähr)
+-- Exportiere Daten aus Tabelle thrakien_d4n4.nlp_list_plant: ~34 rows (ungefähr)
 INSERT INTO `nlp_list_plant` (`id`, `name_en`, `name_ger`, `description`, `alternativenames_en`, `alternativenames_ger`, `typos_en`, `typos_ger`, `link`, `Cat_I`, `Cat_II`) VALUES
 	(1, 'apple', 'Apfel', NULL, 'apples', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q89', 'Fruit', NULL),
 	(2, 'apple tree', 'Apfelbaum', NULL, 'apple trees', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q60458657', 'Tree', NULL),
@@ -54,7 +52,7 @@ INSERT INTO `nlp_list_plant` (`id`, `name_en`, `name_ger`, `description`, `alter
 	(18, 'lotus', 'Lotus', NULL, 'loti', 'Lotusblüte', NULL, 'Lotosblüte, Lotos', 'https://www.wikidata.org/wiki/Q3645698', 'Flower', NULL),
 	(19, 'oak', 'Eiche', NULL, 'oaks', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q12004', 'Tree', NULL),
 	(20, 'olive', 'Olive', NULL, 'olives', 'Olivenbaum', NULL, NULL, 'https://www.wikidata.org/wiki/Q37083', 'Tree', NULL),
-	(21, 'palm', 'Palme', NULL, 'palm tree, palms, palm trees', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q2709536', 'Tree', NULL),
+	(21, 'palm', 'Palme', NULL, 'palm tree, palms, palm trees, palm leaf', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q2709536', 'Tree', NULL),
 	(22, 'palmette', 'palmette', NULL, 'palmettes', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q677655', 'Tree', NULL),
 	(23, 'plant', 'Pflanze', NULL, 'plants', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q756', 'cnt:Plant', NULL),
 	(24, 'poppy', 'Mohn', NULL, 'poppies', 'Mohnblumen, Mohnkopf', NULL, NULL, 'https://www.wikidata.org/wiki/Q967457', 'Cereal-Grain', NULL),
@@ -62,11 +60,12 @@ INSERT INTO `nlp_list_plant` (`id`, `name_en`, `name_ger`, `description`, `alter
 	(26, 'rose', 'Rose', NULL, 'roses', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q34687', 'Flower', NULL),
 	(27, 'stalk', 'Halm', NULL, 'stalks', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q10289985', 'cnt:Plant', NULL),
 	(28, 'starflower', 'Sternblume', NULL, 'starflowers', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q147075', 'Flower', NULL),
-	(29, 'stump of tree', 'Baumstumpf', NULL, 'stumps of trees', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q811646', 'Tree', NULL),
+	(29, 'stump of tree', 'Baumstumpf', NULL, 'stumps of trees, trunk, trunks', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q811646', 'Tree', NULL),
 	(30, 'thorn', 'Dorn', NULL, 'thorns', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q201851', 'Branches', 'PlantsParts'),
 	(31, 'tree', 'Baum', NULL, 'trees', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q10884', 'Tree', NULL),
 	(32, 'vine', 'Ranke', NULL, 'grapevine, vines, grapevines', 'Weinrebe', NULL, NULL, 'https://www.wikidata.org/wiki/Q917284', 'Bush', NULL),
-	(33, 'wheat ear', 'Weizenähre', NULL, 'wheat ears', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q3966720', 'Cereal-Grain', NULL);
+	(33, 'wheat ear', 'Weizenähre', NULL, 'wheat ears, wheat', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q3966720', 'Cereal-Grain', NULL),
+	(34, 'acorn', 'Eichel', NULL, NULL, NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q3914781', 'Fruit', NULL);
 
 /*!40103 SET TIME_ZONE=IFNULL(@OLD_TIME_ZONE, 'system') */;
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
