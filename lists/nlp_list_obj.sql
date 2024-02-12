@@ -337,7 +337,7 @@ INSERT INTO `nlp_list_obj` (`id`, `name_en`, `name_ger`, `description`, `alterna
 	(554, 'feather', 'Feder', NULL, 'feathers, feathered, plumed', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q81025', 'Ornaments', NULL, NULL),
 	(556, 'belt', 'Gürtel', NULL, 'belts, belted', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q134560', 'Clothing', NULL, NULL),
 	(557, 'chain', 'Kette', NULL, 'chains, chained', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q2397485', 'SacrificialImplements', NULL, NULL),
-	(558, 'draped', 'Gewand', NULL, '', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q19708955', 'Clothing', NULL, NULL),
+	(558, 'draped', 'Gewand', NULL, NULL, NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q19708955', 'Clothing', NULL, NULL),
 	(559, 'claw', 'Schere', NULL, 'claws', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q217605', 'BodyParts', NULL, NULL),
 	(560, 'crab claw', 'Krebsschere', NULL, 'crab claws', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q1069045', 'BodyParts', NULL, NULL);
 

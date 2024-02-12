@@ -178,7 +178,7 @@ INSERT INTO `nlp_list_person` (`id`, `name`, `name_german`, `description`, `alte
 	(142, 'Ganymed', 'Ganymed', 'aus CN Erweiterung', 'Ganymede', NULL, 'https://www.wikidata.org/wiki/Q131588', NULL, NULL, 'Male', 'MythologicalFigures', 'Greek', NULL, NULL),
 	(143, 'Gaul', 'Gallier', 'aus OCRE', 'gauls', NULL, 'https://www.wikidata.org/wiki/Q273854', NULL, NULL, 'Male', 'Human', 'Barbarian', NULL, NULL),
 	(144, 'Ge', 'Gaia', NULL, 'Earth, Gä', NULL, 'https://www.wikidata.org/wiki/Q93172', NULL, NULL, 'Female', 'Deities', 'Greek', NULL, NULL),
-	(145, 'Genius', 'Genius', NULL, '58396', NULL, 'https://www.britishmuseum.org/collection/term/BIOG58396', NULL, NULL, 'Male', 'Deities', 'Roman', 'Other', NULL),
+	(145, 'Genius', 'Genius', NULL, NULL, NULL, 'https://www.britishmuseum.org/collection/term/BIOG58396', NULL, NULL, 'Male', 'Deities', 'Roman', 'Other', NULL),
 	(146, 'Genius Exercitus', 'Genius Exercitus', 'aus OCRE', NULL, NULL, 'https://www.wikidata.org/wiki/Q654361', NULL, NULL, 'Male', 'Deities', 'Roman', 'Personification', NULL),
 	(147, 'Genius Populi Romani', 'Genius Populi Romani', 'aus OCRE', 'Genius of the Roman people', NULL, 'https://www.wikidata.org/wiki/Q654361', 'Genius', NULL, 'Male', 'Deities', 'Roman', 'Personification', NULL),
 	(148, 'Germania', 'Germania', 'aus OCRE', NULL, NULL, 'http://thesauri.dainst.org/de/labels/_2731_4c4429699a1565c8d57e97e811c879c6-l63.html', NULL, NULL, 'Female', 'Deities', 'Roman', 'Personification', NULL),
