@@ -180,7 +180,7 @@ class FeatureExtractor(SingleSentenceTransformerMixin, TransformerMixin, BaseEst
             p = path(ner.subj.root, ner.obj.root)
             verbs = self.extract_verbs_single_sentence(p)
             extracted_paths.append(Feature(ner.subj, p, ner.obj, ner.doc, verbs))
-
+    
         return extracted_paths
 
     def extract_verbs_single_sentence(self, p):
