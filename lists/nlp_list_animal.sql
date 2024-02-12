@@ -14,8 +14,6 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-
-
 -- Exportiere Struktur von Tabelle thrakien_d4n4.nlp_list_animal
 CREATE TABLE IF NOT EXISTS `nlp_list_animal` (
   `id` bigint NOT NULL AUTO_INCREMENT,
@@ -30,9 +28,9 @@ CREATE TABLE IF NOT EXISTS `nlp_list_animal` (
   `Cat_I` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
   `Cat_II` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=128 DEFAULT CHARSET=utf8mb3;
+) ENGINE=InnoDB AUTO_INCREMENT=75 DEFAULT CHARSET=utf8mb3;
 
--- Exportiere Daten aus Tabelle thrakien_d4n4.nlp_list_animal: ~64 rows (ungefähr)
+-- Exportiere Daten aus Tabelle thrakien_d4n4.nlp_list_animal: ~73 rows (ungefähr)
 INSERT INTO `nlp_list_animal` (`id`, `name_en`, `name_ger`, `description`, `alternativenames_en`, `alternativenames_ger`, `typos_en`, `typos_ger`, `link`, `Cat_I`, `Cat_II`) VALUES
 	(1, 'Apis bull', 'Apis-Stier', NULL, NULL, NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q208150', 'Mammal', NULL),
 	(2, 'bear', 'Bär', NULL, 'bears', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q30090244', 'Mammal', NULL),
@@ -43,7 +41,7 @@ INSERT INTO `nlp_list_animal` (`id`, `name_en`, `name_ger`, `description`, `alte
 	(7, 'capricorn', 'Capricornus', NULL, 'capricorns', 'Steinbock', NULL, NULL, 'https://www.wikidata.org/wiki/Q164272', 'Mammal-Fish', 'MythicalCreature'),
 	(8, 'cattle', 'Rind', NULL, 'cattles', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q830', 'Mammal', NULL),
 	(9, 'Cerberus', 'Kerberos', 'Mehrköpfiger Hund, Wächter im Hades', NULL, 'Cerberus', NULL, NULL, 'https://www.wikidata.org/wiki/Q83496', 'Mammal', 'MythicalCreature'),
-	(10, 'Ceryneian Hind', 'Kerynitische Hirschkuh', 'Ungeheuer aus der Heraklesmythologie', NULL, '\'Keryneiische Hindin,  Hirschkuh von Keryneia, Keryneische Hindin\'', 'Cerynean Hind', NULL, 'https://www.wikidata.org/wiki/Q466882', 'Mammal', 'MythicalCreature'),
+	(10, 'Ceryneian Hind', 'Kerynitische Hirschkuh', 'Ungeheuer aus der Heraklesmythologie', NULL, 'Keryneiische Hindin,  Hirschkuh von Keryneia, Keryneische Hindin', 'Cerynean Hind', NULL, 'https://www.wikidata.org/wiki/Q466882', 'Mammal', 'MythicalCreature'),
 	(11, 'Cetus', 'Keto', 'Meeresungeheuer', NULL, ' Cetus', NULL, NULL, 'https://www.wikidata.org/wiki/Q3269950', 'Fish', 'MythicalCreature'),
 	(12, 'cicada', 'Zikade', NULL, 'cicadas', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q18347690', 'Insect', NULL),
 	(13, 'cock', 'Hahn', NULL, 'cocks', ' Haushun', NULL, NULL, 'https://www.wikidata.org/wiki/Q2216236', 'Bird', NULL),
@@ -84,7 +82,7 @@ INSERT INTO `nlp_list_animal` (`id`, `name_en`, `name_ger`, `description`, `alte
 	(48, 'ram', 'Bock', NULL, 'rams', 'widder', NULL, NULL, 'https://www.wikidata.org/wiki/Q2929800', 'Mammal', NULL),
 	(49, 'raven', 'Rabe', NULL, 'ravens', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q8335', 'Bird', NULL),
 	(50, 'roe', 'Reh', NULL, 'roes', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q122069', 'Mammal', NULL),
-	(51, 'rooster', 'Hahn', NULL, 'roosters', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q2216236', 'Bird', NULL),
+	(51, 'rooster', 'Hahn', NULL, 'roosters, cockerel, cockerels', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q2216236', 'Bird', NULL),
 	(52, 'scallop', 'Kammmuschel', NULL, 'scallops, scallop shell', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q7360490', 'Shellfish', 'Shell'),
 	(53, 'scorpion', 'Skorpion', NULL, 'scorpions', 'scropion', 'scropion', NULL, 'https://www.wikidata.org/wiki/Q19125', 'Insect', NULL),
 	(54, 'serpent', 'Schlange', NULL, 'serpents', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q2102', 'Reptile', NULL),
@@ -96,10 +94,17 @@ INSERT INTO `nlp_list_animal` (`id`, `name_en`, `name_ger`, `description`, `alte
 	(60, 'stag', 'Hirschbock', NULL, 'stags', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q29838881', 'Mammal', NULL),
 	(61, 'swan', 'Schwan', NULL, NULL, NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q34384', 'Bird', NULL),
 	(62, 'tortoise', 'Landschildkröte', NULL, 'tortoises', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q46360', 'Reptile', NULL),
-	(63, 'tunny', 'Thunfisch', NULL, 'tunnies', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q6146274', 'Fish', NULL),
+	(63, 'tunny', 'Thunfisch', NULL, 'tunnies, tuna', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q6146274', 'Fish', NULL),
 	(64, 'turtle', 'Schildkröte', NULL, 'turtles', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q223044', 'Reptile', NULL),
 	(65, 'wolf', 'Wolf', NULL, 'wolves', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q3711329', 'Mammal', NULL),
-	(66, 'worm', 'Wurm', NULL, 'woms', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q47253', 'Worm', NULL);
+	(66, 'worm', 'Wurm', NULL, 'woms', '', NULL, NULL, 'https://www.wikidata.org/wiki/Q47253', 'Worm', NULL),
+	(67, 'allis shad', 'Maifisch', NULL, NULL, NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q300997', 'Fish', NULL),
+	(69, 'lizard', 'Eidechse', NULL, 'lizards', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q15629245', 'Reptile', NULL),
+	(70, 'animal', 'Tier', NULL, 'animals', NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q729', NULL, NULL),
+	(71, 'tarpon', 'Tarpune', NULL, NULL, NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q1759766', 'Fish', NULL),
+	(72, 'duck', 'Ente', NULL, NULL, NULL, NULL, NULL, 'https://www.wikidata.org/wiki/Q3736439', 'Bird', NULL),
+	(73, 'pig', 'Schwein', NULL, 'pigs, piglet, piglets', 'Ferkel', NULL, NULL, 'https://www.wikidata.org/wiki/Q787', 'Mammal', NULL),
+	(74, 'octopus', 'Oktopus', NULL, NULL, 'Krake', NULL, NULL, 'https://www.wikidata.org/wiki/Q611843', 'Mollusca', NULL);
 
 /*!40103 SET TIME_ZONE=IFNULL(@OLD_TIME_ZONE, 'system') */;
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;

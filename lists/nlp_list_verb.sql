@@ -14,8 +14,6 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-
-
 -- Exportiere Struktur von Tabelle thrakien_d4n4.nlp_list_verb
 CREATE TABLE IF NOT EXISTS `nlp_list_verb` (
   `id` bigint NOT NULL AUTO_INCREMENT,
@@ -29,14 +27,14 @@ CREATE TABLE IF NOT EXISTS `nlp_list_verb` (
 
 -- Exportiere Daten aus Tabelle thrakien_d4n4.nlp_list_verb: ~23 rows (ungefähr)
 INSERT INTO `nlp_list_verb` (`id`, `name_en`, `name_ger`, `alternativenames_en`, `alternativenames_ger`, `link`) VALUES
-	(1, 'holding', 'halten', ' ploughing,  removing, covering,  containing,  brandishing,  carrying,  forming,  raising,  cradling,  touching,  drawing', ' erhebend,  fassend,  ausgießend,  festhalten,  ausgestreckt,  würgend,  ziehend,  spannend,  hängt,  drückend,  stemmend,  schwingend,  ausholend,  entfernend,  herführend,  schleudernd,  spielend, tragend, schulternd', 'https://www.wikidata.org/wiki/Q108951109'),
-	(2, 'seated_on', 'sitzen', ' seated,  throning,  galloping,  riding_on,  sitting,  galopping, riding', ' thronend,  galopierend,  reitend,  setzend,  gallopierend', 'https://www.wikidata.org/wiki/Q1144593'),
+	(1, 'holding', 'halten', 'ploughing,  removing, covering,  containing,  brandishing,  carrying,  forming,  raising,  cradling,  touching,  drawing', ' erhebend,  fassend,  ausgießend,  festhalten,  ausgestreckt,  würgend,  ziehend,  spannend,  hängt,  drückend,  stemmend,  schwingend,  ausholend,  entfernend,  herführend,  schleudernd,  spielend, tragend, schulternd', 'https://www.wikidata.org/wiki/Q108951109'),
+	(2, 'seated_on', 'sitzen', 'seated,  throning,  galloping,  riding_on,  sitting,  galopping, riding', ' thronend,  galopierend,  reitend,  setzend,  gallopierend', 'https://www.wikidata.org/wiki/Q1144593'),
 	(3, 'resting_on', 'stützen', 'reclining,  reclining_on,  setting,  leaning,  leaning_on,  resting', ' lagernd,  aufgestützt,  liegend,  lehnend,  abstützend', 'https://www.wikidata.org/wiki/Q17554390'),
 	(4, 'feeding', 'füttern', NULL, '', 'https://www.wikidata.org/wiki/Q17550579'),
-	(5, 'standing', 'stehen', NULL, ' fahrend,  tretend', 'https://www.wikidata.org/wiki/Q1986098'),
-	(6, 'coiling', 'winden', ' curling, creeping', ' ringelnd,  umwunden,  emporringelnd, umschlingen, umschlingend', 'https://www.wikidata.org/wiki/Q770007'),
+	(5, 'standing', 'stehen', 'standing within, standing on', ' fahrend,  tretend', 'https://www.wikidata.org/wiki/Q1986098'),
+	(6, 'coiling', 'winden', 'curling, creeping', ' ringelnd,  umwunden,  emporringelnd, umschlingen, umschlingend', 'https://www.wikidata.org/wiki/Q770007'),
 	(7, 'lying', 'liegen', NULL, '', 'https://www.wikidata.org/wiki/Q2268776'),
-	(8, 'advancing', 'schreiten', ' walking,  passing, running', ' laufen', 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/advancing'),
+	(8, 'advancing', 'schreiten', 'walking, passing, running, charging', ' laufen', 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/advancing'),
 	(9, 'swimming', 'schwimmen', NULL, '', 'https://www.wikidata.org/wiki/Q6388'),
 	(10, 'extending', 'strecken', NULL, ' vorstrecken,  hervorstreckend,  hervorgestreckt', 'http://www.dbis.cs.uni-frankfurt.de/cnt/id/extending'),
 	(11, 'receiving', 'empfangen', NULL, '', 'https://www.wikidata.org/wiki/Q115088817'),
