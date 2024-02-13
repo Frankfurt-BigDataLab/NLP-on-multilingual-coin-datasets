@@ -1,4 +1,7 @@
 value,link
+"allis shad",https://www.wikidata.org/wiki/Q300997
+animal,https://www.wikidata.org/wiki/Q729
+animals,https://www.wikidata.org/wiki/Q729
 "Apis bull",https://www.wikidata.org/wiki/Q208150
 bear,https://www.wikidata.org/wiki/Q30090244
 bears,https://www.wikidata.org/wiki/Q30090244
@@ -20,6 +23,8 @@ Cetus,https://www.wikidata.org/wiki/Q3269950
 cicada,https://www.wikidata.org/wiki/Q18347690
 cicadas,https://www.wikidata.org/wiki/Q18347690
 cock,https://www.wikidata.org/wiki/Q2216236
+cockerel,https://www.wikidata.org/wiki/Q2216236
+cockerels,https://www.wikidata.org/wiki/Q2216236
 cocks,https://www.wikidata.org/wiki/Q2216236
 crab,https://www.wikidata.org/wiki/Q16033394
 crabs,https://www.wikidata.org/wiki/Q16033394
@@ -34,6 +39,7 @@ dogs,https://www.wikidata.org/wiki/Q144
 dolphin,https://www.wikidata.org/wiki/Q7369
 dolphins,https://www.wikidata.org/wiki/Q7369
 donkey,https://www.wikidata.org/wiki/Q3537778
+duck,https://www.wikidata.org/wiki/Q3736439
 eagle,https://www.wikidata.org/wiki/Q2092297
 eagles,https://www.wikidata.org/wiki/Q2092297
 elephant,https://www.wikidata.org/wiki/Q7378
@@ -70,7 +76,10 @@ ibises,https://www.wikidata.org/wiki/Q193833
 Ladon,https://www.wikidata.org/wiki/Q274600
 lion,https://www.wikidata.org/wiki/Q140
 lions,https://www.wikidata.org/wiki/Q140
+lizard,https://www.wikidata.org/wiki/Q15629245
+lizards,https://www.wikidata.org/wiki/Q15629245
 "Nemean Lion",https://www.wikidata.org/wiki/Q199438
+octopus,https://www.wikidata.org/wiki/Q611843
 ostrich,https://www.wikidata.org/wiki/Q17592
 ostriches,https://www.wikidata.org/wiki/Q17592
 owl,https://www.wikidata.org/wiki/Q8021345
@@ -83,6 +92,10 @@ peacock,https://www.wikidata.org/wiki/Q201251
 peacocks,https://www.wikidata.org/wiki/Q201251
 Pegasos,https://www.britishmuseum.org/collection/term/BIOG59743
 Pegasus,https://www.britishmuseum.org/collection/term/BIOG59743
+pig,https://www.wikidata.org/wiki/Q787
+piglet,https://www.wikidata.org/wiki/Q787
+piglets,https://www.wikidata.org/wiki/Q787
+pigs,https://www.wikidata.org/wiki/Q787
 ram,https://www.wikidata.org/wiki/Q2929800
 rams,https://www.wikidata.org/wiki/Q2929800
 raven,https://www.wikidata.org/wiki/Q8335
@@ -112,8 +125,10 @@ squids,https://www.wikidata.org/wiki/Q81900
 stag,https://www.wikidata.org/wiki/Q29838881
 stags,https://www.wikidata.org/wiki/Q29838881
 swan,https://www.wikidata.org/wiki/Q34384
+tarpon,https://www.wikidata.org/wiki/Q1759766
 tortoise,https://www.wikidata.org/wiki/Q46360
 tortoises,https://www.wikidata.org/wiki/Q46360
+tuna,https://www.wikidata.org/wiki/Q6146274
 tunnies,https://www.wikidata.org/wiki/Q6146274
 tunny,https://www.wikidata.org/wiki/Q6146274
 turtle,https://www.wikidata.org/wiki/Q223044

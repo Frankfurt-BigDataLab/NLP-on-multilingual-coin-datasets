@@ -19,7 +19,7 @@ id,name_en,name_ger,description,alternativenames_en,alternativenames_ger,typos_e
 18,lotus,Lotus,NULL,loti,Lotusblüte,NULL,"Lotosblüte, Lotos",https://www.wikidata.org/wiki/Q3645698,Flower,NULL
 19,oak,Eiche,NULL,oaks,,NULL,NULL,https://www.wikidata.org/wiki/Q12004,Tree,NULL
 20,olive,Olive,NULL,olives,Olivenbaum,NULL,NULL,https://www.wikidata.org/wiki/Q37083,Tree,NULL
-21,palm,Palme,NULL,"palm tree, palms, palm trees",,NULL,NULL,https://www.wikidata.org/wiki/Q2709536,Tree,NULL
+21,palm,Palme,NULL,"palm tree, palms, palm trees, palm leaf",,NULL,NULL,https://www.wikidata.org/wiki/Q2709536,Tree,NULL
 22,palmette,palmette,NULL,palmettes,,NULL,NULL,https://www.wikidata.org/wiki/Q677655,Tree,NULL
 23,plant,Pflanze,NULL,plants,,NULL,NULL,https://www.wikidata.org/wiki/Q756,cnt:Plant,NULL
 24,poppy,Mohn,NULL,poppies,"Mohnblumen, Mohnkopf",NULL,NULL,https://www.wikidata.org/wiki/Q967457,Cereal-Grain,NULL
@@ -27,8 +27,9 @@ id,name_en,name_ger,description,alternativenames_en,alternativenames_ger,typos_e
 26,rose,Rose,NULL,roses,,NULL,NULL,https://www.wikidata.org/wiki/Q34687,Flower,NULL
 27,stalk,Halm,NULL,stalks,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q10289985,cnt:Plant,NULL
 28,starflower,Sternblume,NULL,starflowers,,NULL,NULL,https://www.wikidata.org/wiki/Q147075,Flower,NULL
-29,"stump of tree",Baumstumpf,NULL,"stumps of trees",,NULL,NULL,https://www.wikidata.org/wiki/Q811646,Tree,NULL
+29,"stump of tree",Baumstumpf,NULL,"stumps of trees, trunk, trunks",,NULL,NULL,https://www.wikidata.org/wiki/Q811646,Tree,NULL
 30,thorn,Dorn,NULL,thorns,,NULL,NULL,https://www.wikidata.org/wiki/Q201851,Branches,PlantsParts
 31,tree,Baum,NULL,trees,,NULL,NULL,https://www.wikidata.org/wiki/Q10884,Tree,NULL
 32,vine,Ranke,NULL,"grapevine, vines, grapevines",Weinrebe,NULL,NULL,https://www.wikidata.org/wiki/Q917284,Bush,NULL
-33,"wheat ear",Weizenähre,NULL,"wheat ears",,NULL,NULL,https://www.wikidata.org/wiki/Q3966720,Cereal-Grain,NULL
+33,"wheat ear",Weizenähre,NULL,"wheat ears, wheat",,NULL,NULL,https://www.wikidata.org/wiki/Q3966720,Cereal-Grain,NULL
+34,acorn,Eichel,NULL,NULL,NULL,NULL,NULL,https://www.wikidata.org/wiki/Q3914781,Fruit,NULL

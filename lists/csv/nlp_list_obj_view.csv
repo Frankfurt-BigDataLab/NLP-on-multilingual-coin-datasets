@@ -22,19 +22,24 @@ anchors,https://www.wikidata.org/wiki/Q168432
 antefix,https://www.wikidata.org/wiki/Q571723
 antefixa,https://www.wikidata.org/wiki/Q571723
 antlers,https://www.wikidata.org/wiki/Q834007
+anvil,https://www.wikidata.org/wiki/Q104363
+anvils,https://www.wikidata.org/wiki/Q104363
 aplustre,https://www.wikidata.org/wiki/Q111995878
 aplustres,https://www.wikidata.org/wiki/Q111995878
 aquila,https://www.wikidata.org/wiki/Q3532405
 aquilae,https://www.wikidata.org/wiki/Q3532405
 arch,https://www.wikidata.org/wiki/Q12277
 arches,https://www.wikidata.org/wiki/Q12277
+arm,https://www.wikidata.org/wiki/Q43471
 armor,https://www.wikidata.org/wiki/Q20793164
 armour,https://www.wikidata.org/wiki/Q20793164
+arms,https://www.wikidata.org/wiki/Q43471
 arrow,https://www.wikidata.org/wiki/Q45922
 arrows,https://www.wikidata.org/wiki/Q45922
 astagaloi,https://www.wikidata.org/wiki/Q20452
 astragal,https://www.wikidata.org/wiki/Q20452
 astragals,https://www.wikidata.org/wiki/Q20452
+astragalus,https://www.wikidata.org/wiki/Q20452
 "Augean Stables",https://www.wikidata.org/wiki/Q3088950
 auloi,https://www.wikidata.org/wiki/Q324299
 aulos,https://www.wikidata.org/wiki/Q324299
@@ -62,13 +67,20 @@ batons,https://www.wikidata.org/wiki/Q2014830
 "beaded ribbons",https://www.wikidata.org/wiki/Q6918773
 beehive,https://www.wikidata.org/wiki/Q165107
 beehives,https://www.wikidata.org/wiki/Q165107
+belt,https://www.wikidata.org/wiki/Q134560
+belted,https://www.wikidata.org/wiki/Q134560
+belts,https://www.wikidata.org/wiki/Q134560
 biga,https://www.wikidata.org/wiki/Q1132651
 bigae,https://www.wikidata.org/wiki/Q1132651
 bipennis,https://www.wikidata.org/wiki/Q837381
 bisellia,https://www.wikidata.org/wiki/Q23830025
 bisellium,https://www.wikidata.org/wiki/Q23830025
+blade,https://www.wikidata.org/wiki/Q330946
+blades,https://www.wikidata.org/wiki/Q330946
 board,https://www.wikidata.org/wiki/Q72926076
 boards,https://www.wikidata.org/wiki/Q72926076
+bone,https://www.wikidata.org/wiki/Q265868
+bones,https://www.wikidata.org/wiki/Q265868
 boot,https://www.wikidata.org/wiki/Q190868
 boots,https://www.wikidata.org/wiki/Q190868
 bow,https://www.wikidata.org/wiki/Q46311
@@ -88,6 +100,8 @@ bucranion,https://www.wikidata.org/wiki/Q1003461
 bucranium,https://www.wikidata.org/wiki/Q1003461
 bukephalia,http://www.dbis.cs.uni-frankfurt.de/cnt/id/bukephalion_object
 bukephalion,http://www.dbis.cs.uni-frankfurt.de/cnt/id/bukephalion_object
+bun,https://www.wikidata.org/wiki/Q15240969
+buns,https://www.wikidata.org/wiki/Q15240969
 bust,https://www.wikidata.org/wiki/Q17489160
 busts,https://www.wikidata.org/wiki/Q17489160
 cadeceus,https://www.wikidata.org/wiki/Q238577
@@ -105,17 +119,24 @@ catapult,https://www.wikidata.org/wiki/Q184393
 catapults,https://www.wikidata.org/wiki/Q184393
 cesti,https://www.wikidata.org/wiki/Q1057669
 cestus,https://www.wikidata.org/wiki/Q1057669
+chain,https://www.wikidata.org/wiki/Q2397485
+chained,https://www.wikidata.org/wiki/Q2397485
+chains,https://www.wikidata.org/wiki/Q2397485
 chair,https://www.wikidata.org/wiki/Q15026
 chairs,https://www.wikidata.org/wiki/Q15026
 chalice,https://www.wikidata.org/wiki/Q98969284
 chalices,https://www.wikidata.org/wiki/Q98969284
+chest,https://www.wikidata.org/wiki/Q867621
 Chi-Rho,https://www.wikidata.org/wiki/Q151970
+chin,https://www.wikidata.org/wiki/Q82714
+chins,https://www.wikidata.org/wiki/Q82714
 chiton,https://www.wikidata.org/wiki/Q944031
 chitons,https://www.wikidata.org/wiki/Q944031
 chlamoi,https://www.wikidata.org/wiki/Q1075155
 chlamys,https://www.wikidata.org/wiki/Q1075155
 cippi,http://www.dbis.cs.uni-frankfurt.de/cnt/id/cippus_object
 cippus,http://www.dbis.cs.uni-frankfurt.de/cnt/id/cippus_object
+cist,https://www.wikidata.org/wiki/Q867621
 cista,https://www.wikidata.org/wiki/Q867621
 "cista mystica",https://www.wikidata.org/wiki/Q17438669
 cistae,https://www.wikidata.org/wiki/Q867621
@@ -125,6 +146,8 @@ cithara,https://www.wikidata.org/wiki/Q12634515
 "city gates",https://www.wikidata.org/wiki/Q82117
 "city wall",https://www.wikidata.org/wiki/Q16748868
 "city walls",https://www.wikidata.org/wiki/Q16748868
+claw,https://www.wikidata.org/wiki/Q217605
+claws,https://www.wikidata.org/wiki/Q217605
 cloak,https://www.wikidata.org/wiki/Q516992
 cloaks,https://www.wikidata.org/wiki/Q516992
 cloth,https://www.wikidata.org/wiki/Q5849500
@@ -138,8 +161,10 @@ coils,https://www.wikidata.org/wiki/Q25629903
 Coliseum,https://www.wikidata.org/wiki/Q10285
 collar,https://www.wikidata.org/wiki/Q497903
 collars,https://www.wikidata.org/wiki/Q497903
+colonnaded,https://www.wikidata.org/wiki/Q4817
 Colosseum,https://www.wikidata.org/wiki/Q10285
 column,https://www.wikidata.org/wiki/Q4817
+columned,https://www.wikidata.org/wiki/Q4817
 columns,https://www.wikidata.org/wiki/Q4817
 compass,https://www.wikidata.org/wiki/Q103896
 compasses,https://www.wikidata.org/wiki/Q103896
@@ -150,6 +175,8 @@ cornucopia,https://www.wikidata.org/wiki/Q332682
 cornucopiae,https://www.wikidata.org/wiki/Q332682
 cotyle,https://www.wikidata.org/wiki/Q2559410
 cotyles,https://www.wikidata.org/wiki/Q2559410
+"crab claw",https://www.wikidata.org/wiki/Q1069045
+"crab claws",https://www.wikidata.org/wiki/Q1069045
 crater,https://www.wikidata.org/wiki/Q476968
 craters,https://www.wikidata.org/wiki/Q476968
 crepidoma,https://www.wikidata.org/wiki/Q743919
@@ -166,18 +193,23 @@ crowns,https://www.wikidata.org/wiki/Q170984
 "cubit role",https://www.wikidata.org/wiki/Q6502030
 cubit-rule,https://www.wikidata.org/wiki/Q6502030
 cuirass,https://www.wikidata.org/wiki/Q182731
+cuirassed,https://www.wikidata.org/wiki/Q182731
 cup,https://www.wikidata.org/wiki/Q81727
 cups,https://www.wikidata.org/wiki/Q81727
 dagger,https://www.wikidata.org/wiki/Q182780
 daggers,https://www.wikidata.org/wiki/Q182780
 diadem,https://www.wikidata.org/wiki/Q746591
+diademed,https://www.wikidata.org/wiki/Q746591
 diadems,https://www.wikidata.org/wiki/Q746591
 disc,https://www.wikidata.org/wiki/Q12346540
 discs,https://www.wikidata.org/wiki/Q12346540
 discus,https://www.wikidata.org/wiki/Q1228822
+disk,https://www.wikidata.org/wiki/Q12346540
+disks,https://www.wikidata.org/wiki/Q12346540
 distaff,https://www.wikidata.org/wiki/Q962104
 distaffs,https://www.wikidata.org/wiki/Q962104
 door,https://www.wikidata.org/wiki/Q36794
+doored,https://www.wikidata.org/wiki/Q36794
 doors,https://www.wikidata.org/wiki/Q36794
 "double ax",https://www.wikidata.org/wiki/Q39397
 "double axes",https://www.wikidata.org/wiki/Q39397
@@ -185,6 +217,7 @@ doors,https://www.wikidata.org/wiki/Q36794
 "double chitons",https://www.wikidata.org/wiki/Q944031
 "double spear",https://www.wikidata.org/wiki/Q44475
 "double spears",https://www.wikidata.org/wiki/Q44475
+draped,https://www.wikidata.org/wiki/Q19708955
 draperies,https://www.wikidata.org/wiki/Q3039121
 drapery,https://www.wikidata.org/wiki/Q3039121
 drum,https://www.wikidata.org/wiki/Q11404
@@ -196,8 +229,18 @@ earring,https://www.wikidata.org/wiki/Q168456
 earrings,https://www.wikidata.org/wiki/Q168456
 ensign,https://www.wikidata.org/wiki/Q19912730
 ensigns,https://www.wikidata.org/wiki/Q19912730
+enthroned,https://www.wikidata.org/wiki/Q189233
+eye,https://www.wikidata.org/wiki/Q7364
+eyes,https://www.wikidata.org/wiki/Q7364
+falcata,https://www.wikidata.org/wiki/Q1059687
+feather,https://www.wikidata.org/wiki/Q81025
+feathered,https://www.wikidata.org/wiki/Q81025
+feathers,https://www.wikidata.org/wiki/Q81025
+feet,https://www.wikidata.org/wiki/Q15807
+"fibula ",https://www.wikidata.org/wiki/Q324926
 fillet,https://www.wikidata.org/wiki/Q5448807
 fillets,https://www.wikidata.org/wiki/Q5448807
+foot,https://www.wikidata.org/wiki/Q15807
 footrest,https://www.wikidata.org/wiki/Q14973416
 footrests,https://www.wikidata.org/wiki/Q14973416
 forepart,https://www.wikidata.org/wiki/Q2113757
@@ -206,6 +249,7 @@ foreparts,https://www.wikidata.org/wiki/Q2113757
 galley,https://www.wikidata.org/wiki/Q188924
 galleys,https://www.wikidata.org/wiki/Q188924
 garland,https://www.wikidata.org/wiki/Q756600
+garlanded,https://www.wikidata.org/wiki/Q756600
 garlands,https://www.wikidata.org/wiki/Q756600
 garment,https://www.wikidata.org/wiki/Q11460
 garments,https://www.wikidata.org/wiki/Q11460
@@ -219,11 +263,21 @@ gold,https://www.wikidata.org/wiki/Q897
 gorgon,https://www.wikidata.org/wiki/Q1161687
 gorgoneia,https://www.wikidata.org/wiki/Q1161687
 gorgoneion,https://www.wikidata.org/wiki/Q1161687
+hair,https://www.wikidata.org/wiki/Q28472
 "hair band",https://www.wikidata.org/wiki/Q934849
 "hair bunch",https://www.wikidata.org/wiki/Q28472
 "hair bunches",https://www.wikidata.org/wiki/Q28472
 "hair knot",https://www.wikidata.org/wiki/Q28472
 "hair knots",https://www.wikidata.org/wiki/Q28472
+hairs,https://www.wikidata.org/wiki/Q28472
+hammer,https://www.wikidata.org/wiki/Q25294
+hammers,https://www.wikidata.org/wiki/Q25294
+hand,https://www.wikidata.org/wiki/Q33767
+handle,https://www.wikidata.org/wiki/Q200266
+handles,https://www.wikidata.org/wiki/Q200266
+hands,https://www.wikidata.org/wiki/Q33767
+hat,https://www.wikidata.org/wiki/Q80151
+hats,https://www.wikidata.org/wiki/Q80151
 head,https://www.wikidata.org/wiki/Q23640
 headband,https://www.wikidata.org/wiki/Q934849
 headbands,https://www.wikidata.org/wiki/Q934849
@@ -232,6 +286,7 @@ headresses,https://www.wikidata.org/wiki/Q14952
 heads,https://www.wikidata.org/wiki/Q23640
 helm,https://www.wikidata.org/wiki/Q173603
 helmet,https://www.wikidata.org/wiki/Q173603
+helmeted,https://www.wikidata.org/wiki/Q173603
 helmets,https://www.wikidata.org/wiki/Q173603
 herm,https://www.wikidata.org/wiki/Q376693
 herma,https://www.wikidata.org/wiki/Q376693
@@ -239,8 +294,13 @@ himatia,https://www.wikidata.org/wiki/Q781731
 himation,https://www.wikidata.org/wiki/Q781731
 hook,https://www.wikidata.org/wiki/Q4243098
 hooks,https://www.wikidata.org/wiki/Q4243098
+horn,https://www.wikidata.org/wiki/Q82025
+horns,https://www.wikidata.org/wiki/Q82025
 hydria,https://www.wikidata.org/wiki/Q745783
 hydriai,https://www.wikidata.org/wiki/Q745783
+ínfulas,https://www.wikidata.org/wiki/Q1454931
+ingot,https://www.wikidata.org/wiki/Q83893
+ingots,https://www.wikidata.org/wiki/Q83893
 "ivy leaf",https://www.wikidata.org/wiki/Q26354
 "ivy leaves",https://www.wikidata.org/wiki/Q26354
 "ivy wreath",https://www.wikidata.org/wiki/Q41977532
@@ -252,17 +312,26 @@ javelins,https://www.wikidata.org/wiki/Q3757641
 jaw,https://www.wikidata.org/wiki/Q180284
 jaws,https://www.wikidata.org/wiki/Q180284
 jug,https://www.wikidata.org/wiki/Q1207302
+jugs,https://www.wikidata.org/wiki/Q1207302
 kalathoi,https://www.wikidata.org/wiki/Q492461
 kalathos,https://www.wikidata.org/wiki/Q492461
 kantharoi,https://www.wikidata.org/wiki/Q755706
 kantharos,https://www.wikidata.org/wiki/Q755706
+kausia,https://www.wikidata.org/wiki/Q525651
 kerykeion,https://www.wikidata.org/wiki/Q238577
+kilt,https://www.wikidata.org/wiki/Q2160801
+kilts,https://www.wikidata.org/wiki/Q2160801
 kithara,https://www.wikidata.org/wiki/Q12634515
 kitharai,https://www.wikidata.org/wiki/Q12634515
 klinai,https://www.wikidata.org/wiki/Q922892
 kline,https://www.wikidata.org/wiki/Q922892
 knee,https://www.wikidata.org/wiki/Q37425
 knees,https://www.wikidata.org/wiki/Q37425
+knife,https://www.wikidata.org/wiki/Q32489
+knifes,https://www.wikidata.org/wiki/Q32489
+knot,https://www.wikidata.org/wiki/Q527395
+knots,https://www.wikidata.org/wiki/Q527395
+knotted,https://www.wikidata.org/wiki/Q527395
 krater,https://www.wikidata.org/wiki/Q476968
 kraters,https://www.wikidata.org/wiki/Q476968
 krepidoma,https://www.wikidata.org/wiki/Q743919
@@ -270,19 +339,32 @@ krepis,https://www.wikidata.org/wiki/Q743919
 kyrbasia,https://www.wikidata.org/wiki/Q110127911
 ladder,https://www.wikidata.org/wiki/Q168639
 ladders,https://www.wikidata.org/wiki/Q168639
+lamp,https://www.wikidata.org/wiki/Q1138737
+lamps,https://www.wikidata.org/wiki/Q1138737
 lance,https://www.wikidata.org/wiki/Q2003053
 lances,https://www.wikidata.org/wiki/Q2003053
+lappet,https://www.wikidata.org/wiki/Q1454931
+lappets,https://www.wikidata.org/wiki/Q1454931
+laureate,https://www.wikidata.org/wiki/Q1201922
 "laurel branch",https://www.wikidata.org/wiki/Q62382636
 "laurel branches",https://www.wikidata.org/wiki/Q62382636
 "laurel wreath",https://www.wikidata.org/wiki/Q734844
 "laurel wreaths",https://www.wikidata.org/wiki/Q734844
 leash,https://www.wikidata.org/wiki/Q384873
 leashes,https://www.wikidata.org/wiki/Q384873
+lightning,https://www.wikidata.org/wiki/Q2794866
 "lion skin",https://www.wikidata.org/wiki/Q19295193
 "lion skins",https://www.wikidata.org/wiki/Q19295193
+lionskin,https://www.wikidata.org/wiki/Q19295193
+lionskins,https://www.wikidata.org/wiki/Q19295193
 lituus,https://www.wikidata.org/wiki/Q1553522
 lyre,https://www.wikidata.org/wiki/Q201129
 lyres,https://www.wikidata.org/wiki/Q201129
+mace,https://www.wikidata.org/wiki/Q272990
+maces,https://www.wikidata.org/wiki/Q272990
+mane,https://www.wikidata.org/wiki/Q263661
+mantle,https://www.wikidata.org/wiki/Q6752131
+mantles,https://www.wikidata.org/wiki/Q6752131
 mappa,http://www.dbis.cs.uni-frankfurt.de/cnt/id/mappa_object
 mappae,http://www.dbis.cs.uni-frankfurt.de/cnt/id/mappa_object
 mattock,https://www.wikidata.org/wiki/Q8193873
@@ -298,6 +380,8 @@ mouth,https://www.wikidata.org/wiki/Q9635
 mouths,https://www.wikidata.org/wiki/Q9635
 "mural crown",https://www.wikidata.org/wiki/Q429340
 "mural crowns",https://www.wikidata.org/wiki/Q429340
+nape,https://www.wikidata.org/wiki/Q374727
+napes,https://www.wikidata.org/wiki/Q374727
 "naval ram",https://www.wikidata.org/wiki/Q778702
 "naval rams",https://www.wikidata.org/wiki/Q778702
 necklace,https://www.wikidata.org/wiki/Q189299
@@ -320,6 +404,7 @@ omphalos,https://www.wikidata.org/wiki/Q761739
 ore,https://www.wikidata.org/wiki/Q102798
 ores,https://www.wikidata.org/wiki/Q102798
 ornament,https://www.wikidata.org/wiki/Q335261
+ornamented,https://www.wikidata.org/wiki/Q335261
 ornaments,https://www.wikidata.org/wiki/Q335261
 palladia,https://www.wikidata.org/wiki/Q829650
 palladium,https://www.wikidata.org/wiki/Q829650
@@ -341,6 +426,7 @@ pellet,https://www.wikidata.org/wiki/Q60434742
 pellets,https://www.wikidata.org/wiki/Q60434742
 pelta,https://www.wikidata.org/wiki/Q1460115
 peltae,https://www.wikidata.org/wiki/Q1460115
+pendant,https://www.wikidata.org/wiki/Q2111434
 petasi,https://www.wikidata.org/wiki/Q910792
 petasoi,https://www.wikidata.org/wiki/Q910792
 petasos,https://www.wikidata.org/wiki/Q910792
@@ -348,6 +434,8 @@ petasus,https://www.wikidata.org/wiki/Q910792
 phalli,https://www.wikidata.org/wiki/Q168552
 phallus,https://www.wikidata.org/wiki/Q168552
 pileus,https://www.wikidata.org/wiki/Q1778772
+pillar,https://www.wikidata.org/wiki/Q4817
+pillared,https://www.wikidata.org/wiki/Q4817
 piloi,https://www.wikidata.org/wiki/Q1778772
 pilos,https://www.wikidata.org/wiki/Q1778772
 pincer,https://www.wikidata.org/wiki/Q840979
@@ -357,8 +445,11 @@ platforms,https://www.wikidata.org/wiki/Q22079390
 plectra,https://www.wikidata.org/wiki/Q181890
 plectrum,https://www.wikidata.org/wiki/Q181890
 plinth,https://www.wikidata.org/wiki/Q268205
+plough,https://www.wikidata.org/wiki/Q11464
+ploughs,https://www.wikidata.org/wiki/Q11464
 plow,https://www.wikidata.org/wiki/Q11464
 plows,https://www.wikidata.org/wiki/Q11464
+plumed,https://www.wikidata.org/wiki/Q81025
 poloi,https://www.wikidata.org/wiki/Q2067714
 polos,https://www.wikidata.org/wiki/Q2067714
 pot,https://www.wikidata.org/wiki/Q3399907
@@ -371,6 +462,7 @@ pots,https://www.wikidata.org/wiki/Q3399907
 "prize crowns",http://www.dbis.cs.uni-frankfurt.de/cnt/id/prize_crown_object
 prora,https://www.wikidata.org/wiki/Q4814120
 prorae,https://www.wikidata.org/wiki/Q4814120
+protome,https://www.wikidata.org/wiki/Q2113757
 prow,https://www.wikidata.org/wiki/Q4814120
 prows,https://www.wikidata.org/wiki/Q4814120
 purse,https://www.wikidata.org/wiki/Q131740
@@ -384,6 +476,8 @@ quivers,https://www.wikidata.org/wiki/Q222560
 radiate,https://www.wikidata.org/wiki/Q17077242
 "radiate crown",https://www.wikidata.org/wiki/Q17077242
 "radiate crowns",https://www.wikidata.org/wiki/Q17077242
+ray,https://www.wikidata.org/wiki/Q633620
+rays,https://www.wikidata.org/wiki/Q633620
 rein,https://www.wikidata.org/wiki/Q2196000
 reins,https://www.wikidata.org/wiki/Q2196000
 rhyta,https://www.wikidata.org/wiki/Q828450
@@ -409,6 +503,7 @@ sandals,https://www.wikidata.org/wiki/Q131704
 scale,https://www.wikidata.org/wiki/Q188488
 "scale cuirass",https://www.wikidata.org/wiki/Q574602
 "scale cuirasses",https://www.wikidata.org/wiki/Q574602
+scaled,https://www.wikidata.org/wiki/Q188488
 scales,https://www.wikidata.org/wiki/Q134566
 scepter,https://www.wikidata.org/wiki/Q152065
 scepters,https://www.wikidata.org/wiki/Q152065
@@ -419,9 +514,12 @@ scrolls,https://www.wikidata.org/wiki/Q720106
 "serpent staff",https://www.wikidata.org/wiki/Q223377
 "serpent staffs",https://www.wikidata.org/wiki/Q223377
 shield,https://www.wikidata.org/wiki/Q131559
+"shield boss",https://www.wikidata.org/wiki/Q721086
 shields,https://www.wikidata.org/wiki/Q131559
 ship,https://www.wikidata.org/wiki/Q11446
 ships,https://www.wikidata.org/wiki/Q11446
+shoulder,https://www.wikidata.org/wiki/Q16363
+shoulders,https://www.wikidata.org/wiki/Q16363
 shrine,https://www.wikidata.org/wiki/Q697295
 shrines,https://www.wikidata.org/wiki/Q697295
 sickle,https://www.wikidata.org/wiki/Q42233
@@ -434,8 +532,14 @@ sistra,https://www.wikidata.org/wiki/Q426948
 sistrum,https://www.wikidata.org/wiki/Q426948
 situla,https://www.wikidata.org/wiki/Q1650313
 situlae,https://www.wikidata.org/wiki/Q1650313
+skirt,https://www.wikidata.org/wiki/Q2160801
+skirts,https://www.wikidata.org/wiki/Q2160801
 spear,https://www.wikidata.org/wiki/Q44475
+spearhead,https://www.wikidata.org/wiki/Q44475
+spearheads,https://www.wikidata.org/wiki/Q44475
 spears,https://www.wikidata.org/wiki/Q44475
+spoke,https://www.wikidata.org/wiki/Q845671
+spokes,https://www.wikidata.org/wiki/Q845671
 sprinkler,http://www.dbis.cs.uni-frankfurt.de/cnt/id/sprinkler_object
 sprinklers,http://www.dbis.cs.uni-frankfurt.de/cnt/id/sprinkler_object
 staff,https://www.wikidata.org/wiki/Q10971443
@@ -496,8 +600,12 @@ thyrsoi,https://www.wikidata.org/wiki/Q536850
 thyrsos,https://www.wikidata.org/wiki/Q536850
 thyrsus,https://www.wikidata.org/wiki/Q536850
 tiara,https://www.wikidata.org/wiki/Q749249
+tiaraed,https://www.wikidata.org/wiki/Q749249
 toga,https://www.wikidata.org/wiki/Q183171
 togae,https://www.wikidata.org/wiki/Q183171
+tongs,https://www.wikidata.org/wiki/Q840979
+tongue,https://www.wikidata.org/wiki/Q9614
+tongues,https://www.wikidata.org/wiki/Q9614
 torch,https://www.wikidata.org/wiki/Q327954
 torches,https://www.wikidata.org/wiki/Q327954
 tower,https://www.wikidata.org/wiki/Q12518
@@ -518,14 +626,18 @@ trophies,https://www.wikidata.org/wiki/Q381165
 trophy,https://www.wikidata.org/wiki/Q381165
 tunic,https://www.wikidata.org/wiki/Q201714
 tunica,https://www.wikidata.org/wiki/Q201714
+turban,https://www.wikidata.org/wiki/Q2460567
+turreted,https://www.wikidata.org/wiki/Q12518
 tympana,https://www.wikidata.org/wiki/Q386382
 tympanon,https://www.wikidata.org/wiki/Q386382
 tympanum,https://www.wikidata.org/wiki/Q386382
+umbo,https://www.wikidata.org/wiki/Q721086
 urn,https://www.wikidata.org/wiki/Q11083119
 urns,https://www.wikidata.org/wiki/Q11083119
 vase,https://www.wikidata.org/wiki/Q191851
 vases,https://www.wikidata.org/wiki/Q191851
 veil,https://www.wikidata.org/wiki/Q6497446
+veiled,https://www.wikidata.org/wiki/Q6497446
 veils,https://www.wikidata.org/wiki/Q6497446
 vessel,https://www.wikidata.org/wiki/Q987767
 vessels,https://www.wikidata.org/wiki/Q987767
@@ -537,6 +649,8 @@ wand,https://www.wikidata.org/wiki/Q148493
 wands,https://www.wikidata.org/wiki/Q148493
 "water urn",http://www.dbis.cs.uni-frankfurt.de/cnt/id/water_urn_object
 "water urns",http://www.dbis.cs.uni-frankfurt.de/cnt/id/water_urn_object
+wave,https://www.wikidata.org/wiki/Q165848
+waves,https://www.wikidata.org/wiki/Q165848
 weapon,https://www.wikidata.org/wiki/Q728
 weapons,https://www.wikidata.org/wiki/Q728
 wheel,https://www.wikidata.org/wiki/Q446
@@ -547,7 +661,12 @@ whips,https://www.wikidata.org/wiki/Q152910
 "winer skins",https://www.wikidata.org/wiki/Q21094365
 wineskin,https://www.wikidata.org/wiki/Q21094365
 wineskins,https://www.wikidata.org/wiki/Q21094365
+wing,https://www.wikidata.org/wiki/Q161358
+winged,https://www.wikidata.org/wiki/Q161358
+wings,https://www.wikidata.org/wiki/Q161358
 wreath,https://www.wikidata.org/wiki/Q1201922
+wreathed,https://www.wikidata.org/wiki/Q1201922
 wreaths,https://www.wikidata.org/wiki/Q1201922
 zodiac,https://www.wikidata.org/wiki/Q40540
 zodiacs,https://www.wikidata.org/wiki/Q40540
+zodiacus,https://www.wikidata.org/wiki/Q40540

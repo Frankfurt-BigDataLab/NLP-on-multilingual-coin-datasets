@@ -305,7 +305,7 @@ class RelationExtractor(BaseEstimator, ClassifierMixin):
                 label = dict_of_annotations.get((feature.subj.text, feature.obj.text), self.NONEXISTINGRELATION)
                 y_for_classification.append(label)
                 X_features.append(feature)
-
+ 
         self.pipeline.fit(X_features, y_for_classification)
         return self
 
@@ -342,10 +342,10 @@ class RelationExtractor(BaseEstimator, ClassifierMixin):
 
         return prediction
 
-def predict_re_single_sentence(model, sentence):
+def predict_re_single_sentence(model, sentence, id_col, design_col):
     import pandas as pd
-    df = pd.DataFrame(columns=["DesignID","Design"])
-    df = df.append({"DesignID":0,"Design":sentence}, ignore_index=True)
+    df = pd.DataFrame(columns=[id_col, design_col])
+    df = df._append({id_col:0,design_col:sentence}, ignore_index=True)
     y_pred = model.predict(df)
     y_pred = y_pred["y"].item()
     return y_pred
@@ -357,3 +357,47 @@ def load_pipeline(model_dir, model_name):
     file = open(model_dir+model_name, "rb")
     return pickle.load(file)
 
+def relations_from_adjectives_df(df, design_column, pred_column, ner_model_directory, ner_model_name, id_col, design_col, obj_list, entities_to_consider=["PERSON"]):
+    # loads NER model and generates relations from adjectives like "veiled", "cuirassed"...
+    NER = load_ner_model_v2(ner_model_directory, ner_model_name, id_col, design_col)
+    
+    df[pred_column] = df.apply(lambda row: row[pred_column]+create_auto_re(row[design_column], NER, obj_list), axis=1)
+    return df
+
+def relations_from_adjectives_single(design, ner_model_directory, ner_model_name, id_col, design_col, obj_list, entities_to_consider=["PERSON"]):
+    # loads NER model and generates relations from adjectives like "veiled", "cuirassed"...
+    NER = load_ner_model_v2(ner_model_directory, ner_model_name, id_col, design_col)
+    return create_auto_re(design, NER, obj_list, entities_to_consider)
+
+def create_auto_re(design, ner_model, obj_list, entities_to_consider=["PERSON"]):
+    ner = ner_model.predict_single_sentence(design)
+    design = design.lower() # to avoid a miss in case of a typo
+    ner = [x for x in ner if x[2] in entities_to_consider] # Filter entitie classes
+    relations = []    
+    for adj in obj_list.keys(): # for all adjectives in the database
+        
+        if obj_list[adj][2] == "after":
+            for ent in range(len(ner)):
+                entity = ner[ent]
+                start = ner[ent][1]
+                if ent+1 == len(ner):
+                    end = len(design)
+                else:
+                    end = ner[ent+1][0]
+                    
+                if adj.lower() in design[start:end]:
+                    relations.append((design[entity[0]:entity[1]].capitalize(), "PERSON", obj_list[adj][0], obj_list[adj][1], "OBJECT"))
+                start = entity[1]
+        
+        else:
+            
+            start = 0
+            for entity in ner:
+                end = entity[0]
+                if adj.lower() in design[start:end]:
+                    relations.append((design[entity[0]:entity[1]].capitalize(), "PERSON", obj_list[adj][0], obj_list[adj][1], "OBJECT"))
+                start = entity[1]
+    return relations
+
+def concat_relations(auto_relations, model_relations):
+    return auto_relations+model_relations

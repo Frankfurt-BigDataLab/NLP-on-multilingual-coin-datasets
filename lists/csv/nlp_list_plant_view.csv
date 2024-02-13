@@ -1,4 +1,5 @@
 value,link
+acorn,https://www.wikidata.org/wiki/Q3914781
 apple,https://www.wikidata.org/wiki/Q89
 "apple tree",https://www.wikidata.org/wiki/Q60458657
 "apple trees",https://www.wikidata.org/wiki/Q60458657
@@ -43,6 +44,7 @@ olives,https://www.wikidata.org/wiki/Q37083
 palm,https://www.wikidata.org/wiki/Q2709536
 "palm branch",https://www.wikidata.org/wiki/Q2923673
 "palm branches",https://www.wikidata.org/wiki/Q2923673
+"palm leaf",https://www.wikidata.org/wiki/Q2709536
 "palm tree",https://www.wikidata.org/wiki/Q2709536
 "palm trees",https://www.wikidata.org/wiki/Q2709536
 palmette,https://www.wikidata.org/wiki/Q677655
@@ -69,7 +71,10 @@ tree,https://www.wikidata.org/wiki/Q10884
 "tree branch",https://www.wikidata.org/wiki/Q2923673
 "tree branches",https://www.wikidata.org/wiki/Q2923673
 trees,https://www.wikidata.org/wiki/Q10884
+trunk,https://www.wikidata.org/wiki/Q811646
+trunks,https://www.wikidata.org/wiki/Q811646
 vine,https://www.wikidata.org/wiki/Q917284
 vines,https://www.wikidata.org/wiki/Q917284
+wheat,https://www.wikidata.org/wiki/Q3966720
 "wheat ear",https://www.wikidata.org/wiki/Q3966720
 "wheat ears",https://www.wikidata.org/wiki/Q3966720
