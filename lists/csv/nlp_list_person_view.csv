@@ -1,6 +1,4 @@
 value,link
-58396,https://www.britishmuseum.org/collection/term/BIOG58396
-60208,https://www.britishmuseum.org/collection/term/BIOG60208
 Abundantia,http://thesauri.dainst.org/de/labels/_2954_dda8d5222699ed48bac6170d657ff3c3-l7.html
 Actaeon,https://www.wikidata.org/wiki/Q208531
 aelia_eudoxia,http://nomisma.org/id/aelia_eudoxia
@@ -53,7 +51,6 @@ Apollo,https://www.britishmuseum.org/collection/term/BIOG56988
 "Apollo Sauroctonos",https://www.britishmuseum.org/collection/term/BIOG56988
 "Apollo Smintheus",https://www.britishmuseum.org/collection/term/BIOG56988
 Apollon,https://www.wikidata.org/wiki/Q37340
-"Apollon Keraunos",https://www.wikidata.org/wiki/Q37340
 "Apollon Kitharoedus",https://www.britishmuseum.org/collection/term/BIOG56988
 Arabia,http://thesauri.dainst.org/de/labels/_2731_265120e5b65f1ec509c5f8a8dd96cf9d-l21.html
 Arcadius,http://nomisma.org/id/arcadius
@@ -67,6 +64,7 @@ Artemis,https://www.wikidata.org/wiki/Q39503
 "Artemis Ephesia",https://www.wikidata.org/wiki/Q39503
 "Artemis of Ephesus",https://www.wikidata.org/wiki/Q39503
 "Artemis Phosphoros",https://www.wikidata.org/wiki/Q39503
+"Artemis Phosphorus",https://www.wikidata.org/wiki/Q39503
 "Artemis Tauropolos",https://www.wikidata.org/wiki/Q39503
 Ascanius,https://www.britishmuseum.org/collection/term/BIOG57048
 Asclepius,https://www.britishmuseum.org/collection/term/BIOG57049
@@ -85,6 +83,7 @@ Balbinus,http://nomisma.org/id/balbinus
 barbarian,https://www.wikidata.org/wiki/Q134313
 barbarians,https://www.wikidata.org/wiki/Q134313
 Basiliscus,http://nomisma.org/id/basiliscus
+Bes,https://www.wikidata.org/wiki/Q188931
 Bithynia,http://thesauri.dainst.org/de/labels/_3640_66ed69bd8784ee81aecb0966431b3202-l155.html
 "Bona Mens",https://www.wikidata.org/wiki/Q1133048
 "Bonus Eventus",https://www.britishmuseum.org/collection/term/BIOG57291
@@ -179,6 +178,7 @@ Dionysos,https://www.wikidata.org/wiki/Q41680
 Dionysus,https://www.wikidata.org/wiki/Q41680
 Dioscur,https://www.wikidata.org/wiki/Q190103
 Dioscuri,https://www.wikidata.org/wiki/Q190103
+Dioscuros,https://www.wikidata.org/wiki/Q190103
 "Diva Sabina",http://nomisma.org/id/sabina
 "Divus Trajan",http://nomisma.org/id/trajan
 "Divus Vespasian",http://nomisma.org/id/vespasian
@@ -221,6 +221,10 @@ females,https://www.wikidata.org/wiki/Q467
 "Fides Militum",https://www.britishmuseum.org/collection/term/BIOG69305
 figure,https://www.wikidata.org/wiki/Q29527347
 figures,https://www.wikidata.org/wiki/Q29527347
+fisher,https://www.wikidata.org/wiki/Q331432
+fisherman,https://www.wikidata.org/wiki/Q331432
+fishermen,https://www.wikidata.org/wiki/Q331432
+fishers,https://www.wikidata.org/wiki/Q331432
 "Flavius Marcus",http://nomisma.org/id/flavius_marcus
 flavius_marcus,http://nomisma.org/id/flavius_marcus
 Florian,http://nomisma.org/id/florianus
@@ -257,9 +261,12 @@ Gordian,http://nomisma.org/id/gordian_iii
 "Gordian III",http://nomisma.org/id/gordian_iii
 gordian_iii,http://nomisma.org/id/gordian_iii
 Gorgo,https://www.britishmuseum.org/collection/term/BIOG70550
+Gorgon,https://www.britishmuseum.org/collection/term/BIOG70550
+Gorgons,https://www.britishmuseum.org/collection/term/BIOG70550
 Goth,https://www.wikidata.org/wiki/Q42193
 Gratian,http://nomisma.org/id/gratian
 "Great God",http://thesauri.dainst.org/de/concepts/_3929_2ac4ceb5842ab7b3d2cd7212caf82df5.html
+guide,https://www.wikidata.org/wiki/Q14290559
 Hades,https://www.wikidata.org/wiki/Q41410
 Hades-Serapis,https://www.wikidata.org/wiki/Q41410
 Hadrian,http://nomisma.org/id/hadrian
@@ -272,6 +279,7 @@ Hekate,https://www.britishmuseum.org/collection/term/BIOG58608
 Helena,http://nomisma.org/id/helena
 Helios,https://www.britishmuseum.org/collection/term/BIOG58616
 Helle,https://www.wikidata.org/wiki/Q638578
+helmsman,https://www.wikidata.org/wiki/Q2309900
 Hephaestos,https://www.wikidata.org/wiki/Q44384
 Hephaestus,https://www.wikidata.org/wiki/Q44384
 Hephaistus,https://www.wikidata.org/wiki/Q44384
@@ -294,6 +302,7 @@ Homonoia,https://www.wikidata.org/wiki/Q5891490
 Honorius,http://nomisma.org/id/honorius
 Honos,https://www.wikidata.org/wiki/Q290298
 Hostilian,http://nomisma.org/id/hostilian
+human,https://www.wikidata.org/wiki/Q5
 Hygieia,https://www.britishmuseum.org/collection/term/BIOG58668
 Ianus,https://www.wikidata.org/wiki/Q167685
 Indulgentia,http://www.dbis.cs.uni-frankfurt.de/cnt/id/Indulgentia_person
@@ -417,7 +426,9 @@ maximinus_daia,http://nomisma.org/id/maximinus_daia
 maximinus_thrax,http://nomisma.org/id/maximinus_thrax
 Maximus,http://nomisma.org/id/gaius_julius_verus_maximus
 Medusa,https://www.britishmuseum.org/collection/term/BIOG59294
+Melqart,https://www.britishmuseum.org/collection/term/BIOG58628
 Melsas,http://www.dbis.cs.uni-frankfurt.de/cnt/id/melsas_person
+men,https://www.wikidata.org/wiki/Q8441
 Mens,https://www.wikidata.org/wiki/Q1133048
 "Mens Bona",https://www.wikidata.org/wiki/Q1133048
 Mercury,https://www.wikidata.org/wiki/Q1150
@@ -545,6 +556,7 @@ Roma,https://www.britishmuseum.org/collection/term/BIOG60208
 Romulus,https://www.britishmuseum.org/collection/term/BIOG60209
 "Romulus Augustulus",http://nomisma.org/id/romulus_augustulus
 romulus_augustulus,http://nomisma.org/id/romulus_augustulus
+Rudergänger,https://www.wikidata.org/wiki/Q2309900
 Sabina,http://nomisma.org/id/sabina
 sabinia_tranquillina,http://nomisma.org/id/sabinia_tranquillina
 "Sabinus Julianus",http://nomisma.org/id/sabinus_julianus
@@ -686,6 +698,8 @@ youths,https://www.wikidata.org/wiki/Q190007
 Zeno,http://nomisma.org/id/zeno
 "Zeno the Isaurian",http://nomisma.org/id/zeno
 Zeus,https://www.wikidata.org/wiki/Q34201
-"Zeus Aëtophoros",https://www.wikidata.org/wiki/Q34201
+"Zeus (Aëtophoros)",http://www.dbis.cs.uni-frankfurt.de/cnt/id/ZeusAëtophoros_person
+"Zeus Aëtophoros",http://www.dbis.cs.uni-frankfurt.de/cnt/id/ZeusAëtophoros_person
+"Zeus Ammon",https://www.wikidata.org/wiki/Q34201
 "Zeus Epikarpios",https://www.wikidata.org/wiki/Q34201
 "Zeus Keraunos",https://www.wikidata.org/wiki/Q34201
