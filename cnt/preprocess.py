@@ -1,6 +1,6 @@
 import pandas as pd
 import re
-
+import pickle
 
 
 class Preprocess():
@@ -10,35 +10,39 @@ class Preprocess():
 		self.rules_applied = {}
 
 	def add_rule(self, original, preprocessed):
+		# add rule - at the moment its only a simple replace operation
 		self.rules[original] = preprocessed
 
 	def preprocess_design(self, design, id):
+		# check which entitie exists in the defined rules
 		for preprocessed in self.rules:
 			if preprocessed in design:
 				if id in self.rules_applied:
-					self.rules_applied[id].append(preprocessed)
+					self.rules_applied[id].append(preprocessed) # add applied rule
 				else:
 					self.rules_applied[id] = []
-					self.rules_applied[id].append(preprocessed)
+					self.rules_applied[id].append(preprocessed) # add applied rule if it is the first one applied
 
-			design = design.replace(preprocessed, self.rules[preprocessed])
+			design = design.replace(preprocessed, self.rules[preprocessed]) # do a simple replace operation
 
 		return design
 
 	def map_back_design(self, design, id):
+		# check which rules where applied and replace back
 		rules_applied = self.rules_applied[id]
 		for preprocessed in rules_applied:
-			design = design.replace(self.rules[preprocessed], preprocessed)
+			design = design.replace(self.rules[preprocessed], preprocessed) 
 
 		return design
 
 	def map_result_ner(self, design, result, id):
-
+		# map back ner results and find original indizes
 		mapped = []
 		rules_applied = self.rules_applied[id]
 		local_rules = {}
 		for i in rules_applied:
 			local_rules[self.rules[i]] = i
+
 		to_map = []
 		label = {}
 		for res in result:
@@ -57,3 +61,21 @@ class Preprocess():
 
 
 		return mapped
+
+
+	def save_applied_rules(self, rules_file="rules_defined.pickle", rules_applied_file="rules_applied.picke"):
+		filehandler = open(rules_applied_file,"wb")
+		pickle.dump(self.rules_applied,filehandler)
+		filehandler.close()
+
+		filehandler = open(rules_file,"wb")
+		pickle.dump(self.rules,filehandler)
+		filehandler.close()
+
+	def load_applied_rules(self, rules_file="rules_defined.pickle", rules_applied_file="rules_applied.picke"):
+		file = open(rules_applied_file,'rb')
+		self.rules_applied = pickle.load(file)
+		file.close()
+		file = open(rules_file,'rb')
+		self.rules = pickle.load(file)
+		file.close()

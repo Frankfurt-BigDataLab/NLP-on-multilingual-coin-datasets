@@ -71,7 +71,7 @@ class Database_Connection():
 
 
     def preprocess_entities(self, entities):
-        entities = [entity.strip() for entity in entities]
+        entities = [str(entity).strip() for entity in entities if entity !=None]
         entities = [entity for entity in entities if len(entity) > 0]
         capitalized_entities = [entity.capitalize() for entity in entities]
         entities += capitalized_entities
