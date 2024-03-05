@@ -1,3 +1,6 @@
+# This code has been developed by Chrisowalandis Deligio and Sebastian Gampe.
+
+
 import pandas as pd
 import re
 import pickle
@@ -10,11 +13,11 @@ class Preprocess():
         self.rules_applied = {}
 
     def add_rule(self, original, preprocessed):
-        # add rule - at the moment its only a simple replace operation
+        # add rules for preprocessing
         self.rules[original] = preprocessed
 
     def preprocess_design_old(self, design, id):
-        # check which entitie exists in the defined rules
+        # check which entities exists in the defined rules
         for preprocessed in self.rules:
             if preprocessed in design:
                 if id in self.rules_applied:
@@ -49,7 +52,6 @@ class Preprocess():
         rules_applied = reversed(rules_applied)
         for preprocessed in rules_applied:
             design = re.sub(r"\b%s\b" %self.rules[preprocessed], preprocessed, design, flags=re.IGNORECASE)
-            #design = design.replace(self.rules[preprocessed], preprocessed) 
         if design[0].islower():
             design = design[0].upper() + design[1:]
         return design
@@ -96,7 +98,6 @@ class Preprocess():
 
             design = self.map_back_design(design, id)
             regex = r'\b' + '(' + "|".join(to_map) + ')' + r'\b'
-            #print(regex)
             occurences = re.finditer(regex, design, flags=re.IGNORECASE)
             for match in occurences:
                 # Check if normal entities are available in dict
@@ -106,7 +107,6 @@ class Preprocess():
                 if design[match.start():match.end()] in map_combined_label.keys():
                     mapped.append((match.start(), match.end(), map_combined_label[design[match.start():match.end()]][0]))
                     mapped.append((match.start(), match.end(), map_combined_label[design[match.start():match.end()]][1]))
-            #mapped = [(match.start(), match.end(), label[design[match.start():match.end()]]) for match in occurences]
 
             return mapped
 
