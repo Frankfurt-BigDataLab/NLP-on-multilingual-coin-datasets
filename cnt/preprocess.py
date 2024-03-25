@@ -14,8 +14,7 @@ class Preprocess():
 
     def add_rule(self, original, preprocessed):
         # add rules for preprocessing
-        if (original != ""):
-            self.rules[original] = preprocessed
+        self.rules[original] = preprocessed
 
     def preprocess_design_old(self, design, id):
         # check which entities exists in the defined rules
@@ -33,7 +32,7 @@ class Preprocess():
     
     def preprocess_design(self, design, id):
         # check which entitie exists in the defined rules
-        
+        #self.rules_applied = {}
         for preprocessed in self.rules:
             if re.search(r"\b%s\b" %preprocessed, design, flags=re.IGNORECASE):
                 if id in self.rules_applied:
@@ -111,38 +110,6 @@ class Preprocess():
 
             return mapped
 
-        
-    # RE functions
-    
-    def preprocess_re(self, annotations, design_id):
-        if design_id in self.rules_applied:
-            for annotation in annotations:
-                annotation = list(annotation)
-                if annotation[0] in self.rules_applied[design_id]:
-                    annotation[0] = self.rules[annotation[0]]
-                if annotation[2] in self.rules_applied[design_id]:
-                    annotation[2] = self.rules[annotation[2]]
-                if annotation[3] in self.rules_applied[design_id]:
-                    annotation[3] = self.rules[annotation[3]]
-                annotation = tuple(annotation)
-        return annotations
-    
-    def map_re(self, predictions, design_id):
-        if design_id in self.rules_applied:
-
-            rules_applied_local = {}
-            for i in self.rules_applied[design_id]:
-                rules_applied_local[self.rules[i]] = i
-            for prediction in predictions:
-                prediction = list(prediction)
-                if prediction[0] in rules_applied_local:
-                    prediction[0] = rules_applied_local[prediction[0]]
-                if prediction[2] in rules_applied_local:
-                    prediction[2] = rules_applied_local[prediction[2]]
-                if prediction[3] in rules_applied_local:
-                    prediction[3] = rules_applied_local[prediction[3]]
-                prediction = tuple(prediction)
-        return predictions
 
     def save_applied_rules(self, rules_file="rules_defined.pickle", rules_applied_file="rules_applied.picke"):
         filehandler = open(rules_applied_file,"wb")

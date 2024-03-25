@@ -13,7 +13,24 @@ class Database_Connection():
         """
         
         self.mysql_connection = mysql_connection
+        
+    def load_from_db(self, table_name, column_list):
+        """
+        input:  table_name: Name of the mysql table
+                column_list: A list containing all columns for the query, example: [ID, Name]
 
+        return: pandas dataframe
+        """
+        select_query = ','.join(map(str, column_list))
+
+        try:
+            table = pd.read_sql_query("select " + select_query + " from " + table_name, self.mysql_connection)
+
+        except:
+             print("SQL query failed.")
+             return
+
+        return table
     def load_designs_from_db(self, table_name, column_list):
         """
         input:  table_name: Name of the mysql table
@@ -116,7 +133,35 @@ class Database_Connection():
                 values += multi_values
 
         return self.preprocess_entities(values)
+    
+    def load_entities_from_db_v2(self, table_name, entity, column_list, columns_multi_entries=[], delimiter="", has_delimiter=False):
+    
+        select_query = ','.join(map(str, column_list))
 
+        try:
+            table = pd.read_sql_query("select " + select_query + " from "+table_name+" where class='"+entity+"'", self.mysql_connection)
+            
+        except:
+            print("SQL query failed.")
+            
+        columns_without_multi = list(set(column_list) - set(columns_multi_entries))
+
+        exists = False
+        values = []
+        for column in columns_without_multi:
+            if exists == False:
+                values += table[column].tolist()
+                exists = True
+            else:
+                values += table[column].tolist()
+    
+        if has_delimiter == True:
+            for multi_column in columns_multi_entries:
+                columns_with_multi = table[multi_column]
+                multi_values = sum(columns_with_multi.fillna("").str.split(delimiter), [])
+                values += multi_values
+
+        return self.preprocess_entities(values)
 
     def preprocess_entities(self, entities):
         entities = [str(entity).strip() for entity in entities if entity !=None]
