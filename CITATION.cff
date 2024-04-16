@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: NLP-on-multilingual-coin-descriptions
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Patricia
+    family-names: Klinger
+  - given-names: Sebastian
+    family-names: Gampe
+    email: gampe@em.uni-frankfurt.de
+    affiliation: Goethe University Frankfurt
+  - given-names: Karsten
+    family-names: Tolle
+    email: K.Tolle@em.uni-frankfurt.de
+    affiliation: Goethe University Frankfurt
+    orcid: 'https://orcid.org/0000-0002-9953-7638'
+  - affiliation: Goethe University Frankfurt
+    given-names: Chrisowalandis
+    family-names: Deligio
+    orcid: 'https://orcid.org/0000-0002-5708-4271'
+  - given-names: Kerim
+    family-names: Gencer
+abstract: >
+  Pipeline to extract named entities and their relation
+  between each other for ancient coin descriptions. 
+
+  Providing:
+
+      /ner/ Named Entity Recognition
+      /re/ Predict Relation Extraction
+      /rdf/ The generation of a RDF representation for NER and RE
+license: CC-BY-NC-SA-3.0
