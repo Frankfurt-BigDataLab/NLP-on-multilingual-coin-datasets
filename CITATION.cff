@@ -8,8 +8,10 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Patricia
-    family-names: Klinger
+  - affiliation: Goethe University Frankfurt
+    given-names: Chrisowalandis
+    family-names: Deligio
+    orcid: 'https://orcid.org/0000-0002-5708-4271'
   - given-names: Sebastian
     family-names: Gampe
     email: gampe@em.uni-frankfurt.de
@@ -19,10 +21,8 @@ authors:
     email: K.Tolle@em.uni-frankfurt.de
     affiliation: Goethe University Frankfurt
     orcid: 'https://orcid.org/0000-0002-9953-7638'
-  - affiliation: Goethe University Frankfurt
-    given-names: Chrisowalandis
-    family-names: Deligio
-    orcid: 'https://orcid.org/0000-0002-5708-4271'
+  - given-names: Patricia
+    family-names: Klinger
   - given-names: Kerim
     family-names: Gencer
 abstract: >
