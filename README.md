@@ -21,7 +21,8 @@ Access relevant information from iconographies of the Corpus Numorum Online usin
 - python          3.8.12
 - pandas          1.3.3 
 - spacy           2.3.7 
-- scikit-learn       0.24.2
+- scikit-learn    0.24.2
+- swifter         1.4.0
 - SQL database
 
 -----------
