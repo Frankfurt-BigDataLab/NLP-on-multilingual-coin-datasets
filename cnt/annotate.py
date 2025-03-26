@@ -124,6 +124,30 @@ def labeling_eng(d, entities):
 
     return X_list, y_list
 
+def labeling_eng_sub_verb(d, entities):
+    """
+    labels the RE Ground Truth
+    :param d: dictionary
+    :return: labeld dictionary
+    """
+
+    X_list = []
+    y_list = []  # for each design a list of (subj, relation_class_label, obj is a relation)
+    for sentence, relations in d.items():
+        X_list.append(sentence)
+        list_of_annotations = []
+        y_list.append(list_of_annotations)
+        for rel in relations:
+            if rel[1] != "":
+                label_rel0 = find_label(rel[0], entities)
+                
+                if (label_rel0 == "None"):
+                    pass
+                else:
+                    list_of_annotations.append((rel[0], label_rel0, rel[1], rel[1], "VERB"))
+
+    return X_list, y_list
+
 def labeling_single_entity(d, entities):
     """
     labels the extension RE Ground Truth

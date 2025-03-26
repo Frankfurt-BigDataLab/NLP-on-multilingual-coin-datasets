@@ -49,7 +49,7 @@ class SingleSentenceTransformerMixin:
 
 
 class NERTransformer(SingleSentenceTransformerMixin, TransformerMixin, BaseEstimator):
-    KEY = "DesignEng"
+    KEY = "Design"
 
     def __init__(self, model_dir, model_name, id_col, design_col):
         self.model_dir= model_dir
@@ -85,15 +85,17 @@ class NERTransformer(SingleSentenceTransformerMixin, TransformerMixin, BaseEstim
 
         sent_subj = []
 
-        my_label_subj = ["PERSON", "OBJECT", "ANIMAL", "PLANT"]
-        my_label_verb = ["VERBS"]
+        my_label_subj = ["PERSON", "OBJECT", "ANIMAL"]
+        #my_label_obj = [ "PERSON", "OBJECT", "ANIMAL", "PLANT"]
+        my_label_obj = ["VERB"]
         doc_list = list(doc.ents)
         for subj in doc_list:
             if subj.label_ in my_label_subj:
                for obj in doc_list:
                     if subj != obj:
-                        if obj.label_ in my_label_verb:
+                        if obj.label_ in my_label_obj:
                             sent_subj.append(NER(doc, subj, obj))
+        #print(sent_subj)
         return sent_subj
 
 def get_verbs(doc):
@@ -184,6 +186,7 @@ class FeatureExtractor(SingleSentenceTransformerMixin, TransformerMixin, BaseEst
         """
         #[ NER(doc=Nackter, bärtige..., subj = Nackter, obj = Herakles),...]
         extracted_paths = []
+        ## problem hier
         for ner in x:
 
             p = path(ner.subj.root, ner.verb.root)
@@ -193,7 +196,8 @@ class FeatureExtractor(SingleSentenceTransformerMixin, TransformerMixin, BaseEst
     def extract_verbs_single_sentence(self, p):
         verbs = []
         for token in p:
-            if token.label_ == "VERBS":
+            #print(token) #löschen
+            if token.label_ == "VERB":
                 verbs.append(token.text)
         return verbs
 

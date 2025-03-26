@@ -299,6 +299,7 @@ class RelationExtractor(BaseEstimator, ClassifierMixin):
         """
         X_features = []
         y_for_classification = []
+        print(X["y"])
         for list_of_features, list_of_annotations in zip(X["y"], y["y"]):
             dict_of_annotations = {(subj, obj): label for subj, _, label, obj, _ in list_of_annotations}
             for feature in list_of_features:
