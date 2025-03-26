@@ -33,6 +33,8 @@ This project is based on a number of theses:
 
 - Kerim Gencer und Chrisowalandis Deligio: [Natural Language Processing auf mehrsprachigen Münzdatensätzen – Untersuchung der Qualität, Datenqualität und Übertragbarkeit auf andere Datensätze](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2021/11/Masterthesis_Deligio_Gencer_DBISOnline.pdf)
 
+- Katrin Peikert: [Optimierung beim Annotieren mehrsprachiger Münzdatensätze im Kontext des Natural Language Processing](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2022/07/Peikert_Katrin_Bachelorarbeit_Informatik_2022_online.pdf)  
+
 -----------
 ## Reference
 - https://www.corpus-nummorum.eu/
